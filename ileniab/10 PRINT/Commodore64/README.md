@@ -1,4 +1,4 @@
-#Esercitazioni Commodore64
+# Esercitazioni Commodore64
 
-##Qui caricherò alcuni esercizi prova:
+## Qui caricherò alcuni esercizi prova:
 
