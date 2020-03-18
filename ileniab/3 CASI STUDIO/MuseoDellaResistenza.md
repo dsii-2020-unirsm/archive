@@ -10,4 +10,4 @@
  Sono stati raccolti video, documenti e testimonianze delle persone deportate o chi ha vissuto quel momento storico. Sono stati utilizzati dei video proiettori, degli schermi e degli oggetti interattivi. Tramite dei sensori di movimento ad infrarossi ed un programma in java si rilevano i movimenti ed in risposta si cambia il contenuto o si avviano gli audio-video in questione.
  
  ### 4. Cosa succederebbe se..?  
- 
+ Considerando che la maggior parte dei testimoni non è più in vita, sarebbe interessante creare, sfruttando la raccolta dati fatta, un’intelligenza artificiale in grado di interagire con il pubblico rispondendo a domande di approfondimento. Degli algoritmi che attingono, dalle testimonianze e dai documenti, le informazioni per poter rispondere alle domande dei più curiosi. Si dovrà attuare un lavoro di machine learning con le richieste possibili.
