@@ -1,4 +1,4 @@
-THE SOURCE, Greyworld (2004)
+- THE SOURCE, Greyworld (2004)
 
 ## .what is
 The Source è una installazione cinetica permanente realizzata per la Borsa di Londra, collocata nella hall dell’edificio.
@@ -16,4 +16,6 @@ Ogni mattina, all’apertura dei mercati finanziari, le sfere si staccano dalla 
 
 
 ## .what if
-interazione con le persone, un modo per dire la loro come può cambiare
+The Source è un tipo di installazione che non permette alcun tipo di interazione, né per il tipo di tecnologie impiegate né per le sue dimensioni.
+Se fosse data la possibilità alle persone di fare previsioni rispetto l’andamento dei mercati finanziari, come potrebbero comunicarlo all’installazione e in che modo essa potrebbe essere modificata?
+
