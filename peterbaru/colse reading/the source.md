@@ -1,10 +1,9 @@
 # _The Source_, 2004, Greyworld
 
 ### what is?
-
 _The Source_ è una scultura in movimento posta nella _hall_ della borsa di Londra, che assume forme diverse durante
 la gioranta. L'installazione intende essere il simbolo dei valori della borsa londinese, fornendo uno specchio in tempo
-reale dell'andamento della borsa.
+reale dell'andamento del mercato finanziario, evidenziato dallo spostamento delle sfere sull'asse verticale.
 
 
 ### what does it mean?
