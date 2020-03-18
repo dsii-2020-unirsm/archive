@@ -13,3 +13,7 @@ Il _Museo audiovisivo della resistenza_ di Fosdinovo (MS) intende trasmettere, t
 
 
 ### what if?
+
+
+
+**fonti** [+](https://www.studioazzurro.com/opere/museo-della-resistenza/) [+](https://memoranea.it/luoghi/toscana-ms-fodisnovo-museo-audiovisivo-della-resistenza) [+](https://vimeo.com/34843796)
