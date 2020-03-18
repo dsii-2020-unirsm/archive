@@ -18,5 +18,5 @@ Ogni mattina, all’apertura dei mercati finanziari, le sfere si staccano dalla 
 
 ## .what if
 The Source è un tipo di installazione che non permette alcun tipo di interazione, né per il tipo di tecnologie impiegate né per le sue dimensioni.
-Se fosse data la possibilità alle persone di fare previsioni rispetto l’andamento dei mercati finanziari, come potrebbero comunicarlo all’installazione e in che modo essa potrebbe essere modificata?
+Se fosse data la possibilità alle persone di fare previsioni rispetto l’andamento dei mercati finanziari, come potrebbero comunicarlo all’installazione e in che modo essa potrebbe essere modificata? Se le sfere diventassero pixel?
 
