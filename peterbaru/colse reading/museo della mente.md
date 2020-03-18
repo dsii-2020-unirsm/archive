@@ -16,3 +16,7 @@ sulla propria pelle le senzazioni dei rinchiusi nella struttura.
 
 
 ### what if?
+
+
+
+**fonti** [+](https://www.museodellamente.it) [+](https://www.studioazzurro.com/opere/museo-laboratorio-della-mente/) [+](https://player.vimeo.com/video/35319574?dnt=1&app_id=122963)
