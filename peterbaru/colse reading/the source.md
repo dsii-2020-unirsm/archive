@@ -22,3 +22,6 @@ azzurri posti all'interno delle sfere permettono a questi di illuminarsi e resti
 ### what if?
 
 
+
+**fonti** [+](http://greyworld.org/?p=31) [+](https://en.wikipedia.org/wiki/Greyworld)
+
