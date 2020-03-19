@@ -1,7 +1,7 @@
 ## MUSEO AUDIOVISIVO DELLA RESISTENZA
 Studio Azzurro,(2000)
 
-## .how it works
+## .what is
 Il museo audiovisivo della Resistenza è un’installazione multimediale che raccoglie e conserva le testimonianze della lotta alla Resistenza tra La Spezia, Massa e Carrara, e racconta la storia tramandandone la memoria. 
 
 ## .what does it mean
