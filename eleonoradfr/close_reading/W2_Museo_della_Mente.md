@@ -4,6 +4,9 @@ Roma, 2008
 Progetto: [+](https://www.studioazzurro.com/opere/museo-laboratorio-della-mente/)  
 
 ![Museo della mente image](https://www.studioazzurro.com/wp-content/uploads/2018/12/Museo_mente_04.jpg)  
+
+> _"L'importante è che abbiamo dimostrato che l’impossibile diventa possibile. Dieci, quindici anni fa era impensabile che un manicomio potesse essere distrutto. Magari i manicomi torneranno ad essere chiusi e più chiusi di prima. Io non lo so. Ma ad ogni modo noi abbiamo dimostrato che si può assistere la persona folle in un altro modo e la testimonianza è fondamentale. Non credo che il fatto che un’azione riesca a generalizzarsi, voglia dire che si è vinto. Il punto importante è un altro, è che ora si sa cosa si può fare."_
+**Franco Basaglia**, Conferenze brasiliane, 1979
   
 **WHAT IS?**  
 Museo all’interno dell’ex-ospedale psichiatrico di Santa Maria della Pietà a Roma che rappresenta un percorso sulla malattia mentale 
