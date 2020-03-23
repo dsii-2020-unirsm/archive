@@ -1,5 +1,5 @@
 ## THE FLOW TOWARDS EUROPE
-Lucify,(2015)
+Lucify (2015)
 
 ## .what is
 The flow towards Europe è un progetto di visualizzazione dati che spiega la prospettiva europea della crisi dei rifugiati, mostra i richiedenti asilo che arrivano in Europa e come questi dati cambiano ne tempo.
