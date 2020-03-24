@@ -16,4 +16,4 @@ L’opera è costituita da una stanza di circa 9 metri quadrati, spoglia, se non
 ### what if?
 Cosa succederebbe se le morti fossero visualizzate secondo aree differenti? Il sistema potrebbe sganciare palline in contenitori diversi a seconda del tipo di morte, oppure secondo una catalogazione per età. Questo consentirebbe di fare una lettura più approfondita e comprendere meglio le statistiche.
 
-
+**fonti** [+](http://classic.rhizome.org/artbase/artwork/43859/)
