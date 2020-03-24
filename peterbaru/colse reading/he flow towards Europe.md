@@ -1,5 +1,5 @@
-# Lucify Immaterials: Light painting WiFi
-_2012, Timo Arnall, Jørn Knutsen and Einar Sneve Martinussen_
+# The flow towards Europe
+_2015, Lucify_
 
 ### what is?
 _The flow towards Europe: è un progetto di _data visualization_ interattivo che intende descrivere, attraverso grafici di diverso genere, il flusso di richiedenti asilo verso i paesi europei dall’inizio del 2012 a settembre 2018. 
@@ -16,4 +16,4 @@ Il sistema si basa sul set di dati pubblicati dall’agenzia per i rifugiati del
 ### what if?
 Il grafico mette in evidenza i flussi migratori, ma non permette di visualizzare l’impatto della migrazione in rapporto alle dimensioni del singolo paese ed in particolare del numero degli abitanti autoctoni. L’utilizzo di un Packed Circle Chart nel quale ogni nazione è individutata da un aggregato di punti con colorazione omogenea che rappresentano gli abitanti originari, ai quali si aggiungono progressivamente altri punti di diverso colore che simboleggiano l’ingresso dei nuovi arrivati, potrebbe rappresentare anche questo dato.
 
-**fonti** [+]() [+]()
+**fonti** [+](https://www.lucify.com/the-flow-towards-europe/) [+](https://blog.lucify.com/a-novel-visualisation-of-the-refugee-crisis-565e40ab5a50#.cljs4da83)
