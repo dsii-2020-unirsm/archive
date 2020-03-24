@@ -12,5 +12,5 @@ Le palline cadute, sparse sul pavimento diventano, quindi, un monumento in memor
 
 Un computer analizza continuamente i titoli di diverse fonti di notizie da tutto il mondo alla ricerca della parola “killed”. Ogni volta che viene trovato un articolo, un algoritmo determina il numero di morti e ordina al meccanismo, costruito con dei Lego, di lasciar cadere una pallina per ogni persona deceduta. La scultura andrà a crearsi sul pavimento con lo scorrere del tempo, creando così un cumulo di palline caotico.
 
-
 ## .what if
+L’installazione utilizza soltanto le palline di un colore per rappresentare un tema molto ampio come quello della morte. Sarebbe interessante dividere i dati in base al tipo di morte (malattia, suicidio, omicidio, ecc) e quindi collegarlo a palline di colori diversi, in modo da analizzare e visualizzare più in dettaglio il tema. Lo stesso concetto può anche essere proposto andando però a creare diverse stanze, raggruppando più nazioni per ogni installazione.
