@@ -14,3 +14,4 @@ Il progetto mostra come le strutture digitali e gli ambienti fisici siano elemen
 Il progetto prende forma a partire da un’asta di legno lunga 4 metri sulla quale sono collegati 80 led blu, posti a 5 cm l’uno dall’altro, e da una scheda Arduino che capta il segnale WiFi tramite un lettore RFID e registra l'intensità del segnale come grafico a barre. Il lettore RFID è programmato per scansionare continuamente i tag e inviare un segnale a un led ogni volta che viene rilevato. Attraversando la città di Oslo con l’asta e scattando fotografie a lunga esposizione, si può registrare in tempo reale il segnale WiFi.
 
 ## .what if
+Lo strumento potrebbe essere potenziato aggiungendo un gps in modo tale da andare poi a creare una mappa della città in cui vengono visualizzati i diversi segnali WiFi. Oppure aggiungendo dei led di colori diversi che segnalano i diversi tipi di rete (pubblica, privata, protetta, ecc).
