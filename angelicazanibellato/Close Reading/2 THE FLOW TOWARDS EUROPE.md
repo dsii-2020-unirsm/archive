@@ -17,3 +17,4 @@ La seconda visualizzazione è composta da un diagramma alluviale e una linea del
 Cliccando con il cursore su un singolo paese, verranno visualizzati tutti i flussi migratori verso i paesi europei con il rispettivo numero di persone, oppure si può spostare il cursore soltanto sui blocchi. Infine, spostando il cursore della linea del tempo, si possono visualizzare le variazioni dei flussi di mese in mese.
 
 ## .what if
+Nella visualizzazione vediamo lo spostamento dei richiedenti asilo che arrivano in Europa e come essi sono cambiati nel tempo. Sarebbe interessante vedere anche le conseguenze che queste migrazioni hanno avuto sia per quanto riguarda il paese di partenza che quello di arrivo, soprattutto a livello economico e sociale. 
