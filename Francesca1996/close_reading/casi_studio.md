@@ -16,7 +16,7 @@
 
 ### THE SOURCE
 
-RICERCA WEB: the source —> Questa è un’installazione permanente per la borsa di Londra; complessa e sofisticata è un microcosmo di attività, un riflesso vivente delle forze del mercato. Una griglia di cavi consente ai pixel fisici di muoversi e fluire, man mano che il mercato azionario cambia. La scultura annuncerà l'apertura dei mercati finanziari ogni giorno usando sfere mobili montate su una griglia verticale di cavi lunghi e invisibili.
+Questa è un’installazione permanente per la borsa di Londra; complessa e sofisticata è un microcosmo di attività, un riflesso vivente delle forze del mercato. Una griglia di cavi consente ai pixel fisici di muoversi e fluire, man mano che il mercato azionario cambia. La scultura annuncerà l'apertura dei mercati finanziari ogni giorno usando sfere mobili montate su una griglia verticale di cavi lunghi e invisibili.
 Greyworld è un collettivo di artisti londinesi che ha  come obiettivo quello di creare arte pubblica che coinvolga l'essere umano in un contesto urbano. I visitatori diventano attivamente parte dell'installazione stessa, il lavoro non può essere completo senza di loro. Per la maggior parte, queste installazioni sono spesso esposte nelle aree mal definite della città, nelle aree grigie tra le zone funzionali e ben definite: gli spazi abitativi, lavorativi e ricreativi.
 
 
@@ -61,4 +61,44 @@ In seguito, per la mancanza di adeguata manutenzione, l’edificio si era gravem
 3.Il progetto pone di fronte al visitatore un periodo storico che ha segnato la storia umana. Attraverso l’installazione l’utente si cala nei particolari di quella realtà. L’esperienza appare molto intensa e forte.
 
 4.
+
+---------------------------------------
+
+### THE FLOW TOWARDS EUROPE 
+
+1. The flow towards Europe è un data viz interattivo creato da Lucify, una società di dati con sede a Helsinki, che mostra il flusso dell’espansione dei rifugiati dopo la 2WW.
+
+2. Il progetto mostra il flusso di dati pubblicati sulla vastità della crisi migratoria, un’argomento difficile da vedere “ad occhio nudo” perciò Lucify ha deciso di raccogliere i dati e ha creare una mappa interattiva che mostra il flusso di richiedenti asilo verso l’Europa.
+
+3. “The flow towards Europe” è un sito —> https://www.lucify.com/the-flow-towards-europe/
+che si basa sui dati pubblicati dall'Agenzia delle Nazioni Unite per i rifugiati (UNHCR), sui quali l’utente può trarre maggiori informazioni spostando il mouse sulle mappe e sui flussi; il sito è scritto attravero un codice che permette l'interazione, da parte del mouse utilizzato dall'utente.
+Il progetto è stato commissionato da un ente statunitense per informare del problema all’Europa. 
+
+4. Se “The flow towards Europe” fosse stato creato per i paesi asiatici i risultati sarebbero completamente diversi e probabilmente ai visualizzatori interesserebbe molto di meno.
+
+---------------------------------------
+
+### IMMATERIALS: LIGHT PAINTING Wi-Fi
+
+1. Immaterials: Light painting WiFi è un progetto creato nel 2012 da Timo Arnall, Jørn Knutsen and Einar Sneve Martinussen che esplora e rivela come appare la rete Wi-Fi, apparentemente invisibile, nella città (loro sono di Oslo, Norvegia).
+
+2. Il progetto studia le qualità spaziali delle rete Wi-Fi che influisce sempre di più nella vita di tutti. Tracciando, così, grafici di luce. In questo modo il team offre la possibilità di trarre una riflessione per esempio tra il luogo e dimensioni delle reti, lo stato dell’host, i materiali che costituiscono la città (in un quartiere di Oslo). Questo progetto potrebbe aiutare nella costruzione di nuove parti urbane che agevolano la fruizione della connessione Wi-Fi.
+
+3. Il progetto prevede un’asta mobile lunga 4 metri, contornata da una striscia di neopixel controllata con un arduino, che permette di visualizzare l’intensità del segnale nella città. Spostando l’asta nello spazio e fotografandola, tramite una lunga esposizione, è possibile visualizzare la “pulsazione” della rete: delle linee verticali tratteggiate di diverse altezze corrono una sequenzialmente all’altra per le vie della città. 
+
+4. Light painting WiFi potrebbe diventare uno strumento efficace per i gestori per individuare la scarsa intensità di banda, in modo da poter intervenire migliorandola. Questo potrebbe aiutare alla costruzione di città altamente connesse le une con le altre (idea di città futura).
+
+---------------------------------------
+
+### MONUMENT
+
+1. Monument è un’istallazione artistica/scultura cinetica realizzata da Caleb Larsen nel 2006 che analizza numerose notizie inglesi sul web, da cui, in real time, mostra l’omicidio avvenuto nel mondo di una persona facendo cadere dal soffitto una pallina gialla.
+
+2. Monument esplora quanto gli elementi fisici e digitali siano interconnessi tra loro tramite la lettura di dati online e la rispettiva interazione fisica, e il modo in cui una persona trae consapevolezza del dato senza che inizialmente gli venga spiegato il significato, ma solo alla fine. 
+Per questo il progetto gode di una sarcastica ironia; infatti l’utente è appagato alla caduta della pallina aspettando il prossimo evento, come se fosse soddisfatto della morte di una persona.
+
+3. Monument analizza un feed RSS di Google News per la parola “killed” e le statistiche di affiliazione, alla parola, relative al numero di morti. Il dato entra in input nel codice e ne esce (output) attraverso la reale erogazione di una pallina gialla da un box trasparente posto al centro del soffitto della stanza del museo che ospita questa istallazione. A volte le palline cadono una alla volta, altre volte, invece, ne vengono rilasciate ad ampia quantità.
+
+4. Se cambiasse il tema (per esempio al posto dei morti registrasse il contagio del COVID-19) Monument funzionerebbe lo stesso perché è un progetto semplice ma con grande forza riflessiva, sopratutto se vissuta sulla propria pelle. Monument avrebbe lo stesso impatto, data la profondità che emerge grazie al cinismo ironico, se fosse fatto visualizzare a schermo.
+
 
