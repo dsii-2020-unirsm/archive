@@ -23,5 +23,5 @@ eseguite da Studio Azzurro.
   
 ### Sitografia e fonti  
 *http://www.studioazzurro.com/opere/museo-laboratorio-della-mente/  
-*https://www.museodellamente.it/ 
+*https://www.museodellamente.it/  
 *https://it.wikipedia.org/wiki/Franco_Basaglia 
