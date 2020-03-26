@@ -3,4 +3,6 @@ _Docente: Daniele Tabellini_
 _Studente: Fabrizio De Donatis_  
 _LM Design - UNIRSM_  
 
-## Corso
+## Corso  
+  
+  ![image of duftpunkcat](https://octodex.github.com/daftpunktocat-thomas/)
