@@ -5,4 +5,4 @@ _LM Design - UNIRSM_
 
 ## Corso  
   
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://octodex.github.com/images/daftpunktocat-thomas.gif)
