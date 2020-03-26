@@ -25,7 +25,7 @@ Se la prima parte è oggettiva e mostra solo i numeri, l'ultima parte del sito m
 l'attenzione su quello. I rifugiati Siriani che sono riusciti ad arrivare in europa e tutti quelli ancora bloccati. 
 Questo è chiaramente uno schieramento, forte e chiaro, che vuole ancora una volta puntare un faro su questo problema. 
 
-Mi ha molto colpito il fattto che non si potesse modificare/selezionare/evidenziare nulla di questa ultima parte. I campi da
+Mi ha molto colpito il fatto che non si potesse modificare/selezionare/evidenziare nulla di questa ultima parte. I campi da
 calcio sono lì e sono immobili. Durante tutto il percorso precedente era quasi un gioco, era interattivo e divertente. 
 Il finale invece è spiazzante.
 
@@ -33,7 +33,7 @@ Il finale invece è spiazzante.
 
 *   ### **How is made**
 
-Il passare del tempo fa scorrere lo slider che, sequendo la banca dati, disegna tutti puntini bianchi sulla mappa. La mappa 
+Il passare del tempo fa scorrere lo slider che, seguendo la banca dati, disegna tutti puntini bianchi sulla mappa. La mappa 
 sarà in .svg con la funzione mouseover e onClick modifica quali pallini vengono mostrati, se tutti o se solo quelli di una nazione.
 
 Il secondo non è interattivo, è una serie di visualizzazioni che cambiano in base al punto della timeline selezionato. Con il 
@@ -48,5 +48,5 @@ detto il tema fino alla fine e al posto delle persone nei campi da calcio mettes
 
 Potremmo cambiare scala e tempo, proiettati nel 2300 quando e forse i rifugiati saremo *noi* dei paesi ricchi che navigano lo spazio verso
 Marte. O piuttosto *noi italiani* che a causa del riscaldamento globale saremo costretti a emigrare verso il nord. Cambiamo il 
-soggetto, ricordiamoci che anche noi siamo stati nella loro situazione e potrebbe ricapitarci, forse vorremmo essere trattati
+soggetto, ricordiamoci che anche noi siamo stati nella loro situazione e potrebbe ricapitare, forse vorremmo essere trattati
 diversamente.
