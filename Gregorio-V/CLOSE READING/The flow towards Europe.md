@@ -1,4 +1,4 @@
-## Lucify - *The flow towards Europe*
+## *The flow towards Europe* - Lucify
 <br>
 
 
@@ -19,7 +19,7 @@ di visualizzare con chiarezza il rapporto di numero di persone tra le nazioni.
 *   ### **What does it mean**
 
 Credo che l'intendo di questo progetto sia quello di far chiarezza sul fenomeno mettendo nero su bianco, e non letteralmente,
-la severità di questi numeri. Anche il titolo, *Lucify*, credo che significhi proprio questo, fare luce su un fenomeno "al buio".
+la severità di questi numeri. Anche il nome dello studio, *Lucify*, credo che significhi proprio questo, fare luce su un fenomeno "al buio".
 Un fenomeno che nel 2015, durante l'ideazione del progetto stava ancora nascendo (come abbiamo visto nel 2016 e 2017).
 Se la prima parte è oggettiva e mostra solo i numeri, l'ultima parte del sito mette in relazione un unico dato, concentrando tutta
 l'attenzione su quello. I rifugiati Siriani che sono riusciti ad arrivare in europa e tutti quelli ancora bloccati. 
