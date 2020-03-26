@@ -1,7 +1,7 @@
 # Museo della Mente  
 _ 2008 - Roma - Studio Azzurro -_  
   
-![the source](fabriziodedonatis/Close Reading/Museo della Mente/museo della mente.jpg)
+![the source](https://github.com/fabriziodedonatis/archive/blob/master/fabriziodedonatis/Close%20Reading/Museo%20della%20Mente/museo%20della%20mente.jpg?raw=true)
 
 ### What is  
 è un percorso multimediale costituito da interazione fra elementi fisici e virtuali.  
