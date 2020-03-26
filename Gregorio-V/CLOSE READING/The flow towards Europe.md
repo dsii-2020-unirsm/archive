@@ -4,8 +4,7 @@
 
 *   ### **What is it**
 
-Lucify è un sito web che, attraverso due visualizzazioni di dati, mostra (nero su bianco), i numeri dei rifugiati in europa dal
-2012 al 2018.
+*The flow towards Europe* è un sito web che, attraverso due visualizzazioni di dati, mostra (nero su bianco), i numeri dei rifugiati in europa dal 2012 al 2018.
 
 La prima visualizzazione è una mappa che mostra al centro l'Europa e si espande, verso sud, fino al Congo e, verso est, fino 
 all'India. La piattaforma web permette di selezionare paesi specifici per concentrarsi sui dati relativi a quel paese.
