@@ -1,22 +1,22 @@
-#   
+# Museo della Resistenza  
 _2003 - London Stock Exchange -_  
   
 ![the source]
 
-## What is  
+### What is  
 
 
-## What does it means  
+### What does it means  
 
 
-## How it works  
+### How it works  
   
 
-## What if  
-### … cambiasse il target… se la tecnologia non fosse questa… se cambiasse il contesto …  
+### What if  
+** … cambiasse il target… se la tecnologia non fosse questa… se cambiasse il contesto …**  
 
   
-## Sitografia e fonti  
+### Sitografia e fonti  
 *   
 *   
 * 
