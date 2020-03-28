@@ -7,3 +7,5 @@ Fatti in
 - P5.js
 
 - Processing
+
+_Ho inserito anche la cartella della variazione_
