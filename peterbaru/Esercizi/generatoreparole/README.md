@@ -4,3 +4,7 @@ Per realizzare il generatore casuale di parole si è pensato di partire dall'uti
 Inoltre è stato creato un array che esclude le sillabe contenenti la lettera _U_ dal quale vengono prese le sillabe finali. 
 
 _link_ [+](https://editor.p5js.org/peterbaru/full/DjIX_Dq_F)
+
+
+![cene](https://raw.githubusercontent.com/peterbaru/archive/master/peterbaru/Esercizi/generatoreparole/img/img%20cene.png)
+![righe](https://raw.githubusercontent.com/peterbaru/archive/master/peterbaru/Esercizi/generatoreparole/img/img%20righe.png)
