@@ -11,3 +11,6 @@ Inoltre l'utilizzdo di un `noise()` per il colore di riempimento genera una sfum
 link p5.js [+](https://editor.p5js.org/peterbaru/full/0ObnZePTZ)
 
 link p5.js prove precedenti e variazioni su altri oggetti [+](https://editor.p5js.org/peterbaru/sketches/NevPD-pZu) [+](https://editor.p5js.org/peterbaru/sketches/v0DC1j59w)
+
+
+![immagine variazione](https://raw.githubusercontent.com/peterbaru/archive/master/peterbaru/Variazioni10PRINT/variazione1/img%20variazione.png)
