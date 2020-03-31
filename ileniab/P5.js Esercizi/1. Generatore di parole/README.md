@@ -2,7 +2,7 @@
 
 ### Il primo approccio
 
-![foto]()
+![foto](https://github.com/ileniab/archive/blob/master/ileniab/P5.js%20Esercizi/1.%20Generatore%20di%20parole/primo%20approccio.PNG)
 
 L'algoritmo vuole imitare il primo incontro tra persone che ancora non si conoscono. 
 
