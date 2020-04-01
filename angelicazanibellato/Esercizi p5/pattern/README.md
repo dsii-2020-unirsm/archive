@@ -1,6 +1,6 @@
 pattern
 
 
-![my patter](https://editor.p5js.org/angelicazanibellato/full/rfB9CHvha)
+[my pattern](https://editor.p5js.org/angelicazanibellato/full/rfB9CHvha)
 
 
