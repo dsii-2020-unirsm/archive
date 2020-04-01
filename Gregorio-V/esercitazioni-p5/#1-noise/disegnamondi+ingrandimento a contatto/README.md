@@ -4,7 +4,7 @@
 
 <br>
 
-### Immagine ###
+### Screenshot ###
 
  <img src="package/image/noise_test_2_im1.png"
      style="
