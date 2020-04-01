@@ -37,7 +37,7 @@ function draw() {
   //ciclo for che scrive le sillabe a seconda del numero estratto
   for (i=0; i<numerosillabe; i++){
   sillaba = random(sillabe);
-  parola += random(sillabe);
+  parola += sillaba;
 }
   
   //inserimento sillaba finale 
