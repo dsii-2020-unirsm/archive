@@ -27,7 +27,7 @@ function setup() {
 }
 
 function draw() {
-  background(30);
+  background(0,0,0,5);
   console.log(noise(t))
   
   
