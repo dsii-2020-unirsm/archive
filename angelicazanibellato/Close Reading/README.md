@@ -12,4 +12,4 @@ _The flow towards Europe_, Lucify (2005)
 
 _Immaterials: Light painting WiFi_, Timo Arnall, Jørn Knutsen and Einar Sneve Martinussen (2012)
 
-Monument__, Caleb Larsen (2006)
+_Monument_, Caleb Larsen (2006)
