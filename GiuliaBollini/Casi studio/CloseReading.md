@@ -1,4 +1,4 @@
-_The flow towards Europe, Lucify
+_The flow towards Europe, Lucify_
 
 
 Si tratta di un progetto online che raccoglie, analizza e mostra dati relativi al flusso di migranti spostati in Europa, a partire dalla seconda Guerra Mondiale. Ha lo scopo di sensibilizzare e chiarire l’entita della crisi, basandosi sui dati raccolti dalle Nazioni Unite.
@@ -7,14 +7,14 @@ Una tabella invece mostra le persone richiedenti asilo totali mensili che vengon
 Con questo progetto viene mostrata la grandezza di questi spostamenti e dell’immensa quantità di richiedenti asilo nel corso degli anni. Se ogni punto avesse rappresentato una sola persona piuttosto che 50, probabilmente sarebbe stato talmente difficile distinguere un punto piuttosto che un altro perchè troppo ravvicinati tra loro. Questo avrebbe evidenziato ancora di più la gravità della situazione e il suo significato.
 
 
-_Immaterials: Light painting WiFi, 2012, Timo Arnall, Jørn Knutsen and Einar Sneve Martinussen
+_Immaterials: Light painting WiFi, 2012, Timo Arnall, Jørn Knutsen and Einar Sneve Martinussen_
 
 
 Immaterials è un progetto universitario che utilizza il segnale WiFi per creare una visualizzazione comprensibile di questo, grazie a dei bastoni luminosi. Mostra dunque in che modo il WiFi si collega alla città, evidenziando le qualità della rete e contestualizzandola all’interno di un ambiente fisico.
 Usando alcuni bastoni con luce a intermittenza, viene cercato il segnale WiFi all’interno del campus universitario in cui è stato progettato. La luce del bastone, cambiando d’intensità e forma, mostra ed evidenzia le differenze di segnale creando, all’interno del paesaggio urbano, un’immagine luminosa di questo.
 
 
-_Monument, 2006, Caleb Larsen
+_Monument, 2006, Caleb Larsen_
 
 
 L’installazione di Larsen mostra in tempo reale la quantità di suicidi nel mondo, rappresentati da una piccola pallina gialla che cade da una scatola trasparente.
