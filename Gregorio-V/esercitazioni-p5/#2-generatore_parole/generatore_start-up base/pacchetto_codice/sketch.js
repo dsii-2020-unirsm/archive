@@ -1,3 +1,10 @@
+// -
+// generatore-parole 0.1 by Gregorio Vaccari [noise, parole]
+// 2020 © Gregorio @Gregorio-V, Daniele @Fupete and the course DSII2020 @UniRSM 
+// github.com/fupete — github.com/dsii-2020-unirsm
+// Educational purposes, MIT License, 2020, San Marino
+// —
+
 let min = 1;
 let max = 4;
 let maiuscola = ["A","B","C","D","E","F","G","H","I","L","M","N","O","P","Q","R","S","T","U","V","Z"];
