@@ -6,4 +6,23 @@
 
 ### Immagine ###
 
- *working progress*
+ <img src="package/image/noise_test_2_im1.png"
+     style="
+     float:left;
+     max-width:30%;
+     margin-right: 10px;
+     " />
+     
+ <img src="package/image/noise_test_2_im2.png"
+     style="
+     float:left;
+     max-width:30%;
+     margin-right: 10px;
+     " />
+     
+ <img src="package/image/noise_test_2_im3.png"
+     style="
+     float:left;
+     max-width:30%;
+     margin-right: 10px;
+     " />
