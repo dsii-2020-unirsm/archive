@@ -1,4 +1,9 @@
-// NOISE TABELLINI P5 - Fede,Gabri,Greg
+// -
+// disegnamondi+ingrandimento 0.1 by Gregorio Vaccari [disegnamondi, contatto]
+// 2020 © Gregorio @Gregorio-V, Daniele @Fupete and the course DSII2020 @UniRSM 
+// github.com/fupete — github.com/dsii-2020-unirsm
+// Educational purposes, MIT License, 2020, San Marino
+// —
 
 let ball = [];
 
