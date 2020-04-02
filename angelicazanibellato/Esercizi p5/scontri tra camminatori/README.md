@@ -1,1 +1,1 @@
-scontro tra palline utilizzando i vettori
+camminatori indipendenti
