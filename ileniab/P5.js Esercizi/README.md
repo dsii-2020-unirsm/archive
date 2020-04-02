@@ -1,8 +1,14 @@
 # Qui caricherò gli esercizi svolti su P5.js
 
-### Esercizio Noise con palline
+- prova noise
 
-Primo tentativo completato [+](https://editor.p5js.org/ileniab/sketches/Y0Qwu9dQs)
+- programmare un generatore casuale di parole
 
-altre prove precedenti [+](https://editor.p5js.org/ileniab/sketches/3CG7zmkUN) [+](https://editor.p5js.org/ileniab/sketches/NLKOU_-9F)
-[+](https://editor.p5js.org/ileniab/sketches/S5FsreH0j) [+](https://editor.p5js.org/ileniab/sketches/msw-1vcjK)
+- programmare un generatore di pattern usando la regolarità del modulo %
+
+- dotare i camminatori di indipendenza
+
+- incontri/scontri tra camminatori che cambiano la via
+
+- camminatori che disegnano mondi
+
