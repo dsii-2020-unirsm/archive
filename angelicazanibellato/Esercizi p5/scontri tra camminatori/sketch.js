@@ -1,4 +1,9 @@
-let position;
+// generatore di pattern by angelicazanibellato
+// 2019 © Angelica Zanibellato, Daniele @Fupete and the course DSII2019 at DESIGN.unirsm 
+// github.com/dsii-2020-unirsm — github.com/fupete
+// Educational purposes, MIT License, 2020, San Marinolet position;
+
+
 let velocity;
 
 let camminatore = [];
