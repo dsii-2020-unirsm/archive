@@ -1,1 +1,2 @@
-### 5. camminatori che disegnano mondi [+](https://editor.p5js.org/eleonoradfr/full/6Em5KfCEd)
+### 5. camminatori che disegnano mondi [+](https://editor.p5js.org/eleonoradfr/full/6Em5KfCEd)  
+![screenshot](https://raw.githubusercontent.com/eleonoradfr/archive/master/eleonoradfr/Esercitazioni_p5/5_camminatori_disegnano/disegna.png)
