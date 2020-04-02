@@ -1,3 +1,7 @@
+// Pietro Baruzzi @peterbaru © 2017 MIT License
+// camminatori indipendenti | San Marino, IT | 3.2020
+// Educational purpose, made for DSII2020 lab @UniRSM
+
 let posizione;
 let velocita;
 let palline = 300;
