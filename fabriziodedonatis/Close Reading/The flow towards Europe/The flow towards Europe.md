@@ -25,6 +25,6 @@ Curioso l’immaginario di usare la figura di un campo da calcio pieno di migran
 
   
 ### Sitografia e fonti  
-*https://www.lucify.com/the-flow-towards-europe/  
-*https://www.citylab.com/equity/2015/10/mapping-the-frenzy-of-the-europes-migrant-crisis/412396/  
-*https://blog.lucify.com/a-novel-visualisation-of-the-refugee-crisis-565e40ab5a50#.ys0pww1a7 
+* https://www.lucify.com/the-flow-towards-europe/  
+* https://www.citylab.com/equity/2015/10/mapping-the-frenzy-of-the-europes-migrant-crisis/412396/  
+* https://blog.lucify.com/a-novel-visualisation-of-the-refugee-crisis-565e40ab5a50#.ys0pww1a7 
