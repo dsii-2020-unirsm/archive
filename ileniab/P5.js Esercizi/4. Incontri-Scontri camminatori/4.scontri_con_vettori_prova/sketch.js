@@ -1,3 +1,10 @@
+// -
+// incontro scontro prima prova con vettori by Ilenia Balella 
+// 2020 © Ilenia Balella @ileniab, Daniele @Fupete and the course DSII2020 at DESIGN.unirsm 
+// github.com/dsii-2020-unirsm — github.com/ileniab
+// Educational purposes, MIT License, 2020, San Marino
+// —
+
 let camminatore = []
 let position;
 let velocity;
