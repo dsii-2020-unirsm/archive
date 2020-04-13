@@ -6,12 +6,12 @@
 // —
 
 let camminatori= [];
-let n=100;
+
 let dim= 30;
 
 function setup() {
   createCanvas(windowWidth, windowHeight);
-  
+  let n=windowWidth/5;
   for(let i=0; i<n; i++){
     camminatori.push(new Walker(i));
   }
