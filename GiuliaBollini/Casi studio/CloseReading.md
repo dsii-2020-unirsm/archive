@@ -1,4 +1,5 @@
 _The flow towards Europe, Lucify_
+
 https://www.lucify.com/the-flow-towards-europe/
 
 
@@ -9,6 +10,7 @@ Con questo progetto viene mostrata la grandezza di questi spostamenti e dell’i
 
 
 _Immaterials: Light painting WiFi, 2012, Timo Arnall, Jørn Knutsen and Einar Sneve Martinussen_
+
 https://vimeo.com/20412632
 
 
