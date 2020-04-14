@@ -8,6 +8,7 @@ Con questo progetto viene mostrata la grandezza di questi spostamenti e dell’i
 
 
 _Immaterials: Light painting WiFi, 2012, Timo Arnall, Jørn Knutsen and Einar Sneve Martinussen_
+https://vimeo.com/20412632
 
 
 Immaterials è un'istallazione urbana progettata all'interno di un'università di Oslo, che utilizza il segnale WiFi per donare una matericità al segnale invisibile delle reti WiFi, creandone una visualizzazione comprensibile e fisica. Mostra dunque in che modo il WiFi passa e si collega con la città, evidenziando la potenza e la qualità della rete e contestualizzandola all’interno di un ambiente fisico. In questo modo si va a crearsi, in tempo reale, una mappa delle reti WiFi presenti nella città.
@@ -18,5 +19,6 @@ In questo modo viene resa tangibile un'attività invisibile per natura, mostrand
 _Monument, 2006, Caleb Larsen_
 
 
-L’installazione di Larsen mostra in tempo reale la quantità di suicidi nel mondo, rappresentati da una piccola pallina gialla che cade da una scatola trasparente.
-Un computer analizza continuamente numerosi titoli di notizie di tutto il mondo, andando a ricercare le persone uccise. Ogni volta che un articolo viene trovato, vengono determinati il numero di decessi e sono così lasciate cadere tante palline gialle quante le persone morte. Con il trascorrere del tempo si verrà a creare un tappeto di sfere gialle sempre più denso e caotico.
+L’installazione di Larsen mostra in tempo reale la quantità di omicidi nel mondo, rappresentati da una piccola pallina gialla che cade da una scatola trasparente.
+Un computer analizza continuamente dal web, numerosi titoli di notizie di tutto il mondo, andando a ricercare le notizie su persone uccise. Ogni volta che un articolo viene trovato, vengono determinati il numero di decessi, viene inviato un input al contenitore e vengono così lasciate cadere tante palline gialle quante le persone morte. Ogni mese cadono all'incirca 20.000 palline e, con il trascorrere del tempo si verrà a creare un tappeto di sfere gialle sempre più denso e caotico. 
+L'utente che assistirà per la prima volta alla mostra, sarà all'oscuro delle modalità di funzionamento dell'insallazione. Questo lo porterà a desiderare che sempre più palline cadano dal contenitore, per poter vedere e poter "giocare" con l'istallazione. Inconsapevoli del reale significato, quindi gli utenti sperano che muoia qualcuno.
