@@ -1,5 +1,4 @@
-_The flow towards Europe, Lucify_
-
+_The flow towards Europe, Lucify_   
 https://www.lucify.com/the-flow-towards-europe/
 
 
@@ -9,8 +8,7 @@ Una tabella invece mostra le persone richiedenti asilo totali mensili che vengon
 Con questo progetto viene mostrata la grandezza di questi spostamenti e dell’immensa quantità di richiedenti asilo nel corso degli anni. Se ogni punto avesse rappresentato una sola persona piuttosto che 50, probabilmente sarebbe stato talmente difficile distinguere un punto piuttosto che un altro perchè troppo ravvicinati tra loro. Questo avrebbe evidenziato ancora di più la gravità della situazione e il suo significato.
 
 
-_Immaterials: Light painting WiFi, 2012, Timo Arnall, Jørn Knutsen and Einar Sneve Martinussen_
-
+_Immaterials: Light painting WiFi, 2012, Timo Arnall, Jørn Knutsen and Einar Sneve Martinussen_ 
 https://vimeo.com/20412632
 
 
