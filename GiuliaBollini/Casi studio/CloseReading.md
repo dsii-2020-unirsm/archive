@@ -10,8 +10,9 @@ Con questo progetto viene mostrata la grandezza di questi spostamenti e dell’i
 _Immaterials: Light painting WiFi, 2012, Timo Arnall, Jørn Knutsen and Einar Sneve Martinussen_
 
 
-Immaterials è un progetto universitario che utilizza il segnale WiFi per creare una visualizzazione comprensibile di questo, grazie a dei bastoni luminosi. Mostra dunque in che modo il WiFi si collega alla città, evidenziando le qualità della rete e contestualizzandola all’interno di un ambiente fisico.
-Usando alcuni bastoni con luce a intermittenza, viene cercato il segnale WiFi all’interno del campus universitario in cui è stato progettato. La luce del bastone, cambiando d’intensità e forma, mostra ed evidenzia le differenze di segnale creando, all’interno del paesaggio urbano, un’immagine luminosa di questo.
+Immaterials è un'istallazione urbana progettata all'interno di un'università di Oslo, che utilizza il segnale WiFi per donare una matericità al segnale invisibile delle reti WiFi, creandone una visualizzazione comprensibile e fisica. Mostra dunque in che modo il WiFi passa e si collega con la città, evidenziando la potenza e la qualità della rete e contestualizzandola all’interno di un ambiente fisico. In questo modo si va a crearsi, in tempo reale, una mappa delle reti WiFi presenti nella città.
+Usando alcune aste di 4 metri l'una, dotate di luce a intermittenza, viene cercato il segnale WiFi all’interno del campus universitario in cui è stato progettato. La luce dell'asta, cambiando d’intensità e forma, mostra ed evidenzia le differenze di segnale creando, all’interno del paesaggio urbano, un’immagine luminosa di questo. 
+In questo modo viene resa tangibile un'attività invisibile per natura, mostrando ai cittadini quanto, anche quel che non è visibile naturalmente, influisca e faccia parte del paesggio urbano giornaliero.
 
 
 _Monument, 2006, Caleb Larsen_
