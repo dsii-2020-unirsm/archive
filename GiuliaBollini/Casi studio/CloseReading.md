@@ -1,4 +1,5 @@
 _The flow towards Europe, Lucify_
+https://www.lucify.com/the-flow-towards-europe/
 
 
 Si tratta di un progetto online che raccoglie, analizza e mostra dati relativi al flusso di migranti spostati in Europa, a partire dalla seconda Guerra Mondiale. Ha lo scopo di sensibilizzare e chiarire l’entita della crisi, basandosi sui dati raccolti dalle Nazioni Unite.
