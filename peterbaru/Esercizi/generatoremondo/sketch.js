@@ -1,63 +1,70 @@
-// Pietro Baruzzi @peterbaru © 2017 MIT License
-// generatore di mondi | San Marino, IT | 3.2020
-// Educational purpose, made for DSII2020 lab @UniRSM
+// Camminatori che disegnano mondi by Pietro Baruzzi
+// 2020 © Pietro Baruzzi, Daniele @Fupete and the course DSII2020 at DESIGN.unirsm 
+// github.com/dsii-2020-unirsm — github.com/fupete
+// Educational purposes, MIT License, 2020, San Marino
 
-let posizione;
-let velocita;
-let palline = 15;
 
-let camminatore = [];
+let camminatori = []
+let num = 10
+let t
+let dim = 30
 
 function setup() {
-  createCanvas(windowWidth, windowHeight);
-  noStroke();
-  for (let i=0; i<palline; i++) {
-  camminatore[i] = new Walker();  
+  createCanvas(windowWidth, windowHeight)
+  rectMode(CENTER)
+  background(250)
+  background(240, 100, 20)
+  t = 0
+
+
+  for (let i = 0; i < num; i++) {
+    camminatori.push(new Walker(i))
   }
 }
 
 function draw() {
-  background(100,1);
-  
-  for (let i=0; i<camminatore.length; i++) {
- 
-    camminatore[i].muoviti();
-    camminatore[i].mostrati();
+
+  translate(width * 2 / 5, 0)
+  for (let i = 0; i < camminatori.length; i++) {
+    camminatori[i].spostati()
+    camminatori[i].mostrati()
   }
 }
 
-  class Walker {
-    constructor() {  //funzione setup che definisce la posizione iniziale
-  this.posizione = createVector(random(width),random(height*0.3));
-  this.velocita = createVector(random(0), random(0));
-  this.coloreg = random(255);
-  this.coloreb = random(255); 
-  this.accelera = createVector(random(-0.001, 0.001), random(0.01));    
-  this.velocitaMax = 10;
-      
-  
-    }
-    
-    mostrati() {
-    fill (0, this.coloreg, this.coloreb, 10);
-    ellipse (this.posizione.x, this.posizione.y, frameCount%30, random(frameCount%30));
-    }
-    
-    muoviti() {
-      this.velocita.add(this.accelera); 
-      this.velocita.limit(this.velocitaMax); 
-      this.posizione.add(this.velocita);
-      
-    if (this.posizione.x > width) {
-      this.posizione.x = 0;
-    } else if (this.posizione.x < 0) {
-      this.posizione.x = width;
-    } 
-    
-    if ((this.posizione.y > height) || (this.posizione.y <0)) {
-      this.velocita.y = this.velocita.y * -1;
+function Walker(_id) {
+  this.id = _id
+  this.x = 0
+  this.y = 0
+  this.t = random(100)
+  this.dim = random(10)
+  this.dime = random(frameCount / dim)
 
-   }
+  this.mostrati = function() {
+    let diminiziale = windowHeight / 3.5
+
+    r = 255 * noise(t + 5);
+    g = 255 * noise(t + 10);
+    b = 255 * noise(t + 15);
+    dime = dim + (sin(frameCount / dim) * dim / 2)
+
+    stroke(r, g, b, 100)
+    strokeWeight(4)
+    circle(this.x, this.y, (3 * _id) + dim + (sin(this.dime) * (dim + this.dim) / 2), dim + (sin(this.dime) * dim / 2))
+    t += 0.05
   }
- } 
 
+  this.spostati = function() {
+    this.x = noise(this.t) * 200 + (sin(frameCount / (_id * 10)) * 200)
+    this.y = noise(this.t + 30) * height
+    this.t += 0.005
+  }
+}
+
+function mousePressed() {
+  background(240, 100, 20, 100)
+}
+
+function windowResized() {
+  resizeCanvas(windowWidth, windowHeight)
+  background(240, 100, 20)
+}
