@@ -3,50 +3,67 @@
 // github.com/dsii-2020-unirsm — github.com/fupete
 // Educational purposes, MIT License, 2020, San Marino
 
-let position;
-let velocity;
+let camminatori = [];
+let num = 10;
+let dim = 25;
 
-let camminatore = [];
 
 function setup() {
   createCanvas(600, 600);
-  for (let i=0; i< 50; i++) {
-  camminatore[i] = new Walker();  
+  ellipseMode(CENTER)
+
+
+  for (let i = 0; i < num; i++) {
+    camminatori.push(new Walker(i));
+
   }
 }
 
 function draw() {
-  background(16, 33, 232);
+ background('#E17369');
+
+  for (let i = 0; i < camminatori.length; i++) {
+    
+    camminatori[i].muoviti();
+    camminatori[i].mostrati();
   
-  for (let i=0; i<camminatore.length; i++) {
- 
-    camminatore[i].step();
-    camminatore[i].display();
   }
+
 }
 
-  class Walker {
-    constructor() {  //funzione setup che definisce la posizione iniziale
-  this.position = createVector(random(10),random(10));
-  this.velocity = createVector(random(1), random(2.3));
-    }
-    
-    display() {
-    fill (255, 204, 0);
-    stroke(255);
-    ellipse (this.position.x, this.position.y, 50, 50);
-    }
-    
-    step() {
-      this.position.add(this.velocity);
-      
-    if ((this.position.x > width) || (this.position.x < 0)) {
-      this.velocity.x = this.velocity.x * -1;
-    } 
-    
-    if ((this.position.y > height) || (this.position.y <0)) {
-      this.velocity.y = this.velocity.y * -1;
+function mousePressed() {
+  camminatori.push(new Walker(camminatori.length))
+}
+
+function keyPressed() {
+  camminatori.pop()
+}
+
+function Walker(_id) {
+  this.id = _id;
+  this.x = 0;
+  this.y = 0;
+  this.t = random(100);
+  this.tIncr = random(-1, 1.5) * 0.01
+
+
+  this.mostrati = function() {
+    push();
+    this.r = map(mouseX, 0, width, 0, 255)
+    this.g = map(mouseY, 0, height, 0, 255)
+    this.b = random(255)
+    fill(this.r, this.g, this.b)
+    noStroke();
+    ellipse(this.x, this.y, dim, dim)
+    pop()
 
   }
- }
- } 
+
+  this.muoviti = function() {
+    this.x = noise(this.t) * width;
+    this.y = noise(this.t + 5) * height;
+    this.t += this.tIncr
+
+  }
+
+}

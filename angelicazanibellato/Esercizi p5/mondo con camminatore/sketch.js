@@ -7,7 +7,7 @@ for (let i=0; i< 50; i++) {
   camminatore[i] = new Walker();  
   }
   camminatore = new Walker();
- background(51,232,200);
+ background('#353FF2');
 
 
 }
@@ -31,9 +31,9 @@ class Walker {
   }
 
   render() {
-    stroke(0);
-    fill(255,150,72);
-    rect(this.x,this.y,25,25,3);
+    stroke('#F2D64B');
+    fill(255);
+    ellipse(this.x,this.y,25,25);
   }
 
   step() {
