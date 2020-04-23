@@ -22,3 +22,8 @@ Quali sono questi limiti? Culturali, sociali, umani?
 
 L'argomento è sicuramente vastissimo, interessante ma altrettanto affrontato. L'idea è di isolare uno specifico campo di indagine.
 
+<br>
+
+### 1. Assistente alla didattica
+
+L'idea è quella di creare una macchina capace di comprendere attraverso test e parametri i diversi livelli di intelligenza di uno stundente per assistere lo studente stesso nella decisione del proprio futuro.
