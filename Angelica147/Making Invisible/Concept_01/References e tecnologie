@@ -1,0 +1,75 @@
+REFERENCES E TECNOLOGIE
+
+IDEA 1. EMOZIONI
+
+EMOTIVA
+https://www.emotiva.it/
+
+Emotiva è una società italiana specializzata in computazione affettiva. Utilizzano la computer vision e algoritmi di machine learning per analizzare scientificamente le risposte emotive delle persone al fine di comprendere meglio i comportamenti umani.
+
+Semplice: l'acquisizione dei dati avviene tramite una normale webcam.
+Affidabile: gl algoritmi di computer vision identificano in modo preciso i landmark sul volto.
+Veloce: l'acquisizione delle reazioni emotive è in real time per eliminare bias cognitivi.
+Scalabile: software cloud-based scalabile per analizzare migliaia di volti.
+
+
+
+
+FACE API
+https://github.com/justadudewhohacks/face-api.js/
+
+Riconoscimento facciale, riconoscimento dei punti di riferimento del volto, riconoscimento delle espressioni facciali e stima dell'età e riconoscimento di genere
+
+<img width="981" alt="Schermata 2020-04-29 alle 10 06 39" src="https://user-images.githubusercontent.com/59569674/80574157-9bb2ad00-8a01-11ea-856e-324dd531f40f.png">
+<img width="980" alt="Schermata 2020-04-29 alle 10 06 54" src="https://user-images.githubusercontent.com/59569674/80574167-a0776100-8a01-11ea-9375-cc16e91012d1.png">
+<img width="977" alt="Schermata 2020-04-29 alle 10 07 12" src="https://user-images.githubusercontent.com/59569674/80574170-a1a88e00-8a01-11ea-8a12-0de76731b184.png">
+
+
+
+
+SENTIMENT ANALYSIS
+http://growthhackingitalia.com/sentiment-analysis/
+
+La Sentiment Analysis, conosciuta anche come Opinion Mining, è un campo all’interno del Natural Language Processing (NLP), il cui scopo è l’analisi di un testo con il fine di identificare e classificare l’informazione presente nello stesso. Di solito, oltre a identificare l’opinione, questi sistemi estraggono gli attributi dell’espressione come:
+
+Polarità: opinione positiva o negativa
+Oggetto: ciò di cui si parla
+Opinion holder: la persona o entità che esprime il parere.
+
+Scalabilità:
+Riesci a immaginare di ordinare manualmente migliaia di tweet, conversazioni di assistenza clienti o recensioni dei clienti? Ci sono troppi dati da elaborare manualmente. L’analisi del sentiment consente di elaborare i dati su larga scala in modo efficiente ed economico.
+
+Analisi in tempo reale:
+Possiamo utilizzare l’analisi del sentimento per identificare le informazioni critiche che consentono la consapevolezza situazionale durante scenari specifici in tempo reale. C’è una crisi di pubbliche relazioni nei social media in procinto di scoppiare? Un cliente arrabbiato che sta per agitare? Un sistema di analisi dei sentimenti può aiutarti a identificare immediatamente questo tipo di situazioni e ad agire.
+
+Criteri coerenti:
+Gli umani non osservano criteri chiari per valutare il sentimento di un testo. Si stima che diverse persone concordino solo circa il 60-65% delle volte quando si giudica il sentimento per un particolare testo. È un compito soggettivo fortemente influenzato da esperienze personali, pensieri e credenze. Utilizzando un sistema centralizzato di analisi dei sentimenti, le aziende possono applicare gli stessi criteri a tutti i loro dati. Questo aiuta a ridurre gli errori e migliorare la coerenza dei dati.
+
+
+
+
+
+
+IDEA 2. SILENZIO
+
+PIX2PIX
+https://github.com/phillipi/pix2pix
+
+Indagano le reti contraddittorie condizionali come una soluzione generale ai problemi di traduzione da immagine a immagine. Queste reti non solo imparano la mappatura dall'immagine di input all'immagine di output, ma imparano anche una funzione di perdita per addestrare questa mappatura. Ciò consente di applicare lo stesso approccio generico a problemi che tradizionalmente richiederebbero formulazioni di perdite molto diverse. Questo approccio è efficace nel sintetizzare foto da mappe di etichette e ricostruire oggetti da mappe di bordo e colorare immagini. 
+
+
+
+
+UDACITY 2018 MACHINE LEARNING NANODEGREE CAPSTONE PROJECT
+https://github.com/mikesmales/Udacity-ML-Capstone
+
+Classificazione dei suoni urbani utilizzando il Deep Learning
+Udacity’s Machine Learning Engineer Nanodegree Capstone Project è un modello addestrato nel riconoscere suoni urbani, il quale ha ottenuto una precisione di addestramento del 98,19% e una precisione di collaudo del 91,92%. Il progetto è stato realizzato per dimostrare come poter classificare i suoni utilizzando AI e i suoi limiti.
+
+
+
+
+URBANSOUND 8K
+https://urbansounddataset.weebly.com/urbansound8k.html
+
+Questo set di dati contiene 8732 estratti sonori con etichetta (<= 4s) di suoni urbani di 10 classi. Le classi sono tratte dalla tassonomia urbana. Tutti gli estratti sono tratti dalle registrazioni sul campo caricate su www.freesound.org. I file sono preordinati in dieci pieghe (cartelle denominate fold1-fold10) per facilitare la riproduzione e il confronto con i risultati della classificazione automatica riportati nell'articolo precedente. Oltre agli estratti audio, viene fornito anche un file CSV contenente metadati su ciascun estratto.
