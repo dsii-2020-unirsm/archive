@@ -1,0 +1,39 @@
+TAVOLA IDEE INIZIALI
+
+
+IDEA 1. EMOZIONI
+
+- interazione / interpretazione delle emozioni
+- accompagnamento durante la tua giornata
+- mood legato alla musica es. Spotify
+- classificazione delle emozioni in base alla temperatura corporea
+
+<img width="470" alt="Schermata 2020-04-23 alle 10 01 30" src="https://user-images.githubusercontent.com/59569674/80573540-6f4a6100-8a00-11ea-9dba-2103a38323a4.png">
+
+Creazione di un ambiente sonoro il base all’emozione provata dalla persona.
+
+Può essere sia concorde che contrapposta al tipo di emozione che viene percepita.
+
+Classificazione della musica in base alle sonorità e alla temperatura del corpo.
+
+Potrei quindi realizzare una macchina che riesce a recepire tramite delle termocamere le emozioni che vengono provate dalla persona che lo utilizza. Ogni macchina dovrà essere calibrata, per ciascun utente, imparando così quali sono le sue emozioni e quali tipologie di musica gli vuole associare.
+
+
+IDEA 2. SILENZIO
+
+- cambiamento del paesaggio sonoro: diminuzione di elementi sonori artificiali, riconoscimento di nuovi elementi sonori naturali
+- nuovo spazio del silenzio / suono del silenzio
+- rappresentazione del silenzio come una tela completamente nera, scura: i rumori che rompono il silenzio creano nuove forme
+- mappatura dei suoi in uno spazio: creare una carta geografica dei suoni
+
+Indovinare dove si è, in base ai suoni che vengono recepiti.
+ 
+Costruzione di immagini cercando di disegnare il mondo al quale potrebbe appartenere. 
+
+Potrebbe essere allenata.
+
+Mappatura degli spazi in base al suono
+
+Potrei quindi realizzare una macchina che ascolta il suono e tramite esso costruisce delle immagini cercando di disegnare il mondo al quale potrebbe appartenere.
+Successivamente verrà poi mostrato la realtà alla quale appartiene il suono. 
+Potrebbero essere costruiti scenari o immagini in base ad un dataset di suoni: solo in un secondo momento verrà mostrata la vera origine della registrazione del suono. La macchina potrebbe essere allenata così da diventare sempre più precisa. I suoni potrebbero essere mostrati poi su una mappa, così da creare una carta degli spazi in base al suono. 
