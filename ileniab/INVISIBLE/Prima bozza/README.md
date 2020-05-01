@@ -1,3 +1,1 @@
-# Mancanza del contatto fisico
-
-# Emozioni velate
+#cartella da cancellare
