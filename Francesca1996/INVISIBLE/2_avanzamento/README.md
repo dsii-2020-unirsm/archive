@@ -1,9 +1,10 @@
 # Ideas Shape
 
-
 ### Sketch invisible ideas
 ### Disegnare idee invisibili
-<br>
+
+### Keywords
+Idea, sketch, objects, profondità, spazio, storyboard.
 
 ### Concept 
 
@@ -34,3 +35,5 @@ Gli oggetti quotidiani attorno a noi fungeranno da marker spaziali: disponendoli
 a differenti profondità, e tramite il comando vocale, ho la possibilità di “trasformarli” in altro; 
 per esempio se mostro un evidenziatore alla telecamera e pronuncio la parola “cavallo”, 
 il dispositivo disegnerà un cavallo in quella esatta posizione.
+
+![the source](https://github.com/Francesca1996/archive/blob/master/Francesca1996/INVISIBLE/2_avanzamento/sketch.jpg)
