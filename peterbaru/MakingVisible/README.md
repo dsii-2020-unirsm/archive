@@ -40,7 +40,7 @@ Dalle premesse fatte ho ipotizzato due sviluppi progettuali differenti, che perm
 _E. Hilleli - N. He_
 
 esperimento in cui si aiuta a far crescere alberi e fiori personalizzati attraverso la conversazione con un piccolo personaggio eccentrico. [+](https://experiments.withgoogle.com/garden-friends)
-![GardenStory]()
+![GardenStory](https://raw.githubusercontent.com/peterbaru/archive/master/peterbaru/MakingVisible/img/GardenStory_1.png)
 
 
 #### Scribbling Speech
