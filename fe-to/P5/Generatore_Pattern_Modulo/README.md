@@ -1,4 +1,4 @@
-Link P5.js Fullscreen - Pattern Utilizzando regolarità del modulo
+Link P5.js Fullscreen - Pattern Utilizzando regolarità del modulo (basato sul codice di Benedikt Groß, Hartmut Bohnacker, Julia Laub, Claudius Lazzeroni- Generative Gestaltung)
 
 https://editor.p5js.org/fe-to/full/9p2DLcWhQ
 
