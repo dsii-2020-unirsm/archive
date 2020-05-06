@@ -3,6 +3,8 @@
 ### Sketch invisible ideas
 ### Disegnare idee invisibili
 
+<br>
+
 ### Keywords
 Idea, sketch, objects, profondità, spazio, storyboard.
 
@@ -57,6 +59,13 @@ Dopo aver riconosciuto l’oggetto, questo diventa ciò che noi comunichiamo al 
 Infine per mezzo dell’algoritmo SketchRNN la scena verrà disegnata
 [+](https://learn.ml5js.org/docs/#/reference/sketchrnn?id=examples)
 
+### A cosa serve
+
+L’idea progettuale ha l’obiettivo di fissare le idee.
+Può facilitare e velocizzare lo sviluppo di storyboard; essere uno strumento utile per i bambini con difficoltà, disabilità, bisogni educativi speciali (BES), bisogni nell’apprendimento. 
+
+<br>
+
 ### Reference
 
 #### 1. Noraa Machinic Doodles
@@ -100,6 +109,72 @@ Temporarily Enslaved Gods è un’installazione formata da tre sculture in accia
 [+](https://www.piartworks.com/artists/57-fabio-lattanzi-antinori/works/)
 
 ![the source](https://github.com/Francesca1996/archive/blob/master/Francesca1996/INVISIBLE/2_avanzamento/TEG.jpg)
+
+<br>
+<br>
+<br>
+
+### Ricerca e sitografia
+
+#### Generatore automatico di dati
+
+- Deep learning 
+[+](https://www.ai4business.it/intelligenza-artificiale/deep-learning/deep-learning-cose/)
+
+- Unbabel The technology behind Machine Translation. "In che modo l'IA affronta l'ambiguità e i doppi significati?
+"
+[+](https://www.behance.net/gallery/89364787/Unbabel-The-technology-behind-Machine-Translation?tracking_source=search_projects_recommended%7Cmotion%20learning)
+
+- Automatic Subtitling Tool, generatore automatico di sottotitoli 
+[+](https://www.happyscribe.co/subtitle-generator)
+
+- Automatic Image Captioning 
+ [+](https://blog.goodaudience.com/automatic-image-captioning-building-an-image-caption-generator-from-scratch-4bdd8744bc38)
+ 
+ - Image Caption Generator 
+[+](https://developer.ibm.com/exchanges/models/all/max-image-caption-generator/)
+ 
+ - MAX Image Caption Generator
+[+](http://max-image-caption-generator-web-app.mybluemix.net/?_ga=2.112417027.623191060.1588260577-2056172043.1588260577&cm_mc_uid=82764929109315882605782&cm_mc_sid_50200000=15263521588260578254&cm_mc_sid_52640000=65997501588260578268)
+
+#### Storyboard
+
+Lo Storyboard è un termine inglese che significa "tavola (board) della storia (story)" e viene generalmente utilizzato per indicare la rappresentazione grafica, sotto forma di sequenze disegnate in ordine cronologico, delle inquadrature di un fumetto o di un'opera filmata, dal vero come d’animazione. Quindi è una "sceneggiatura disegnata", "visualizzazione di un'idea di regia”. 
+[+](https://en.wikipedia.org/wiki/Storyboard)
+
+- FrameForge, software per pc che genera storyboard, quindi scene in 3D.
+[+](https://www.frameforge.com/)
+
+- Storyboarder
+[+](https://wonderunit.com/storyboarder/)
+
+- Canva, sito online con layout preimpostati che possono essere modificati tra i componenti di un team.
+[+](https://www.canva.com/design/DAD7AGpemg4/Ts3uYmxseecbkHM5lIY4vA/edit?category=tACZCvd_vC0&utm_source=onboarding)
+
+- StoryboardThat, sito online, simile a Canva, in cui è possibile scegliere delle immagine già presenti e modificarne le parti per costruire la propria scena. 
+[+](https://www.storyboardthat.com/storyboard-creator)
+
+- Plot, sito online con layout.
+ [+](https://theplot.io/)
+ 
+ #### Rigging
+
+- Character rigging 
+ [+](https://www.behance.net/gallery/79001011/Character-rigging-and-animation-masterclass?tracking_source=search_projects_recommended%7Crigging)
+ 
+ - Duik, plug-in di After Effects.
+ [+](https://rainboxlab.org/tools/duik/)
+ 
+ - Moho 
+ [+](https://my.smithmicro.com/moho-2D-animation-software.html)
+
+
+
+
+
+
+
+
 
 
 
