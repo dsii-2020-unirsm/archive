@@ -27,13 +27,72 @@ Dalle premesse fatte ho ipotizzato due sviluppi progettuali differenti, che perm
 
 ### Tecnologie
 
-**The Quick Draw Dataset**: raccolta di 50 milioni di disegni in 345 categorie, forniti dai giocatori del gioco Quick, Draw!
+**The Quick Draw Dataset**: raccolta di 50 milioni di disegni in 345 categorie, forniti dai giocatori del gioco _Quick, Draw!_ [+](https://github.com/googlecreativelab/quickdraw-dataset) [+](https://quickdraw.withgoogle.com/data)
 
-**Sketch-RNN**: modello generativo per disegni vettoriali, disponibile su Magenta. Il sistema permette di ricreare in maniera autonoma i disegni realizzati da milioni di utenti su Quick, Draw!
+**Sketch-RNN**: modello generativo per disegni vettoriali, disponibile su _Magenta_. Il sistema permette di ricreare in maniera autonoma i disegni realizzati da milioni di utenti su _Quick, Draw!_ [+](https://magenta.tensorflow.org/sketch-rnn-demo) [+](https://magenta.tensorflow.org/assets/sketch_rnn_demo/index.html)
 
-**Natural Language Processing (NLP)**: campo di ricerca interdisciplinare il cui scopo è quello di sviluppare algoritmi in grado di analizzare, rappresentare e quindi “comprendere” il linguaggio naturale, scritto o parlato.
+**Natural Language Processing (NLP)**: campo di ricerca interdisciplinare il cui scopo è quello di sviluppare algoritmi in grado di analizzare, rappresentare e quindi _comprendere_ il linguaggio naturale, scritto o parlato. [+](https://towardsdatascience.com/your-guide-to-natural-language-processing-nlp-48ea2511f6e1)
 
-### Reference
+**Neural-storyteller**: rete neurale in grado di generare piccole storie partendo da immagini. [+](https://github.com/ryankiros/neural-storyteller)  [+](https://medium.com/@samim/generating-stories-about-images-d163ba41e4ed)
+
+### Reference progettuali
+#### Garden Story
+_E. Hilleli - N. He_
+
+esperimento in cui si aiuta a far crescere alberi e fiori personalizzati attraverso la conversazione con un piccolo personaggio eccentrico. [+](https://experiments.withgoogle.com/garden-friends)
+![GardenStory]()
+
+
+#### Scribbling Speech
+_X. Yang_
+
+l'input vocale, l'apprendimento automatico e le reti neurali ricorrenti per la generazione di immagini consentono al computer di generare mondi immaginari complessi che seguono il narratore e quindi creare animazioni complesse controllate da strutture linguistiche. [+](http://xinyue.de/scribbling-speech.html) [+](https://experiments.withgoogle.com/scribbling-speech)
+![ScriblingSpeech]()
+
+
+#### Let’s read a story
+_I. Niv_
+
+applicativo online che consente di generare storie partendo da una parola data e strutturandola secondo il _ritmo_ delle favole di Esopo. [+](https://www.letsreadastory.xyz) [+](https://medium.com/ml5js/lets-read-a-story-talking-to-books-using-semantic-similarity-f283168b4264) [+](https://towardsdatascience.com/lets-read-a-story-a-study-on-storytelling-for-children-using-machine-learning-tools-1b631bbbffac)
+![nome_immagine]()
+
+
+#### Seeing Music
+_J. A. Zimmerman_
+
+strumento interattivo che consente la visualizzazione le onde sonore e la loro caratterizzazione basata sulle diverse tonalità [+](https://creatability.withgoogle.com/seeing-music/) [+](https://experiments.withgoogle.com/seeing-music)
+![nome_immagine]()
+
+
+#### Generatore di mondi minecraft 
+
+videogioco interattivo che permette di realizzare mondi surreali e variegati, in modo da rendere l’esperienza di gioco unica e perosnalizzata [+](https://minecraft.tools/it/custom.php/)
+![nome_immagine]()
+
+
+### Reference progettuali su sistemi che rilevano le immagini
+#### Cartoonify
+_D. Macnis_
+
+sistema che utilizza una rete neurale per trasformare foto caricate e trasformarle in un fumetto in un fumetto unico. Il progetto è basato sul progetto [Draw This](https://danmacnish.com/drawthis/) che consentiva di creare istantanee e stamparle direttamente sottoforma di fumetto. [+](https://www.kapwing.com/cartoonify)
+![nome_immagine]()
+
+
+#### NORAA (Machinic Doodles)
+_Jessica_
+
+progetto fisico che indovina ciò che viene disegnato dall'utente, riproducendo disegnando, la figura inziale [+](https://www.creativeapplications.net/processing/noraa-machinic-doodles-a-human-machine-collaborative-drawing/) [+](https://www.jessicain.net/pagesnoraa)
+![nome_immagine]()
+
+
+#### Pix2Story
+_I.Babel - E. de Nicolas Benito_
+
+modello di incorporamento semantico visivo che analizza un'immagine e genera didascalie, secondo diverse tipologie narrative [+](https://pix2story.azurewebsites.net) [+](https://azure.microsoft.com/it-it/blog/pix2story-neural-storyteller-which-creates-machine-generated-story-in-several-literature-genre/)
+![nome_immagine]()
 
 
 ### Bibliografia e Sitografia
+* traduzione simultanea [+](https://medium.com/@ageitgey/machine-learning-is-fun-part-5-language-translation-with-deep-learning-and-the-magic-of-sequences-2ace0acca0aa)
+* rappresentazioni di oggetti comuni per produzione visiva e riconoscimento [+](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6497164/)
+* scarabocchiare con Deep Learning! [+](https://towardsdatascience.com/doodling-with-deep-learning-1b0e11b858aa)
