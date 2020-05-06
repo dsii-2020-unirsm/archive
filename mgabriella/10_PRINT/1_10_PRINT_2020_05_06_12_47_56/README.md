@@ -4,4 +4,4 @@
 
 ### immagine in questo [Link](https://editor.p5js.org/mgabriella/full/X085AWLyw).
 
-![](1.PNG)
+![](1.png)
