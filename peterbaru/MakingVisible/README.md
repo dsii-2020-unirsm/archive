@@ -47,27 +47,27 @@ esperimento in cui si aiuta a far crescere alberi e fiori personalizzati attrave
 _X. Yang_
 
 l'input vocale, l'apprendimento automatico e le reti neurali ricorrenti per la generazione di immagini consentono al computer di generare mondi immaginari complessi che seguono il narratore e quindi creare animazioni complesse controllate da strutture linguistiche. [+](http://xinyue.de/scribbling-speech.html) [+](https://experiments.withgoogle.com/scribbling-speech)
-![ScriblingSpeech]()
+![ScriblingSpeech](https://raw.githubusercontent.com/peterbaru/archive/master/peterbaru/MakingVisible/img/ScribblingSpeech.png)
 
 
 #### Let’s read a story
 _I. Niv_
 
 applicativo online che consente di generare storie partendo da una parola data e strutturandola secondo il _ritmo_ delle favole di Esopo. [+](https://www.letsreadastory.xyz) [+](https://medium.com/ml5js/lets-read-a-story-talking-to-books-using-semantic-similarity-f283168b4264) [+](https://towardsdatascience.com/lets-read-a-story-a-study-on-storytelling-for-children-using-machine-learning-tools-1b631bbbffac)
-![nome_immagine]()
+![let'sReadAStory](https://raw.githubusercontent.com/peterbaru/archive/master/peterbaru/MakingVisible/img/Let%E2%80%99sReadAStory.png)
 
 
 #### Seeing Music
 _J. A. Zimmerman_
 
 strumento interattivo che consente la visualizzazione le onde sonore e la loro caratterizzazione basata sulle diverse tonalità [+](https://creatability.withgoogle.com/seeing-music/) [+](https://experiments.withgoogle.com/seeing-music)
-![nome_immagine]()
+![SeeingMusic](https://github.com/peterbaru/archive/blob/master/peterbaru/MakingVisible/img/SeeingMusic.png)
 
 
 #### Generatore di mondi minecraft 
 
 videogioco interattivo che permette di realizzare mondi surreali e variegati, in modo da rendere l’esperienza di gioco unica e perosnalizzata [+](https://minecraft.tools/it/custom.php/)
-![nome_immagine]()
+![minecraft](https://raw.githubusercontent.com/peterbaru/archive/master/peterbaru/MakingVisible/img/Minecraft.png)
 
 
 ### Reference progettuali su sistemi che rilevano le immagini
@@ -75,21 +75,21 @@ videogioco interattivo che permette di realizzare mondi surreali e variegati, in
 _D. Macnis_
 
 sistema che utilizza una rete neurale per trasformare foto caricate e trasformarle in un fumetto in un fumetto unico. Il progetto è basato sul progetto [Draw This](https://danmacnish.com/drawthis/) che consentiva di creare istantanee e stamparle direttamente sottoforma di fumetto. [+](https://www.kapwing.com/cartoonify)
-![nome_immagine]()
+![cartoonify](https://raw.githubusercontent.com/peterbaru/archive/master/peterbaru/MakingVisible/img/Cartoonify.png)
 
 
 #### NORAA (Machinic Doodles)
 _Jessica_
 
 progetto fisico che indovina ciò che viene disegnato dall'utente, riproducendo disegnando, la figura inziale [+](https://www.creativeapplications.net/processing/noraa-machinic-doodles-a-human-machine-collaborative-drawing/) [+](https://www.jessicain.net/pagesnoraa)
-![nome_immagine]()
+![NORAA](https://raw.githubusercontent.com/peterbaru/archive/master/peterbaru/MakingVisible/img/NORAA.png)
 
 
 #### Pix2Story
 _I.Babel - E. de Nicolas Benito_
 
 modello di incorporamento semantico visivo che analizza un'immagine e genera didascalie, secondo diverse tipologie narrative [+](https://pix2story.azurewebsites.net) [+](https://azure.microsoft.com/it-it/blog/pix2story-neural-storyteller-which-creates-machine-generated-story-in-several-literature-genre/)
-![nome_immagine]()
+![Pix2Story](https://raw.githubusercontent.com/peterbaru/archive/master/peterbaru/MakingVisible/img/Pix2Story.png)
 
 
 ### Bibliografia e Sitografia
