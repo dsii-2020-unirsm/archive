@@ -30,9 +30,9 @@
 [immagini di onde sonore e suono, mappa e classificazione suono animali.](https://experiments.withgoogle.com/ai/bird-sounds/view/)    
 [immageClassifier](https://learn.ml5js.org/docs/#/reference/image-classifier?id=usage)  
 [insegnare ad un computer a riconoscere pose suono ed immagini.](https://teachablemachine.withgoogle.com)
-
+---------------------------------------------------------------------------------------------------------------------------------------
 ![](step_1.png)
-
+---------------------------------------------------------------------------------------------------------------------------------------
 **Revisione 1**  
 Creare una banca dati con disegni dei bambini.  
 Fare analizzare dall’algoritmo i disegni per poi renderlo in realtà virtuale.  
