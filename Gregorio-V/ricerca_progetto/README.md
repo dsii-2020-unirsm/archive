@@ -10,7 +10,7 @@ Evidenziare, far emergere, rendere tangibili e dotate di fisicità quelle _carat
 
 > *"How far do I have to go to get you off your butts and out of your complacent state in order to do something and to take action?"*
 
-<div align="right"> Terry Notary, Los Angeles Times, 2018
+<div align="right"> Terry Notary, Los Angeles Times, 2018  </div>
 
 ### Concept
 
