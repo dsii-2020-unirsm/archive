@@ -56,3 +56,52 @@ Dopo aver riconosciuto l’oggetto, questo diventa ciò che noi comunichiamo al 
 [+](https://cloud.google.com/speech-to-text/?utm_campaign=emea-it-all-it-dr-skws-all-all-trial-e-gcp-1008073&utm_term=KW_web+speech+api-NET_g-PLAC_&gclid=Cj0KCQjwy6T1BRDXARIsAIqCTXrYZdTtMFdJzzA8jS_qlwWOI_TChlD3NBdWiJhkXmMvqzSZ6l40vmMaAvKLEALw_wcB&utm_content=text-ad-none-any-DEV_c-CRE_170512761790-ADGP_Hybrid+%7C+AW+SEM+%7C+SKWS+%7E+EXA_1%3A1_IT_IT_ML_Speech+API_web+speech+api-KWID_43700053286773738-kwd-64659325349-userloc_20597&utm_source=google&utm_medium=cpc&ds_rl=1245734) <br>
 Infine per mezzo dell’algoritmo SketchRNN la scena verrà disegnata
 [+](https://learn.ml5js.org/docs/#/reference/sketchrnn?id=examples)
+
+### Reference
+
+#### 1. Noraa Machinic Doodles
+
+Noraa machinic doodles è un’installazione interattiva creato da Jessica In nel 2018. Utilizza il set di dati di Google QuickDraw, QuickDraw classifier e modelli personalizzati per SketchRNN. Noraa impara a comunicare le idee attraverso i diversi modi in cui creiamo i tratti di un disegno. 
+[+](https://www.creativeapplications.net/processing/noraa-machinic-doodles-a-human-machine-collaborative-drawing/)
+[+](https://vimeo.com/297579544)
+[+](https://vimeo.com/303441462)
+[+](https://www.jessicain.net/)
+
+
+![the source](https://github.com/Francesca1996/archive/blob/master/Francesca1996/INVISIBLE/2_avanzamento/noraa.jpg)
+
+<br>
+
+#### 2. Lumen 
+
+Lumen è un dispositivo di storytelling creato da Arvind Sanjeev. Il progetto esplora le future implicazioni dei media senza schermi per vedere come le persone potrebbero interagire con l’ambiente che li circonda. Lumen è costituito da un proiettore laser in combinazione con una fotocamera e sensori di profondità e si affida alla piattaforma di apprendimento automatico Yolo Darknet per classificare gli oggetti che vengono quindi elaborati dall’algoritmo. 
+[+](https://www.creativeapplications.net/environment/lumen-mixed-reality-storytelling-device/)
+[+](https://vimeo.com/246152360)
+[+](https://vimeo.com/246658766)
+
+![the source](https://github.com/Francesca1996/archive/blob/master/Francesca1996/INVISIBLE/2_avanzamento/lumen.jpg)
+
+<br>
+
+#### 3. OpenDataCam 
+
+OpenDataCam è uno strumento open source realizzato da un team, costituito da una videocamera collegata ad un computer che esegue un’algoritmo di rilevamento degli oggetti (Yolo) che conta e tiene traccia; la scheda, dotata di GPU, consente di elaborare più thread contemporaneamente.
+[+](https://www.creativeapplications.net/environment/opendatacam-2-0-an-open-source-tool-to-quantify-the-world/)
+
+![the source](https://github.com/Francesca1996/archive/blob/master/Francesca1996/INVISIBLE/2_avanzamento/openDataCam.jpg)
+
+<br>
+
+#### 4. Temporarily Enslaved Gods
+
+Temporarily Enslaved Gods è un’installazione formata da tre sculture in acciaio e stampe serigrafiche, realizzata nel 2019 da Fabio Lattanzi Antinori. Le tre stampe, per mezzo del tocco del visitatore sulla superficie, cominciano a “parlare” di dati politici, informazioni, notizie,… tramite algoritmi di motion learning. 
+[+](https://www.piartworks.com/artists/57-fabio-lattanzi-antinori/works/9618-fabio-lattanzi-antinori-temporarily-enslaved-gods-2019/)
+[+](https://lattanziantinori.com/temporarily-enslaved-gods/)
+[+](https://www.piartworks.com/artists/57-fabio-lattanzi-antinori/works/)
+
+![the source](https://github.com/Francesca1996/archive/blob/master/Francesca1996/INVISIBLE/2_avanzamento/TEG.jpg)
+
+
+
+
+
