@@ -27,8 +27,7 @@
 
 **link utili**  
 [unione tra disegno, disegno generativo, forma e suono.](http://www.chenalexander.com/Bach)  
-[immagini di onde sonore e suono, mappa e classificazione suono animali.](https://experiments.withgoogle.com/ai/bird-sounds/view/)  
-[immagini di onde sonore e suono, mappa e classificazione suono animali.](https://experiments.withgoogle.com/ai/bird-sounds/view/)  
+[immagini di onde sonore e suono, mappa e classificazione suono animali.](https://experiments.withgoogle.com/ai/bird-sounds/view/)    
 [immageClassifier](https://learn.ml5js.org/docs/#/reference/image-classifier?id=usage)  
 [insegnare ad un computer a riconoscere pose suono ed immagini.](https://teachablemachine.withgoogle.com)
 
