@@ -64,12 +64,12 @@ Riferimenti
 
 **Progetti di riferimento**
 
-![img](https://github.com/angelicazanibellato/archive/blob/master/angelicazanibellato/Invisibile/img/memorydev.PNG)
+![img](https://github.com/angelicazanibellato/archive/blob/master/angelicazanibellato/Invisibile/img/memory.jpg)
 
 [Memory Device](http://www.ishback.com/memory/index.html) 
 
 
-![img](https://github.com/angelicazanibellato/archive/blob/master/angelicazanibellato/Invisibile/img/rumore.PNG)
+![img](https://github.com/angelicazanibellato/archive/blob/master/angelicazanibellato/Invisibile/img/backt.PNG)
 
 [Backtrack ](https://www.yankodesign.com/2015/03/11/share-the-noise-in-your-life/)
 
