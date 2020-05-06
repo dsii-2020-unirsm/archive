@@ -2,7 +2,7 @@
 
 ### Introduzione
 
-Ogni bambino ha un modo diverso per approcciarsi ai racconti: alcuni li raccontano a voce, altri disegnando; hanno una grandissima immaginazione. Stimolare i bambini a creare storie personalizzate aiuta lo sviluppo del cervello e ne migliora le capacità di apprendimento, aiutando il potenziamento dell’immaginazione: associare i racconti ad immagini e viceversa, garantisce al bambino potenziare la sua mente e lo aiuta nello sviluppare un linguaggio corretto.
+Ogni bambino ha un modo diverso per approcciarsi ai racconti: alcuni li raccontano a voce, altri disegnando; hanno una grandissima immaginazione. Stimolare i bambini a creare storie personalizzate aiuta lo sviluppo del cervello e ne migliora le capacità di apprendimento, aiutando il potenziamento dell’immaginazione: associare i racconti ad immagini e viceversa, garantisce al bambino il potenziamento della sua mente e lo aiuta nello sviluppare un linguaggio corretto.
 Tuttavia, ogni bambino, ha un modo diverso per esprimersi. 
 Come si possono concretizzare i racconti dei bambini? Come possono essere resi tangibili?
 
@@ -19,7 +19,7 @@ Obiettivo progettuale è quello di offrire un supporto al bambino in modo che:
 ### Idee Progettuali
 
 Ogni bambino si esprime in modo differente, in base a quelle che sono le sue potenzialità e le sue debolezze.
-Dalle premesse fatte ho ipotizzato due sviluppi progettuali differenti, che permetterebbero ai bambini di dare vita ai propri racconti seguendo due dinamiche differenti:
+Dalle premesse fatte ho ipotizzato due sviluppi progettuali differenti, che permetterebbero ai bambini di dare vita ai propri racconti seguendo due dinamiche diverse:
 
 **visualizzare i racconti orali**: partendo dal racconto del bambino (o se toppo piccolo, del genitore) si intende sviluppare un sistema che sia in grado di rappresentare in maniera grafica le storie. Il dispositivo, una volta acceso, si mette in ascolto della voce narrante che, seguendo il flusso della fantasia, disegna la storia, rappresentando su schermo le immagini e le simbologie evocate.
 
