@@ -64,7 +64,11 @@ Riferimenti
 
 **Progetti di riferimento**
 
-[Memory Device](http://www.ishback.com/memory/index.html)
+![img](https://github.com/angelicazanibellato/archive/blob/master/angelicazanibellato/Invisibile/img/memorydev.PNG)
+
+[Memory Device](http://www.ishback.com/memory/index.html) 
+
+
 [Backtrack ](https://www.yankodesign.com/2015/03/11/share-the-noise-in-your-life/)
 [Memorise](https://www.yankodesign.com/2018/09/12/bring-clarity-to-foggy-memories/)
 [Drive Memory Pen](https://www.yankodesign.com/2010/08/03/pen-full-of-memories/)
