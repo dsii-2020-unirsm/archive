@@ -46,3 +46,13 @@ Inoltre gli oggetti possono “diventare altro” attraverso il controllo vocale
 ### Trasformazione dati
 
 Gli oggetti, dopo essere stati classificati dall’algoritmo Yolo, assumono un altro aspetto per mezzo di P5 speech ed attraverso l’algoritmo SketchRnn il dato viene trasformato in un disegno digitale.
+
+### Tecnologie
+
+Per la realizzazione di Ideas Shape è necessario utilizzare tre algoritmi: uno per riconsocere gli oggetti, uno per la sintesi e il riconoscimento vocale, ed infinine uno per il disegno.
+Quindi la prima parte è caratterizzata dal riconoscimento degli oggetti sul piano 
+tramite YOLO  [+](https://learn.ml5js.org/docs/#/reference/yolo) <br>
+Dopo aver riconosciuto l’oggetto, questo diventa ciò che noi comunichiamo al software tramite P5 speech
+[+](https://cloud.google.com/speech-to-text/?utm_campaign=emea-it-all-it-dr-skws-all-all-trial-e-gcp-1008073&utm_term=KW_web+speech+api-NET_g-PLAC_&gclid=Cj0KCQjwy6T1BRDXARIsAIqCTXrYZdTtMFdJzzA8jS_qlwWOI_TChlD3NBdWiJhkXmMvqzSZ6l40vmMaAvKLEALw_wcB&utm_content=text-ad-none-any-DEV_c-CRE_170512761790-ADGP_Hybrid+%7C+AW+SEM+%7C+SKWS+%7E+EXA_1%3A1_IT_IT_ML_Speech+API_web+speech+api-KWID_43700053286773738-kwd-64659325349-userloc_20597&utm_source=google&utm_medium=cpc&ds_rl=1245734) <br>
+Infine per mezzo dell’algoritmo SketchRNN la scena verrà disegnata
+[+](https://learn.ml5js.org/docs/#/reference/sketchrnn?id=examples)
