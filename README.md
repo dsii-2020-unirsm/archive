@@ -1,9 +1,8 @@
-studente: **MARIA GABRIELLA MILINCI**
+studente: **Maria Gabriella Milinci**
 
-corso: **LABORATORIO DESIGN DI SISTEMI INTERATTIVI PER L'INFORMAZIONE**
+corso: Laboratorio design di sistemi interattivi per l'informazioneE
+docente : Daniele Tabellini
 
-docente : **DANIELE TABELLINI**
-
-**CORSO DI LAUREA MAGISTRALE IN DESIGN 2019/2020**
-
-**UNIVERSITA' DEGLI STUDI DELLA REPUBBLICA DI SAN MARINO**
+Corso di laurea Magistrale in Design.
+A.A. 2019/2020
+Università degli studi della Repubblica di San Marino
