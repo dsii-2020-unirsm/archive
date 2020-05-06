@@ -1,7 +1,6 @@
-# MAKING VISIBLE.
+# MAKING VISIBLE
 
 ### Scelta del tema
-
 ### Tema 1: Paracosmo
 
 #### Parole chiave: mente__bambini__immaginazione__geometria__forme__mondo.reale__ colori__visualizzazione__gioco__mappe__3d__collegamenti__ esplorazione
