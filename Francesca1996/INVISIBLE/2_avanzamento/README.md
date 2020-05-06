@@ -37,3 +37,12 @@ per esempio se mostro un evidenziatore alla telecamera e pronuncio la parola “
 il dispositivo disegnerà un cavallo in quella esatta posizione.
 
 ![the source](https://github.com/Francesca1996/archive/blob/master/Francesca1996/INVISIBLE/2_avanzamento/sketch.jpg)
+
+### Dati
+
+Attraverso una telecamera come quella già presente sul nostro cellulare o nel computer, possiamo inquadrare l’ipotetica scena che abbiamo in mente, e disponendo nello spazio gli oggetti che abbiamo intorno a noi, acquisiamo il primo dato (posizionamento nello spazio di oggetti fisici). 
+Inoltre gli oggetti possono “diventare altro” attraverso il controllo vocale permesso dalla funzione di P5 speech; quindi posso comunicare al software, per esempio, che la mia borraccia in realtà è un albero.
+
+### Trasformazione dati
+
+Gli oggetti, dopo essere stati classificati dall’algoritmo Yolo, assumono un altro aspetto per mezzo di P5 speech ed attraverso l’algoritmo SketchRnn il dato viene trasformato in un disegno digitale.
