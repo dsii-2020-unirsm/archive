@@ -33,7 +33,7 @@ La difficoltà di mostrare le espressioni del volto in questo momento necessita 
 **Tecnologie**  
 
 **Spark AR Studio**  
-Software per la creazione di filtri. In Spark AR Studio è stato incluso un potente framework di scripting che si può utilizzare per creare esperienze di realtà aumentata più coinvolgenti, personalizzate e complesse. Alcune delle funzionalità ottenibili con lo scripting includono: Attivazione di audio e animazioni.  
+Software per la creazione di filtri. In [Spark AR Studio](https://sparkar.facebook.com/ar-studio/learn/documentation/scripting/basics) è stato incluso un potente framework di scripting che si può utilizzare per creare esperienze di realtà aumentata più coinvolgenti, personalizzate e complesse. Alcune delle funzionalità ottenibili con lo scripting includono: Attivazione di audio e animazioni.  
 Rendere gli effetti interattivi in base a tocchi o movimenti del viso.  
 Avvio di richieste di rete per recuperare dati e trame esterne.  
 Accettazione dei dati trasmessi da una richiesta di condivisione della fotocamera.
