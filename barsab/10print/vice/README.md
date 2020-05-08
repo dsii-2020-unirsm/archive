@@ -1,4 +1,4 @@
-# Capitolo 15: rem variations in basic. Variazioni significative
+# Variazioni significative su Vice
 
 ![Imgur](https://i.imgur.com/oyXFzzj.png)  
 variazione_1  
