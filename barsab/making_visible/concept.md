@@ -1,7 +1,8 @@
 # Città immaginarie
 “[...] è delle città, è come con i sogni: tutto l'immaginabile può essere sognato, ma anche il sogno più inatteso è 
 un rebus che nasconde un desiderio oppure il suo rovescio, una paura. Le città, come i sogni, sono costruite di desideri e di paure, 
-anche se il filo del loro discorso è segreto, le loro regole assurde, le prospettive ingannevoli e ogni cosa ne nasconde un'altra". - 
+anche se il filo del loro discorso è segreto, le loro regole assurde, le prospettive ingannevoli e ogni cosa ne nasconde un'altra".     
+
 _Italo Calvino, Città Invisibili_  
 Le città sono spazi vivaci, in continua evoluzione; case, strade, piazze, cortili, edifici industriali, aree verdi 
 formano un ricco mosaico visivo, sonoro e tattile. 
