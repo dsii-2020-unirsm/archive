@@ -1,7 +1,7 @@
 # Avanzamento 7 – 8 maggio
 
-![foto](https://github.com/ileniab/archive/new/master/ileniab/INVISIBLE/4.Avanzamento_7e8Maggio/progettazione.PNG)
-![foto](https://github.com/ileniab/archive/new/master/ileniab/INVISIBLE/4.Avanzamento_7e8Maggio/prototipazione.PNG)
+![foto](https://github.com/ileniab/archive/blob/master/ileniab/INVISIBLE/4.Avanzamento_7e8Maggio/progettazione.PNG)
+![foto](https://github.com/ileniab/archive/blob/master/ileniab/INVISIBLE/4.Avanzamento_7e8Maggio/prototipazione.PNG)
 
 Tra le proposte progettuali, quella sulla quale mi concentrerò è la prima: l’inclusione. Ovvero cercare una maniera per tradurre un dialogo coperto dalla mascherina in un oggetto leggibile anche i non udenti, che per comprendere hanno bisogno di leggere anche il labiale.
 L’ipotesi iniziale era quella di poter mimare il labiale tramite una bocca inserita in realtà virtuale, direttamente sopra la mascherina, in modo tale da poter simulare il movimento delle labbra in diretta.
