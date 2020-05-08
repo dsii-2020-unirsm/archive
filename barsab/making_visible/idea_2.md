@@ -16,7 +16,13 @@ Ha anche il potere di innescare alcuni sentimenti ormai lontani.
 Il nostro olfatto è uno dei sensi più potenti che possediamo, eppure viene spesso trascurato poiché facciamo principalmente 
 affidamento su ciò che vediamo e ciò che ascoltiamo. 
 Non a caso, le nostre capacità sia di odore che di emozione sono radicate nella stessa rete di strutture cerebrali
-e nessun altro senso ha lo stesso tipo di accesso profondo alla parte del cervello dove nascono le emozioni e i ricordi immagazzinati.  
+e nessun altro senso ha lo stesso tipo di accesso profondo alla parte del cervello dove nascono le emozioni e i ricordi immagazzinati. 
+#### Tecnologie 
+##### Emotion recognition using speech [+](https://github.com/x4nth055/emotion-recognition-using-speech)  
+Strumento che permette di addestrare un algoritmo di apprendimento automatico in grado di riconoscere e rilevare le emozioni umane dal tono con il quale si parla.  
+
+Dopo aver rilevato l'emozione in input, per generare il profumo bisognerebbe utilizzare Arduino e un deodorante per ambienti digitale.
+
 ### Reference  
 #### Amy Radcliffe, Scent-ography: A post-visual past time [+](http://amyradcliffe.co.uk/)   
 Amy Radcliffe ci fa riflettere sul nostro senso olfattivo, che potrebbe assumere un ruolo molto più 
