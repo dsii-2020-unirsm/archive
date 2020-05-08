@@ -1,9 +1,7 @@
 # Città immaginarie
 “[...] è delle città, è come con i sogni: tutto l'immaginabile può essere sognato, ma anche il sogno più inatteso è 
 un rebus che nasconde un desiderio oppure il suo rovescio, una paura. Le città, come i sogni, sono costruite di desideri e di paure, 
-anche se il filo del loro discorso è segreto, le loro regole assurde, le prospettive ingannevoli e ogni cosa ne nasconde un'altra".     
-
-_Italo Calvino, Città Invisibili_  
+anche se il filo del loro discorso è segreto, le loro regole assurde, le prospettive ingannevoli e ogni cosa ne nasconde un'altra". _Italo Calvino, Città Invisibili_  
 Le città sono spazi vivaci, in continua evoluzione; case, strade, piazze, cortili, edifici industriali, aree verdi 
 formano un ricco mosaico visivo, sonoro e tattile. 
 Gli esseri umani vivono e agiscono in questi spazi creando relazioni, sia tra loro che con gli spazi urbani. 
@@ -20,8 +18,8 @@ Le tre tavole delle Città ideali del 1490, raffigurano vedute urbane immaginari
 loro sospesa astrazione, che rasenta il metafisico, sono di innegabile fascino, che cresce in rapporto con i misteri che avvolgono la loro origine e 
 la loro funzione.  
 Bramante e Raffaello esprimono una nuova concezione utopica, nella quale la città stessa viene intesa come il punto d'incontro di un 
-ideale politico e di un ideale estetico che diverge dalla _Civitas Dei medievale_. 
-In Raffaello l'astrazione si traduce sempre in un ideale di bellezza, per dir così, incarnata.  
+ideale politico e di un ideale estetico che diverge dalla _Civitas Dei_ medievale. 
+In Raffaello l'astrazione si traduce sempre in un ideale di bellezza, per così dire, incarnata.  
 Piranesi affronta la scultura e l'architettura presentandoci una via Appia romana che, sebbene non sia mai esistita, 
 è piena di echi dell'antichità (il peso del patrimonio è schiacciante se non scientificamente analizzato  in tutti i suoi componenti).   
 Le Corbusier, padrino dell'architettura modernista, nel 1925 propose di spostare gran parte del centro di Parigi a nord della Senna e di 
