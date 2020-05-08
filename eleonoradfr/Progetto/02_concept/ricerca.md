@@ -24,7 +24,7 @@ Reference:
 - **REACTION VIDEO**: community, condivisione del momento, come reagiscono le altre persone allo stesso film
 - **TRAILER**: emozione immediata, deve attirare l'attenzone in pochi secondi  
   <br>  
-- **Face Expression Recognition / FACE API** [(+) ](https://github.com/justadudewhohacks/face-api.js): emozioni categorabilizzabili in una scala da 0 a 1  
+- **Face Expression Recognition / FACE API** [(+) ](https://github.com/justadudewhohacks/face-api.js): emozioni categorizzabili in una scala da 0 a 1  
 ![face-api](https://user-images.githubusercontent.com/31125521/50575270-f501d080-0dfb-11e9-9676-8f419efdade4.png)  
   
 - **AFFECTIVA** [(+) ](https://www.affectiva.com/):   
