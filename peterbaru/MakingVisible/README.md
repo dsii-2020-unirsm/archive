@@ -25,15 +25,32 @@ Dalle premesse fatte ho ipotizzato due sviluppi progettuali differenti, che perm
 
 **creare un racconto partendo dalla sua rappresentazione**: prendendo come punto di partenza i disegni dei bambini, obiettivo del progetto consiste nel ricostruire la storia che si trova dietro al disegno. Grazie ad un sistema di riconoscimento dei disegni, si ha la possibilità di identificare gli elementi selezionati, restituendo un breve racconto su quello che è stato rappresentato.
 
+
 ### Tecnologie
 
 **The Quick Draw Dataset**: raccolta di 50 milioni di disegni in 345 categorie, forniti dai giocatori del gioco _Quick, Draw!_ [+](https://github.com/googlecreativelab/quickdraw-dataset) [+](https://quickdraw.withgoogle.com/data)
 
-**Sketch-RNN**: modello generativo per disegni vettoriali, disponibile su _Magenta_. Il sistema permette di ricreare in maniera autonoma i disegni realizzati da milioni di utenti su _Quick, Draw!_ [+](https://magenta.tensorflow.org/sketch-rnn-demo) [+](https://magenta.tensorflow.org/assets/sketch_rnn_demo/index.html)
+**Sketch-RNN**: modello generativo per disegni vettoriali, disponibile su _Magenta_. Il sistema permette di ricreare in maniera autonoma i disegni realizzati da milioni di utenti su _Quick, Draw!_ [+](https://magenta.tensorflow.org/sketch-rnn-demo) [+](https://magenta.tensorflow.org/assets/sketch_rnn_demo/index.html) [+](https://learn.ml5js.org/docs/#/reference/sketchrnn)
 
 **Natural Language Processing (NLP)**: campo di ricerca interdisciplinare il cui scopo è quello di sviluppare algoritmi in grado di analizzare, rappresentare e quindi _comprendere_ il linguaggio naturale, scritto o parlato. [+](https://towardsdatascience.com/your-guide-to-natural-language-processing-nlp-48ea2511f6e1)
 
 **Neural-storyteller**: rete neurale in grado di generare piccole storie partendo da immagini. [+](https://github.com/ryankiros/neural-storyteller)  [+](https://medium.com/@samim/generating-stories-about-images-d163ba41e4ed)
+
+**CharRNN**: strumento in grado di comporre brevi testi (partendo dall'analisi di alcuni testi dati). [+](https://learn.ml5js.org/docs/#/reference/charrnn) 
+
+### Prototipazione
+
+Sequenza che ho deciso di seguire per iniziare la prototipazione del mio progetto, supportato da singoli algoritmi che definirò singolarmente.
+La sequenza ipotizzata è la seguente:
+1. prototipazine macchina che identifica il disegno (identificare le linee dello stesso colore? gruppi di linee che si intersecano solo tra loro?)
+2. prototipazione sistema che associa i singoli elementi e a ciò che rappresentano (disegno di un gatto > gatto)
+3. sommatoria dell'identificazione di tutti gli elementi presenti sullo sfondo
+4. creazione di un racconto tramite algoritmi NPL che comprenda le parole degli elementi identificati nel disengo
+
+Link alla collection di p5.js dove raccolgo i singoli algoritmi sperimentati [+](https://editor.p5js.org/peterbaru/collections/HYouLasBw)
+
+![mappa](https://raw.githubusercontent.com/peterbaru/archive/master/peterbaru/MakingVisible/mappaConcettuale_PietroBaruzzi.png)
+
 
 ### Reference progettuali
 #### Garden Story
@@ -96,3 +113,4 @@ modello di incorporamento semantico visivo che analizza un'immagine e genera did
 * traduzione simultanea [+](https://medium.com/@ageitgey/machine-learning-is-fun-part-5-language-translation-with-deep-learning-and-the-magic-of-sequences-2ace0acca0aa)
 * rappresentazioni di oggetti comuni per produzione visiva e riconoscimento [+](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6497164/)
 * scarabocchiare con Deep Learning! [+](https://towardsdatascience.com/doodling-with-deep-learning-1b0e11b858aa)
+* analizzate gli schizzi con sketch-RNN [+](https://medium.com/analytics-vidhya/analyzing-sketches-around-the-world-with-sketch-rnn-c6cbe9b5ac8)
