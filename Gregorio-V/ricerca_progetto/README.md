@@ -44,14 +44,14 @@ Il bot, per semplicità, potrebbe essere un telegram bot, allenato con la capaci
 # Reference
 
 
-## Racist databeses
+## Racist databases
 
 
 ### Link
 
 - [UN - Anti-discrimination database](https://adsdatabase.ohchr.org/SitePages/Anti-discrimination%20database.aspx)
 
-- [FRA - Anti-muslim hatred 12-19 databese](https://fra.europa.eu/en/databases/anti-muslim-hatred/case-law)
+- [FRA - Anti-muslim hatred 12-19 database](https://fra.europa.eu/en/databases/anti-muslim-hatred/case-law)
 
 - [Hate Speech Dataset from a White Supremacy Forum](https://www.aclweb.org/anthology/W18-5102/)
 
