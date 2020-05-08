@@ -46,7 +46,7 @@ Reference:
 <br>     
 <br> 
 
-Idee:  
+Scenari possibili:  
 - si accende la webcam, parte un video, registro le emozioni in una timeline, in uscita ottengo un grafico confrontabile con altri (sensazioni medie, eccezioni)
 - cercare relazione tra la struttura del film e il grafico delle emozioni registrate
 - mezzo per creare plot, scelgo le emozioni e genero la struttura del film in base a ciò che voglio trasmettere
@@ -58,4 +58,8 @@ Idee:
 - com'è dal punto di vista strutturale il film, funziona bene?, ..
 - problema trasposizione libri/film nella perdita di elementi narrativi importanti 
 - trailer delle emozioni, non mi informo sulla trama del film ma sulle emozioni che molto probabilmente mi farà provare
-- indovina il film in base alle emozioni che prova lo spettatore
+- indovina il film in base alle emozioni che prova lo spettatore  
+
+![miro](https://github.com/eleonoradfr/archive/blob/master/eleonoradfr/Progetto/02_concept/possibile_concept.png)  
+Registro il volto dell'utente mentre guarda un film per rilevare le emozioni che prova. Nei momenti in cui vengono rilevati i maggiori picchi emozionali viene fatto uno screenshot del film e del volto dello spettatore. Dal frame del film ricavo il colore dominante e una parola detta nei secondi del picco (necessità dei sottotitoli?). Dalla foto del volto rilevo l'emozione e genero, collegati a questa, una forma grafica (che per esempio potrebbe rimandare alla forma della bocca e agli occhi) e un suono (potrebbe rimandare ad un suono del film?).  
+Creo, di conseguenza, una sorta di trailer / recensione-video delle emozioni andando ad unire questi elementi raccolti e disponendoli parallelamente alla timeline del film.
