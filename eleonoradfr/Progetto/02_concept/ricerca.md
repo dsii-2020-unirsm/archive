@@ -35,7 +35,7 @@ Reference:
   
 - **SENTIMENT()** [(+) ](https://ml5js.org/reference/api-Sentiment/): di ml5 è stato creato partendo da recensioni cinematografiche, macchina allenata sull'associazione stelle e testo  
   
-- **NIKON Finger Sensors** [(+) ](https://petapixel.com/2018/07/16/nikon-working-on-finger-sensors-that-can-read-your-emotions/): di ml5 è stato creato partendo da recensioni cinematografiche, macchina allenata sull'associazione stelle e testo    
+- **NIKON Finger Sensors** [(+) ](https://petapixel.com/2018/07/16/nikon-working-on-finger-sensors-that-can-read-your-emotions/): sensori biometrici per fotocamere e obiettivi in ​​grado di rilevare informazioni biologiche e l'umore quando si scatta una foto    
 <br> 
 
 Idee:  
