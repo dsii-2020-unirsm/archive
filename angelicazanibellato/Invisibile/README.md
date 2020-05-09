@@ -89,3 +89,19 @@ Riferimenti
 [Mosaic Virus](http://annaridler.com/mosaic-virus) [+](https://vimeo.com/287645190?utm_campaign=5370367&utm_source=affiliate&utm_channel=affiliate&cjevent=50402b4a8f7d11ea83b400410a18050e/)
 
 
+**MIRO**
+
+![img](https://github.com/angelicazanibellato/archive/blob/master/angelicazanibellato/Invisibile/img/avanzamento1.PNG)
+
+
+![img](https://github.com/angelicazanibellato/archive/blob/master/angelicazanibellato/Invisibile/img/avanzammento2.PNG)
+
+
+![img](https://github.com/angelicazanibellato/archive/blob/master/angelicazanibellato/Invisibile/img/avanzamento3.PNG)
+
+
+![img](https://github.com/angelicazanibellato/archive/blob/master/angelicazanibellato/Invisibile/img/avanzamento4.PNG)
+
+
+![img](https://github.com/angelicazanibellato/archive/blob/master/angelicazanibellato/Invisibile/img/idee%20progettuali.PNG)
+
