@@ -8,7 +8,7 @@ ho realizzato un sistema che non permette di disegnare solo in linea orizzontale
 Il sistema estrae a caso un numero che indica la direzione da seguire: inoltre se il mouse viene premuto, la distanza tra le sfere è il doppio più grande e queste vengono rappresentate con un bordo nero.
 
 
-link p5.js [+](https://editor.p5js.org/peterbaru/full/apm6Jst7K)
+link p5.js [+](https://editor.p5js.org/peterbaru/full/hEDgR6FGw)
 
 
 ![immagine variazione](https://raw.githubusercontent.com/peterbaru/archive/master/peterbaru/Variazioni10PRINT/variazione2/img/img1.png)
