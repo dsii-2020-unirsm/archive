@@ -15,6 +15,6 @@
 
 ![](https://github.com/angelicazanibellato/archive/blob/master/angelicazanibellato/variazioni10PRINT/triangoli_con_gui/img/Cattura1.PNG)
 
-![]()
+![](https://github.com/angelicazanibellato/archive/blob/master/angelicazanibellato/variazioni10PRINT/triangoli_con_gui/img/Cattura2.PNG)
 
 ![]()
