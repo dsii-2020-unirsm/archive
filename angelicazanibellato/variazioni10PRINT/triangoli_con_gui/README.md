@@ -13,7 +13,7 @@
 - stroke per cambiare la dimensione del bordo
 
 
-![]()
+![](https://github.com/angelicazanibellato/archive/blob/master/angelicazanibellato/variazioni10PRINT/triangoli_con_gui/img/Cattura1.PNG)
 
 ![]()
 
