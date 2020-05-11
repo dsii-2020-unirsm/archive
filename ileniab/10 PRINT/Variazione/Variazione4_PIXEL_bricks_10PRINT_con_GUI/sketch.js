@@ -1,5 +1,5 @@
 // -
-// Variazione 10PRINT by Ilenia Balella [keyword1, keyword2]
+// Variazione 10PRINT con GUI by Ilenia Balella [keyword1, keyword2]
 // 2020 © Ilenia Balella @ileniab, Daniele @Fupete and the course DSII2020 at DESIGN.unirsm 
 // github.com/dsii-2020-unirsm — github.com/ileniab
 // Educational purposes, MIT License, 2020, San Marino
@@ -20,15 +20,14 @@ let t = 0;
 let parametri = {
 
   coloreSfondo: [18, 20, 23],
-  dimensioneBordo: 0,
-  coloreBordo: [255, 255, 255],
   
   dimensioneElemento: 16,
 
   colElementoR: 255,
   colElementoG: 255,
   colElementoB: 255,
-
+  
+  selezionaForma: 0,
   
 }
 
@@ -47,8 +46,7 @@ window.onload = function() {
   elemento.add(parametri, 'colElementoR', 0, 255);
   elemento.add(parametri, 'colElementoG', 0, 255);
   elemento.add(parametri, 'colElementoB', 0, 255);
-  elemento.addColor(parametri, 'coloreBordo');
-  elemento.add(parametri, 'dimensioneBordo');
+  elemento.add(parametri, 'selezionaForma',0, 1);
 }
 
 
@@ -75,11 +73,14 @@ function draw() {
 
   fill(R, G, B);
   
- stroke(parametri.coloreBordo);
-  strokeWeight(parametri.dimensioneBordo);
+if(parametri.selezionaForma ==0){
   
   
   rect(x, y,  parametri.dimensioneElemento, (sin(frameCount / parametri.dimensioneElemento) * parametri.dimensioneElemento/2));
+
+} else{
+ ellipse (x, y,  parametri.dimensioneElemento, (sin(frameCount / parametri.dimensioneElemento) * parametri.dimensioneElemento/2));
+}
 
  
 
