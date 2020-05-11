@@ -12,4 +12,4 @@ https://editor.p5js.org/ileniab/full/0in4Xg_ld
 ![fot](https://github.com/ileniab/archive/blob/master/ileniab/10%20PRINT/Variazione/Variazione3_PIXELing_10PRINT/PIXELing-10PRINT.PNG)
 
 https://editor.p5js.org/ileniab/full/8Hy2xWcCd
-![FOTO](https://github.com/ileniab/archive/blob/master/ileniab/10%20PRINT/Variazione/Variazione4_PIXEL_bricks_10PRINT_con_GUI/variazione-10PRINT-GUI.PNG)
+![FOTO](https://github.com/ileniab/archive/blob/master/ileniab/10%20PRINT/Variazione/Variazione4_PIXEL_bricks_10PRINT_con_GUI/variazione-10PRINT-GUI-2.PNG)
