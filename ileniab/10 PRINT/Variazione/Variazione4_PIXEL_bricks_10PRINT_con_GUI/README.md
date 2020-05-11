@@ -6,8 +6,7 @@ Si possono modificare:
 - il colore di sfondo
 - la dimensione dell'elemento
 - le variabile R, G, B
-- il colore del bordo
-- la dimensione del bordo da inserire manualmente
+- la forma dell'elemento
 
 
 https://editor.p5js.org/ileniab/full/8Hy2xWcCd
