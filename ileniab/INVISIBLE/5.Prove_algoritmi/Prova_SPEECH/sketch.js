@@ -7,7 +7,7 @@
 
 // riconoscimento del linguaggio inglese
 
-// sourse code: Shiffman tutorial, https://www.youtube.com/watch?v=q_bXBcmfTJM
+// source code: Shiffman tutorial, https://www.youtube.com/watch?v=q_bXBcmfTJM
 // e https://idmnyu.github.io/p5.js-speech/
 
 function setup() {
