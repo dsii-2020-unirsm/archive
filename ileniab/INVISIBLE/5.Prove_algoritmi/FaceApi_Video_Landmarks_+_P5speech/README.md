@@ -2,6 +2,8 @@
 
 Ho cercato di unire la FaceApi_video con p5.speech.js. 
 
+https://editor.p5js.org/ileniab/full/ljbjFDtVa
+
 Dopo vari tentativi ho costruito un rettangolo sopra la parte interiore del volto, in modo tale da sfruttarlo come tela su cui lavorare (sostituendo momentaneamente la mascherina). 
 All’interno di questo spazio si scriveranno le frasi che p5 Speech riconosce ad ogni pausa.
 Il riquadro segue le coordinate del volto, perciò potrà essere visualizzato anche se la persona indossa una mascherina.
