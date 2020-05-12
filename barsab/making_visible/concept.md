@@ -1,8 +1,7 @@
 # Città immaginarie
 “[...] è delle città, è come con i sogni: tutto l'immaginabile può essere sognato, ma anche il sogno più inatteso è 
 un rebus che nasconde un desiderio oppure il suo rovescio, una paura. Le città, come i sogni, sono costruite di desideri e di paure, 
-anche se il filo del loro discorso è segreto, le loro regole assurde, le prospettive ingannevoli e ogni cosa ne nasconde un'altra". - 
-_Italo Calvino, Città Invisibili_  
+anche se il filo del loro discorso è segreto, le loro regole assurde, le prospettive ingannevoli e ogni cosa ne nasconde un'altra".   _Italo Calvino, Città Invisibili_  
 Le città sono spazi vivaci, in continua evoluzione; case, strade, piazze, cortili, edifici industriali, aree verdi 
 formano un ricco mosaico visivo, sonoro e tattile. 
 Gli esseri umani vivono e agiscono in questi spazi creando relazioni, sia tra loro che con gli spazi urbani. 
@@ -19,8 +18,8 @@ Le tre tavole delle Città ideali del 1490, raffigurano vedute urbane immaginari
 loro sospesa astrazione, che rasenta il metafisico, sono di innegabile fascino, che cresce in rapporto con i misteri che avvolgono la loro origine e 
 la loro funzione.  
 Bramante e Raffaello esprimono una nuova concezione utopica, nella quale la città stessa viene intesa come il punto d'incontro di un 
-ideale politico e di un ideale estetico che diverge dalla _Civitas Dei medievale_. 
-In Raffaello l'astrazione si traduce sempre in un ideale di bellezza, per dir così, incarnata.  
+ideale politico e di un ideale estetico che diverge dalla _Civitas Dei_ medievale. 
+In Raffaello l'astrazione si traduce sempre in un ideale di bellezza, per così dire, incarnata.  
 Piranesi affronta la scultura e l'architettura presentandoci una via Appia romana che, sebbene non sia mai esistita, 
 è piena di echi dell'antichità (il peso del patrimonio è schiacciante se non scientificamente analizzato  in tutti i suoi componenti).   
 Le Corbusier, padrino dell'architettura modernista, nel 1925 propose di spostare gran parte del centro di Parigi a nord della Senna e di 
@@ -106,6 +105,24 @@ e il dipartimento di polizia che è polveroso e sta cadendo a pezzi.
   
 ![Imgur](https://i.imgur.com/MGtf0f0.jpg)
 
+## Concept  
+L'esistenza umana si basa sull'essere _hic et nunc_. Ma se perdessimo questi riferimenti spazio-temporali cosa potrebbe succedere?
+I luoghi possono essere intesi come spazi del sogno, della meraviglia, in cui proiettare desideri; tutti noi sogniamo una città immaginaria, ma la ritroviamo poi nella realtà?  
+Il progetto parte dall'idea di poter esplorare città immaginarie: alberi, persone, palazzi, cielo.   
+Piuttosto che affidare tutto al caso, le città immaginarie saranno generate da dati reali.
+Ad esempio, quanti alberi ci sono in ogni città, quante foglie hanno, è collegato a dati sulla [geografia del verde urbano](https://lab24.ilsole24ore.com/ecosistema-urbano/). Le persone che camminano, rappresentate con particles, sono correlate ai [flussi](https://shiba.iis.u-tokyo.ac.jp/member/ueyama/mm/app/?load=opf) di persone nelle aree urbane, utilizzando [OpenPFLOW](https://github.com/sekilab/OpenPFLOW).
+L'anima del progetto sottintende _"Vicino a te ci sono tante cose...ma tu continui a non vederle"_ e un nuovo modo di esplorare lo spazio, di spingerci con l'immaginazione verso città e possibili futuri.
+
+#### Tecnologie  
+###### Dataviz in p5.js  
+Inserire nel preload il file ".csv"
+###### Tangram [+](https://www.mapzen.com/products/tangram/)  
+Tangram è un renderizzatore di mappe, permette di disegnare dati vettoriali in tempo reale in un browser Web o dispositivo mobile e controllare la visualizzazione e interattività. 
+###### AR.js  [+](https://github.com/AR-js-org/AR.js)
+AR.js è una libreria per la realtà aumentata sul Web, dotata di funzionalità come il tracciamento delle immagini, l'AR basato sulla posizione e il tracciamento dei marker.
+###### Three.js  [+](https://github.com/AR-js-org/AR.js)
+mapping [+](https://threejs.org/docs/#api/en/textures/VideoTexture) > per applicare immagini, particle, linee a oggetti reali  
+three.js VR [+](https://threejs.org/examples/#webxr_vr_video)> per render video 360
 ### Progetti correlati
 #### Hyper-Reality, Keiichi Matsuda [+](http://hyper-reality.co/)  
 è uno shortfilm che presenta una visione provocatoria e caleidoscopica del futuro, in cui realtà 
