@@ -1,5 +1,4 @@
-### Generatore di pattern usando la regolarità del modulo %
-Sketch [qui](https://editor.p5js.org/barsab/full/kLePQTbec)
+### Generatore di pattern usando la regolarità del modulo % [+](https://editor.p5js.org/barsab/full/kLePQTbec)
 
 
 
