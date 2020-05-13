@@ -16,6 +16,7 @@ Se, solitamente, ognuno pensa a sè stesso e alla propria vita, questa installaz
 e inevitabilemente al loro potere su di noi.
 L'opera intende riportare sotto i nostri occhi il valore della vita umana, della sua importanza e la facilità 
 con cui essa può venire meno, spingendoci ad una riflessione sulla fragilità dell'uomo.  
+  
 ![Imgur](https://i.imgur.com/KsCXZKw.jpg)
 
 #### How it works
