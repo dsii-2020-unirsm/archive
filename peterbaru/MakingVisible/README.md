@@ -47,17 +47,16 @@ I prototipi realizzati sono i seguenti:
 - Far comprendere un disegno da sketchRNN 
 - SketchRNN disegna e l'utente deve indovianre che cosa è stato disegnato 
 - Far indovinare alla macchina un disegno fatto da sketchRNN 
-
-
 - Algoritmo p5Speech Italiano per scrivere ciò che viene detto 
 - p5Speech che disegna ciò che viene detto grazie a SketchRNN 
-
-
 - Prove algroritmo RiTa e Tracery 
+
+- CharRNN per scrivere porzioni di testo predittivo
+- Unire CharRNN e SketchRNN per scrivere storie (disegno un oggetto, viene riconosciuto e viene scritto un testo su questo)
 
 Link alla collection di p5.js dove raccolgo i singoli algoritmi sperimentati [+](https://editor.p5js.org/peterbaru/collections/HYouLasBw)
 
-![mappa](https://raw.githubusercontent.com/peterbaru/archive/master/peterbaru/MakingVisible/mappaConcettuale_peterbaru.png)
+![mappa](https://raw.githubusercontent.com/peterbaru/archive/master/peterbaru/MakingVisible/mappaConcettuale.png)
 
 
 ### Reference progettuali
