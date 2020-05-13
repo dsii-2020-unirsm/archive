@@ -2,5 +2,5 @@
 Sketch [qui](https://editor.p5js.org/barsab/full/fOaGf1irK)
 
 ![Imgur](https://i.imgur.com/bwntdsi.png)  
-![Imgur](https://i.imgur.com/hSqJBua.png?1)
+![Imgur](https://i.imgur.com/hSqJBua.png?2)
 ![Imgur](https://i.imgur.com/Ny4i0M3.png)
