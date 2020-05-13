@@ -6,7 +6,7 @@
 Ogni vittima è rappresentata da una sfera di plastica gialla che cade da un contenitore 
 in acrilico trasparente.
 
-#### What does it means
+#### What does it mean
 L'opera induce lo spettatore a interpretarla in una prospettiva ludica, tenendolo all'oscuro del suo reale significato. 
 Entrando nella stanza, lo spettatore ignora il motivo per cui le sfere cadono dal soffitto: si ritrova a camminare su un pavimento colmo di sfere gialle, 
 che riconosce essere proiettili per pistole ad aria compressa e che rimbalzano ovunque senza un apparente ordine.
@@ -19,7 +19,7 @@ con cui essa può venire meno, spingendoci ad una riflessione sulla fragilità d
   
 ![Imgur](https://i.imgur.com/KsCXZKw.jpg)
 
-#### How it works
+#### How does it work
 Un computer, collocato sopra la scatola e collegato ad internet, analizza continuamente da Google News i titoli di 4.500 fonti di notizie 
 in lingua inglese derivanti da tutto il mondo, alla ricerca di persone che sono state uccise. Una volta trovato l'articolo,
 l'algoritmo determina il numero di morti e ordina al meccanismo, costituito da [lego Mindstorms](https://it.wikipedia.org/wiki/LEGO_Mindstorms) e attaccato al contenitore trasparente,
