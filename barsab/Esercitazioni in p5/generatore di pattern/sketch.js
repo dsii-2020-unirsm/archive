@@ -5,18 +5,23 @@
 function setup() {
   createCanvas(800, 800);
   background(0);
-  smooth();
   noStroke();
   rectMode(CENTER);
 }
 
 function draw() {
   frameRate(10);
-  //disegno una griglia di rettangoli la cui dimensione aumenta progressivamente attraverso l'uso del modulo
-  for (let x = 0; x<=width; x+=50) {
-    for (let y=0; y<=height; y+=70) { 
-      fill((random(100, 255)), (random(100, 255)), (random(125, 255)), 255); 
+    for (var x = 0; x<=width; x+=50) {
+    for (var y=0; y<=height; y+=70) { 
+      if (x % 4 == 0 || y % 4 == 0) {
+      fill((random(100, 255)), (random(100, 255)), (random(125, 255)), 255);           
       rect(x,y,frameCount%50, frameCount%70);
+      
+    } else {
+      fill(random(255), random(255), 255);
+      rect(x*50, y*70, frameCount%50, frameCount%70);
+      }
     }
   }
 }
+
