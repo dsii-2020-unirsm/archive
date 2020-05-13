@@ -40,16 +40,24 @@ Dalle premesse fatte ho ipotizzato due sviluppi progettuali differenti, che perm
 
 ### Prototipazione
 
-Sequenza che ho deciso di seguire per iniziare la prototipazione del mio progetto, supportato da singoli algoritmi che definirò singolarmente.
-La sequenza ipotizzata è la seguente:
-1. prototipazine macchina che identifica il disegno (identificare le linee dello stesso colore? gruppi di linee che si intersecano solo tra loro?)
-2. prototipazione sistema che associa i singoli elementi e a ciò che rappresentano (disegno di un gatto > gatto)
-3. sommatoria dell'identificazione di tutti gli elementi presenti sullo sfondo
-4. creazione di un racconto tramite algoritmi NPL che comprenda le parole degli elementi identificati nel disengo
+Ho ipotizzato una sequenza per la prototipazione e ho suddiviso a sua volta il processo in singoli algoritmi che ho racconto in una collection di p5.js.
+
+I prototipi realizzati sono i seguenti:
+- Disegni consecutivi sketchRNN da modello dichiarato 
+- Far comprendere un disegno da sketchRNN 
+- SketchRNN disegna e l'utente deve indovianre che cosa è stato disegnato 
+- Far indovinare alla macchina un disegno fatto da sketchRNN 
+
+
+- Algoritmo p5Speech Italiano per scrivere ciò che viene detto 
+- p5Speech che disegna ciò che viene detto grazie a SketchRNN 
+
+
+- Prove algroritmo RiTa e Tracery 
 
 Link alla collection di p5.js dove raccolgo i singoli algoritmi sperimentati [+](https://editor.p5js.org/peterbaru/collections/HYouLasBw)
 
-![mappa](https://raw.githubusercontent.com/peterbaru/archive/master/peterbaru/MakingVisible/mappaConcettuale_PietroBaruzzi.png)
+![mappa](https://raw.githubusercontent.com/peterbaru/archive/master/peterbaru/MakingVisible/mappaConcettuale_peterbaru.png)
 
 
 ### Reference progettuali
