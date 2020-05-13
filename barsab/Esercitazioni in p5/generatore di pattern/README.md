@@ -2,7 +2,7 @@
 Sketch [qui](https://editor.p5js.org/barsab/full/kLePQTbec)
 
 
-https://editor.p5js.org/barsab/sketches/kLePQTbec
+
 
 ![Imgur](https://i.imgur.com/MEyn9l4.png)
 
