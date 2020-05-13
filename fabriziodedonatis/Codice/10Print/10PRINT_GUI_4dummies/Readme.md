@@ -1,5 +1,5 @@
 ## 10PRINT_GUI_4dummies
-In questa versione di prova si sperimenta un primo approccio all'interfaccia grafica GUI 
+In questa versione di prova si sperimenta un primo approccio all'interfaccia grafica GUI  
 // Variazione 10PRINT con GUI  
 // version: "4dummies"  
 // inspired by "the coding train"_ (https://www.youtube.com/watch?v=bEyTZ5ZZxZs) _  
