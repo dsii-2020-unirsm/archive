@@ -15,7 +15,8 @@ Nel momento in cui si prende coscienza di ciò che rappresenta ogni singola sfer
 Se, solitamente, ognuno pensa a sè stesso e alla propria vita, questa installazione induce a pensare anche alle altre vite
 e inevitabilemente al loro potere su di noi.
 L'opera intende riportare sotto i nostri occhi il valore della vita umana, della sua importanza e la facilità 
-con cui essa può venire meno, spingendoci ad una riflessione sulla fragilità dell'uomo.
+con cui essa può venire meno, spingendoci ad una riflessione sulla fragilità dell'uomo.  
+![Imgur](https://i.imgur.com/KsCXZKw.jpg)
 
 #### How it works
 Un computer, collocato sopra la scatola e collegato ad internet, analizza continuamente da Google News i titoli di 4.500 fonti di notizie 
