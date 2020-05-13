@@ -6,7 +6,7 @@ _"The flow towards Europe"_ è un sistema interattivo open source di rappresenta
 i paesi europei dal 2012 al 2018.
 I dati che vengono visualizzati nelle infografiche sono quelli ufficiali dell’[UNHCR](http://popstats.unhcr.org/en/asylum_seekers_monthly).
 
-#### What does it means
+#### What does it mean
 Lucify invita a conoscere e comunicare dati importanti attraverso visualizzazioni interattive. 
 Questo progetto vuole evidenziare l'entità della crisi dei rifugiati in un modo intuitivo, memorabile e coinvolgente per portare 
 l'utente a riflettere su che cosa significhi che così tante persone abbiano avuto la 
@@ -15,7 +15,7 @@ Attraverso questo rapido e florido flusso di pallini l'utente rielabora l'immagi
 Questo tipo di figurazione sicuramente non lascia indifferenti rispetto ad un dato significativo ben rappresentato.  
 
 ![Imgur](https://i.imgur.com/vt0XJcH.png)
-#### How it works
+#### How does it work
 La visualizzazione è stata generata con l'ausilio di alcune librerie Javascript (react, d3.js, pixi.js) che utilizzano i dati open source 
 aggiornati mensilmente dall'United Nations High Commission for Refugee Agency.
 Muovendo il cursore sulla mappa è possibile vedere il punto di partenza ed arrivo del flusso migratorio (ogni puntino mobile presente sulla mappa rappresenta 25 persone). 
