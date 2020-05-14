@@ -2,4 +2,4 @@
 ### con implementazione dat.Gui  
 
 [Link editor p5](https://editor.p5js.org/eleonoradfr/full/2ugcH8Og1)  
-![screenshot]()
+![screenshot](https://github.com/eleonoradfr/archive/blob/master/eleonoradfr/10PRINT/p5/02_variazione_dat_Gui/screenshot.png)
