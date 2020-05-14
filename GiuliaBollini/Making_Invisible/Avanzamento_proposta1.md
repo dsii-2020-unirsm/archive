@@ -1,4 +1,4 @@
-_avanzamento fino all'08/05/20_
+_avanzamento fino all'14/05/20_
 # _Cultura / distanza_  
 
 ![Schermata 2020-05-09 alle 17 59 20](https://user-images.githubusercontent.com/61871414/81478651-098b7f80-921f-11ea-9793-4c88248ba8c6.png)
