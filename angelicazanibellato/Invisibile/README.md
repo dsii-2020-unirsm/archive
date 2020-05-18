@@ -106,7 +106,6 @@ Riferimenti
 ![img](https://github.com/angelicazanibellato/archive/blob/master/angelicazanibellato/Invisibile/img/idee%20progettuali.PNG)
 
 
-
 **AVANZAMENTO**
 
 
