@@ -105,3 +105,47 @@ Riferimenti
 
 ![img](https://github.com/angelicazanibellato/archive/blob/master/angelicazanibellato/Invisibile/img/idee%20progettuali.PNG)
 
+
+
+**AVANZAMENTO**
+
+
+Il progetto ha l'obbiettivo di rendere visibili i ricordi e imitare il processo di dimenticare.
+A partire da un'immagine e un racconto (scritto/orale) ottengono una nuova immagine che mostra soltanto le parti che ricordo.
+
+
+
+*1 Raccontare il ricordo*
+
+Scrivo un breve testo in cui racconto un ricordo legato ad una foto.
+
+oppure
+
+Racconto con una breve frase, un ricordo legato ad una foto. Con l'algoritmo di p5Speech traduce il racconto in una stringa di testo.
+
+
+
+
+
+*2 Sentiment Analysis*
+
+Questo modello determina il sentimento del testo con un valore compreso tra 0 (negativo) e 1 (positivo).
+
+Una volta scritto il testo il modello mi restituisce una percentuale  e stampa il colore associato al ricordo.
+
+
+
+*Parametri*
+
+Blu         Tristezza tra 0% e 25%
+
+Rosso    Rabbia tra 25% e 50%
+
+Giallo     Divertimento tra 50% e 75%
+
+Verde     Felicità tra 75% e 100%
+
+
+
+
+
