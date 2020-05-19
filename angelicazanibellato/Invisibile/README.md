@@ -141,9 +141,9 @@ Giallo     Divertimento tra 50% e 75%
 
 Verde     Felicità tra 75% e 100%
 
-[sentiment](https://editor.p5js.org/angelicazanibellato/present/XH4ezvn7R)
+[SentimentAanalysis](https://editor.p5js.org/angelicazanibellato/present/XH4ezvn7R)
 
-[p5speech+sentiment](https://editor.p5js.org/angelicazanibellato/present/bKE0ye1F4)
+[Sentiment+p5Speech](https://editor.p5js.org/angelicazanibellato/present/bKE0ye1F4)
 
 
 ![img](https://github.com/angelicazanibellato/archive/blob/master/angelicazanibellato/Invisibile/img/blu.PNG)
@@ -171,15 +171,18 @@ Una volta determinato il colore del ricordo, cerco nella foto tutti i pixel che 
 Se il mio ricordo è felice, quindi verde, nella foto rimangono soltanto i pixel verdi mentre su tutti gli altri viene "stampato" un pixel nero
 
 
+![img](https://github.com/angelicazanibellato/archive/blob/master/angelicazanibellato/Invisibile/img/rosa%20temperamenti.PNG)
+
+
 **COLORI**
 
 Il colore è una cosa molto soggettiva. Il modo in cui qualcuno "vede" un colore non è facilmente misurabile e può essere molto diverso tra gli individui. Il colore è usato in molte culture per comunicare informazioni e creare emozioni. L'idea comune è che un colore può generare un'emozione specifica in qualsiasi momento.
 
+[DeletePixels](https://editor.p5js.org/angelicazanibellato/present/Px9WINA0y)
 ![img](https://github.com/angelicazanibellato/archive/blob/master/angelicazanibellato/Invisibile/img/colori.PNG)
 
 Fu sviluppata una famosa teoria riguardante i colori e le emozioni chiamata "rosa dei temperamenti", ideata da Goethe e Schiller , abbinando dodici colori alle occupazioni umane o ai loro tratti caratteriali ( tiranni, eroi, avventurieri, edonisti, amanti, poeti, oratori, storici, insegnanti, filosofi, pedanti, sovrani ), raggruppati nei quattro personalità: sanguigna, collerica, malinconica e flemmatica.
 
-![img](https://github.com/angelicazanibellato/archive/blob/master/angelicazanibellato/Invisibile/img/rosa%20temperamenti.PNG)
 
 
 **Altri sviluppi progettuali**
