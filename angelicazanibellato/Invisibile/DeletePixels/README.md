@@ -1,1 +1,3 @@
+##Delete Pixels##
 
+Prototipo
