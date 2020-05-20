@@ -52,11 +52,14 @@ I prototipi realizzati sono i seguenti:
 - Prove algroritmo RiTa e Tracery 
 
 - CharRNN per scrivere porzioni di testo predittivo
-- Unire CharRNN e SketchRNN per scrivere storie (disegno un oggetto, viene riconosciuto e viene scritto un testo su questo)
+- SketchRNN + CharRNN + P5Speech: algoritmo che permette di disegnare, generare un racconto partendo dal disegno, e poi poterlo ascoltare
+- ObjectDetector + CharRNN + P5Speech: algoritmo che permette di disegnare, generare un racconto analizzando un disegno o una foto, e poi poterlo ascoltare
+- SketchRNN + UNSPLASH: sistema che permette di caricare una foto legata al soggetto disegnato.
+- Sistema che permette di unire i diversi algoritmi in uno unico.
 
-Link alla collection di p5.js dove raccolgo i singoli algoritmi sperimentati [+](https://editor.p5js.org/peterbaru/collections/HYouLasBw)
+Link alla collection di p5.js dove raccolgo i singoli algoritmi sperimentati nell'editor online [+](https://editor.p5js.org/peterbaru/collections/HYouLasBw)
 
-![mappa](https://raw.githubusercontent.com/peterbaru/archive/master/peterbaru/MakingVisible/mappaConcettuale.png)
+![mappa](https://raw.githubusercontent.com/peterbaru/archive/master/peterbaru/MakingVisible/MappaConcettuale.png)
 
 
 ### Reference progettuali
