@@ -170,7 +170,7 @@ Verde     Felicità tra 75% e 100%
 Una volta determinato il colore del ricordo, cerco nella foto tutti i pixel che corrispondono a quel colore.
 Se il mio ricordo è felice, quindi verde, nella foto rimangono soltanto i pixel verdi mentre su tutti gli altri viene "stampato" un pixel nero
 
-[DeletePixels](https://editor.p5js.org/angelicazanibellato/present/Px9WINA0y)
+[DeletePixels](https://editor.p5js.org/angelicazanibellato/present/zPUUs4BeG)
 
 
 
