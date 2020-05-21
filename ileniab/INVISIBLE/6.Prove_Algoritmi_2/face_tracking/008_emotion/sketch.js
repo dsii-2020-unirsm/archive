@@ -7,9 +7,9 @@
 
 let d= 1.5;
 // let dimensioneTesto=1;
-// // P5 SPEECH-------
-// let riconosciParola;
-// let parola;
+ // P5 SPEECH-------
+ let riconosciParola;
+ let parola;
 // let x=positions[60][0];
 // let y=positions[60][0]-20;
 // let larg=105;
@@ -24,16 +24,16 @@ function setup() {
 }
 //     //-------------P5 SPEECH-------------------------------
 //
-// let lingua = 'IT'; //var lingua che imposta il linguaggio
-// riconosciParola = new p5.SpeechRec(lingua, gotSpeech);
-// let continous = true; //ascolta di continuo
-// let interim = true; //true va a capo e scrive tutto. false scrive solo quando fai una pausa
-// riconosciParola.start(continous, interim);
+ let lingua = 'IT'; //var lingua che imposta il linguaggio
+ riconosciParola = new p5.SpeechRec(lingua, gotSpeech);
+ let continous = true; //ascolta di continuo
+ let interim = true; //true va a capo e scrive tutto. false scrive solo quando fai una pausa
+ riconosciParola.start(continous, interim);
 //
 // //imposto lo stile del testo
 //
-// textFont('Roboto');
-// rectMode(CENTER);
+ textFont('Roboto');
+ rectMode(CENTER);
 
 //--------END-----P5 SPEECH--------------------------------
 
@@ -50,6 +50,7 @@ function draw() {
     rect(0,0,width,height);
 
     drawPoints();
+    drawParola();
 
     if (emotions) {
 
@@ -100,20 +101,20 @@ function draw() {
     }
 }
 
-// function gotSpeech() { //callback function
-//   if (riconosciParola.resultValue) { //se il risultato ha valore
-//     console.log(riconosciParola.resultString);
-//   }
-// }
+ function gotSpeech() { //callback function
+   if (riconosciParola.resultValue) { //se il risultato ha valore
+     console.log(riconosciParola.resultString);
+   }
+ }
 //
-// function drawParola(x, y, larg, alt) {
-//   fill(0);
-//   noStroke();
-//   textSize(15 * dimensioneTesto);
-//   textAlign(CENTER, CENTER);
-//   text(riconosciParola.resultString, x, y, larg, alt);
+ function drawParola() {
+   fill(0);
+   noStroke();
+   textSize(15);
+   textAlign(CENTER, CENTER);
+   text(riconosciParola.resultString, positions[60][0],positions[60][0]-20, 105*d, ((75*d)/2)));
 //
-// }
+ }
 
 function drawPoints() {
     fill(255);
