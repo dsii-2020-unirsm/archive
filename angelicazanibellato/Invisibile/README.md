@@ -105,3 +105,130 @@ Riferimenti
 
 ![img](https://github.com/angelicazanibellato/archive/blob/master/angelicazanibellato/Invisibile/img/idee%20progettuali.PNG)
 
+
+**AVANZAMENTO**
+
+
+Il progetto ha l'obbiettivo di rendere visibili i ricordi e imitare il processo di dimenticare.
+A partire da un'immagine e un racconto (scritto/orale) ottengono una nuova immagine che mostra soltanto le parti che ricordo.
+
+
+
+**1 Raccontare il ricordo**
+
+Scrivo un breve testo in cui racconto un ricordo legato ad una foto.
+
+oppure
+
+Racconto con una breve frase, un ricordo legato ad una foto. Con l'algoritmo di p5Speech traduce il racconto in una stringa di testo.
+
+
+**2 Sentiment Analysis**
+
+Questo modello determina il sentimento del testo con un valore compreso tra 0 (negativo) e 1 (positivo).
+
+Una volta scritto il testo il modello mi restituisce una percentuale  e stampa il colore associato al ricordo.
+
+
+
+*Parametri*
+
+Blu         Tristezza tra 0% e 25%
+
+Rosso    Rabbia tra 25% e 50%
+
+Giallo     Divertimento tra 50% e 75%
+
+Verde     Felicità tra 75% e 100%
+
+[SentimentAanalysis](https://editor.p5js.org/angelicazanibellato/present/XH4ezvn7R)
+
+[Sentiment+p5Speech](https://editor.p5js.org/angelicazanibellato/present/bKE0ye1F4)
+
+
+![img](https://github.com/angelicazanibellato/archive/blob/master/angelicazanibellato/Invisibile/img/blu.PNG)
+
+![img](https://github.com/angelicazanibellato/archive/blob/master/angelicazanibellato/Invisibile/img/giallo.PNG)
+
+![img](https://github.com/angelicazanibellato/archive/blob/master/angelicazanibellato/Invisibile/img/verde.PNG)
+
+![img](https://github.com/angelicazanibellato/archive/blob/master/angelicazanibellato/Invisibile/img/rosso.PNG)
+
+**2 Sentiment Analysis con face-tracking**
+
+![img](https://github.com/angelicazanibellato/archive/blob/master/angelicazanibellato/Invisibile/img/sad.PNG)
+
+![img](https://github.com/angelicazanibellato/archive/blob/master/angelicazanibellato/Invisibile/img/excitement.PNG)
+
+![img](https://github.com/angelicazanibellato/archive/blob/master/angelicazanibellato/Invisibile/img/happy.PNG)
+
+![img](https://github.com/angelicazanibellato/archive/blob/master/angelicazanibellato/Invisibile/img/angry.PNG)
+
+
+**3 Analisi dell'immagine**
+
+Una volta determinato il colore del ricordo, cerco nella foto tutti i pixel che corrispondono a quel colore.
+Se il mio ricordo è felice, quindi verde, nella foto rimangono soltanto i pixel verdi mentre su tutti gli altri viene "stampato" un pixel nero
+
+[DeletePixels](https://editor.p5js.org/angelicazanibellato/present/zPUUs4BeG)
+
+
+
+
+**COLORI**
+
+Il colore è una cosa molto soggettiva. Il modo in cui qualcuno "vede" un colore non è facilmente misurabile e può essere molto diverso tra gli individui. Il colore è usato in molte culture per comunicare informazioni e creare emozioni. L'idea comune è che un colore può generare un'emozione specifica in qualsiasi momento.
+
+
+
+![img](https://github.com/angelicazanibellato/archive/blob/master/angelicazanibellato/Invisibile/img/colori.PNG)
+
+Fu sviluppata una famosa teoria riguardante i colori e le emozioni chiamata "rosa dei temperamenti", ideata da Goethe e Schiller , abbinando dodici colori alle occupazioni umane o ai loro tratti caratteriali ( tiranni, eroi, avventurieri, edonisti, amanti, poeti, oratori, storici, insegnanti, filosofi, pedanti, sovrani ), raggruppati nei quattro personalità: sanguigna, collerica, malinconica e flemmatica.
+
+![img](https://github.com/angelicazanibellato/archive/blob/master/angelicazanibellato/Invisibile/img/rosa%20temperamenti.PNG)
+
+
+**Altri sviluppi progettuali**
+
+**1 Raccontare il ricordo**
+
+Scrivo un breve testo in cui racconto un ricordo legato ad una foto.
+
+oppure
+
+Racconto con una breve frase, un ricordo legato ad una foto. Con l'algoritmo di p5Speech traduce il racconto in una stringa di testo.
+
+
+
+**2 Sentiment Analysis**
+
+Attraverso il face tracking determino il tipo di emozione legata al ricordo. Ogni emozione ha un valore da 0 (negativo) a 1 (positivo).
+
+Ogni emozione può essere collegata a un valore che modifica l'immagine.
+
+
+es.
+
+
+Felicità: i valori cambiamo il colore dei pixel  / applica un filtro colorato
+
+Divertimento: i valori cambiano la grandezza dei pixel / ...
+
+Rabbia: i valori cambiano la forma dei pixel / ...
+
+Tristezza: i valori cambiano l'opacità dell'immagine / visualizza l'immagine in bianco e nero
+
+...
+
+
+
+
+**Analisi dei colori**
+
+Creare un dataset attraverso un gioco (sketch rnn) per associare ad ogni colore un sentimento.
+
+Per esempio per ogni emozione/sentimento propongo una palette di colori tra cui scegliere.
+
+In questo modo si potrebbe pensare di realizzare un modello che riconosce l'emozione/sentimento dal colore.
+
+[joe hallock studio](http://www.joehallock.com/edu/COM498/index.html)
