@@ -12,6 +12,22 @@ Ho inserito la lingua italiana, e riportato le stringhe di testo direttamente al
 https://editor.p5js.org/ileniab/full/9SmdgQhLh
 
 - Primo approccio con Face Api di ml5. Ho inserito un rettangolo sulla parte inferiore del volto, in modo da simulare una "mascherina" 
-poi sto cercando di unire al codice la libreria di P5 speech in modo tale da poter inserire il dialogo all'interno del video. 
+poi ho unito al codice la libreria di P5 speech, in modo tale da poter inserire il dialogo all'interno del riquadro. 
 
 https://editor.p5js.org/ileniab/full/ljbjFDtVa
+
+## Passo successivo: inclusione dell'espressività
+
+Ragionando sul tema dell’inclusione, mi piacerebbe aggiungere espressività al progetto. Infatti la mascherina non lascia trapelare l’emozione che il volto esprime, si presenta come barriera emotiva, ancor di più se non si riesce a sentire il tono della voce. A questo proposito, si potrebbe intervenire sull’aspetto del font e sul colore del riquadro, che potrebbero variare a seconda del messaggio veicolato.
+
+Alcuni parametri da determinare in base all’emozione:
+
+*	Forma 
+    * spigolosa
+    * morbida 
+* Colore
+* Font 
+    * dimensione
+    * tipo
+  	* bold/regular/extrathin
+
