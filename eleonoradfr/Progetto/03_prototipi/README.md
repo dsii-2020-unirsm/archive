@@ -15,4 +15,13 @@
   
 - partendo da Face Tracking ho modificato il codice affinchè sia in grado di mostrare in tempo reale nome 
 e colore a seconda del tipo di emozione provata dall'utente (nei suoi momenti di picco)  
-![prototipo](https://github.com/eleonoradfr/archive/blob/master/eleonoradfr/Progetto/03_prototipi/expressions.jpg)
+![prototipo](https://github.com/eleonoradfr/archive/blob/master/eleonoradfr/Progetto/03_prototipi/expressions.jpg)  
+  
+- partendo dalla versione precedente ho modificato la visualizzazione delle emozioni utilizzando dei cerchietti che 
+attraverso il movimento verticale indicano il valore corrispondente all'emozione e attraverso il movimento orizzontale 
+indicano la persistenza di questa nel tempo nei momenti di picco
+![prototipo](https://github.com/eleonoradfr/archive/blob/master/eleonoradfr/Progetto/03_prototipi/ft_grafico.png)  
+  
+- partendo dalla versione precedente mostro in tempo reale i valori distinti delle quattro emozioni registrate (movimento verticale dei cerchietti) e nei momenti di picco emozionale mostro il colore associato a quella precisa emozione, la mappatura del volto e la persistenza nel tempo (movimento orizzontale dei cerchietti)
+![prototipo](https://github.com/eleonoradfr/archive/blob/master/eleonoradfr/Progetto/03_prototipi/ft_grafico%2Bcolore.png)
+
