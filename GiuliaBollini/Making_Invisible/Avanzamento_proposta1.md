@@ -1,4 +1,4 @@
-_avanzamento fino all'08/05/20_
+_avanzamento fino al 14/05/20_
 # _Cultura / distanza_  
 
 ![Schermata 2020-05-09 alle 17 59 20](https://user-images.githubusercontent.com/61871414/81478651-098b7f80-921f-11ea-9793-4c88248ba8c6.png)
@@ -17,7 +17,28 @@ _Rilevare la pelle umana nelle immagini e la sua texture. Segmentazione della pe
 
 //https://medium.com/machine-learning-world/feature-extraction-and-similar-image-search-with-opencv-for-newbies-3c59796bf774
 
+//https://editor.p5js.org/GiuliaBollini/sketches/W0Ad_QCIB
+
+
+![Schermata 2020-05-14 alle 13 49 58](https://user-images.githubusercontent.com/61871414/81931104-df084080-95e9-11ea-92d7-82e8c7691926.png)
+
+//Terrapattern, immagini satellitari: https://github.com/CreativeInquiry/terrapattern
+
+//DCGAN ml5, generatore di immagini: https://github.com/ml5js/ml5-library/blob/gh-pages/docs/reference/dcgan.md
+
+![Schermata 2020-05-14 alle 13 45 52](https://user-images.githubusercontent.com/61871414/81930824-643f2580-95e9-11ea-8a36-252996791f73.png)
+
+//https://editor.p5js.org/GiuliaBollini/sketches/vOa_LtyS5
+
+![Schermata 2020-05-14 alle 13 46 09](https://user-images.githubusercontent.com/61871414/81930813-61dccb80-95e9-11ea-87c2-27ec5eea7700.png)
+
+![Schermata 2020-05-14 alle 13 46 24](https://user-images.githubusercontent.com/61871414/81930835-6608e900-95e9-11ea-9446-3bb8ada1b494.png)
+
 **Referenze:**
+
+_Geography of Hidden Faces (https://geo.hidden-faces.net/)_ : Esplora le bellezze del mondo e trova i volti lungo la strada
+
+![Schermata 2020-05-14 alle 13 40 45](https://user-images.githubusercontent.com/61871414/81930995-ac5e4800-95e9-11ea-9d22-dba4e363f4f0.png)
 
 _SFA database - skin (http://iris.sel.eesc.usp.br/wvc/Anais_WVC2013/Poster/2/3.pdf)_ : Database delle immagini della pelle umana
 
