@@ -36,3 +36,4 @@ https://editor.p5js.org/ileniab/full/O2su00JMJ **ita**
 ![foto](https://github.com/ileniab/archive/blob/master/ileniab/INVISIBLE/6.Prove_Algoritmi_2/ITALIANO_SentimentAnalysis%2BFaceApi_Video%2BP5speech/it_faceApi-dand-speech_3.png)
 
 
+* ho modificato il codice del face tracking, creando un rettangolo sul volto che si modifica in base all'espressione.
