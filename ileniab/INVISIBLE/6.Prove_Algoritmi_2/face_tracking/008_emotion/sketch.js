@@ -21,7 +21,7 @@ function setup() {
     loadTracker();
     loadCanvas(400,380);
     textAlign(CENTER);
-}
+
 //     //-------------P5 SPEECH-------------------------------
 //
  let lingua = 'IT'; //var lingua che imposta il linguaggio
@@ -36,7 +36,7 @@ function setup() {
  rectMode(CENTER);
 
 //--------END-----P5 SPEECH--------------------------------
-
+}
 
 function draw() {
     getPositions();
