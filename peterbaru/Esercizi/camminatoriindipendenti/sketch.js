@@ -1,7 +1,9 @@
-// Dotare i camminatori di indipendenza by Pietro Baruzzi
-// 2020 © Pietro Baruzzi, Daniele @Fupete and the course DSII2020 at DESIGN.unirsm 
-// github.com/dsii-2020-unirsm — github.com/fupete
+// -
+// dotare i camminatori di indipendenza 0.1 by Pietro [camminatori, indipendenti]
+// 2020 © Pietro, Daniele @Fupete and the course DSII2020 at DESIGN.unirsm 
+// github.com/dsii-2020-unirsm — github.com/peterbaru
 // Educational purposes, MIT License, 2020, San Marino
+// —
 
 let camminatori = []
 //let num = 10
