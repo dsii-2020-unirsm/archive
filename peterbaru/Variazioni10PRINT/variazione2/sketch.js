@@ -7,6 +7,8 @@
 // Credits/Thanks to: 
 // 10 PRINT CHR$(205.5+RND(1)); : GOTO 10 book for https://10print.org/
 // 
+// @shiffman (https://twitter.com/shiffman) for https://natureofcode.com/, https://github.com/nature-of-code/noc-examples-p5.js/blob/master/chp00_introduction/NOC_I_01_RandomWalkTraditional/sketch.js
+// original license: MIT License
 // —
 // Help:
 // [mouse_pressed] le sfere sono cerchiate di nero e più distanziate
