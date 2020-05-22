@@ -1,7 +1,15 @@
-// generatore casuale di parole by Pietro Baruzzi
-// 2019 © Pietro Baruzzi, Daniele @Fupete and the course DSII2019 at DESIGN.unirsm 
+// -
+// Generatore casuale di parole 0.2 by Pietro [parole, random]
+// 2020 © Pietro, Daniele @Fupete and the course DSII2020 at DESIGN.unirsm 
 // github.com/dsii-2020-unirsm — github.com/fupete
 // Educational purposes, MIT License, 2020, San Marino
+// —
+//
+// Help:
+// [mouse_pressed] se il mouse viene premuto si ferma su una parola
+// [key_pressed] se viene premuto un tasto della tastiera si riattiva
+//
+// —
 
 // generatore casuale di parole, ogni volta che viene premuto il mouse
 // il loop si ferma e rimane fissa sullo schemro una parola.
