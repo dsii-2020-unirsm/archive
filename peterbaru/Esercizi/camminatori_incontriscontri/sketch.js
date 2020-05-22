@@ -1,7 +1,12 @@
-// incontri scontri tra camminatori by Pietro Baruzzi
-// 2020 © Pietro Baruzzi, Daniele @Fupete and the course DSII2020 at DESIGN.unirsm 
-// github.com/dsii-2020-unirsm — github.com/fupete
+// -
+// incontri scontri tra camminatori 0.1 by Pietro [camminatori, scontri]
+// 2020 © Pietro, Daniele @Fupete and the course DSII2020 at DESIGN.unirsm 
+// github.com/dsii-2020-unirsm — github.com/peterbaru
 // Educational purposes, MIT License, 2020, San Marino
+// -
+// Credits/Thanks to: 
+// @shiffman (twitter.com/shiffman) for https://shiffman.net/
+//-
 
 
 let camminatori = []
