@@ -1,7 +1,14 @@
-// generatore di pattern by Pietro Baruzzi
-// 2020 © Pietro Baruzzi, Daniele @Fupete and the course DSII2020 at DESIGN.unirsm 
-// github.com/dsii-2020-unirsm — github.com/fupete
+// -
+// pattern con modulo percentuale 0.2 by Pietro [pattern, modulo%]
+// 2020 © Pietro, Daniele @Fupete and the course DSII2020 at DESIGN.unirsm 
+// github.com/dsii-2020-unirsm — github.com/peterbaru
 // Educational purposes, MIT License, 2020, San Marino
+// —
+//
+// Help:
+// [mouse_position] in base alla posizione del mouse variano i colori e lo spessore del bordo
+//
+// —
 
 let dim = 30
 
