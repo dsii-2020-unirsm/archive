@@ -1,3 +1,20 @@
+// -
+// DeletePixels 0.13 by angelica [faceTracking, getSentiment]
+// 2020 © angelica, Daniele @Fupete and the course DSII2020 at DESIGN.unirsm 
+// github.com/dsii-2020-unirsm — github.com/fupete
+// Educational purposes, MIT License, 2020, San Marino
+// —
+// Credits/Thanks to: 
+// @ml5js (github.com/ml5js) for https://github.com/ml5js/ml5-library/tree/development/src/Sentiment
+// original license: MIT License
+//
+//// @stc (github.com/stcs) https://github.com/stc/face-tracking-p5js
+// original license: MIT License
+//
+// —
+
+
+
 function setup() {
     loadCamera();
     loadTracker();
