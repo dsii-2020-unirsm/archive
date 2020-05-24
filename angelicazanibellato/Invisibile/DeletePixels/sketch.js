@@ -1,9 +1,12 @@
-// DeletePixels by angelicazanibellato
-// 2019 © Angelica Zanibellato, Daniele @Fupete and the course DSII2019 at DESIGN.unirsm 
+// -
+// DeletePixels 0.11 by angelica [deletePixels, color-thief]
+// 2020 © angelica, Daniele @Fupete and the course DSII2020 at DESIGN.unirsm 
 // github.com/dsii-2020-unirsm — github.com/fupete
 // Educational purposes, MIT License, 2020, San Marino
-
-//Reference ColorThief https://github.com/lokesh/color-thief
+// —
+// @lokesh (github.com/lokesh) for https://github.com/lokesh/color-thief
+// original license: MIT License
+// —
 
 
 let img;
