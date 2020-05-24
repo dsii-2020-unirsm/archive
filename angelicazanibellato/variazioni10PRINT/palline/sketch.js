@@ -1,7 +1,15 @@
-// generatore di pattern by angelicazanibellato
-// 2019 © Angelica Zanibellato, Daniele @Fupete and the course DSII2019 at DESIGN.unirsm 
+// -
+// variazione10Print 0.1 by Angelica [10Print, commodore64]
+// 2020 © Angelicae, Daniele @Fupete and the course DSII2020 at DESIGN.unirsm 
 // github.com/dsii-2020-unirsm — github.com/fupete
 // Educational purposes, MIT License, 2020, San Marino
+// —
+// Credits/Thanks to: 
+// 10 PRINT CHR$(205.5+RND(1)); : GOTO 10 book for https://10print.org/
+// original license: Tipo licenza
+// 
+// —
+
 
 function setup() {
   createCanvas(windowWidth, windowHeight);
