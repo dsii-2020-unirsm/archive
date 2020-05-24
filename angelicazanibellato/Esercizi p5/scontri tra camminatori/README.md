@@ -1,4 +1,4 @@
-_Incontro/scontro tra camminatori_
+**Scontri tra camminatori**
 
 I camminatori si muovono in modo indipendente e quando entrano in contatto cambiano colore.
 
