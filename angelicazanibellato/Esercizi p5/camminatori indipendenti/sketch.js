@@ -7,9 +7,10 @@
 //
 // Help:
 // [mouse] change color
+// [mouse] add walker
+// [key] remove walker
 //
 // —
-
 let camminatori = [];
 let num = 10;
 let dim = 25;
