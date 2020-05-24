@@ -1,10 +1,13 @@
 // -
-// Variazione 10PRINT con GUI by Ilenia Balella [keyword1, keyword2]
+// Pixel_bricks_con GUI10PRINT by Ilenia Balella [10PRINT, commodore64]
 // 2020 © Ilenia Balella @ileniab, Daniele @Fupete and the course DSII2020 at DESIGN.unirsm 
 // github.com/dsii-2020-unirsm — github.com/ileniab
 // Educational purposes, MIT License, 2020, San Marino
 // —
-
+// Credits/Thanks to: 
+// 10PRINT book for https://nickm.com/trope_tank/10_PRINT_121114.pdf
+// —
+//
 
 let x = 0; //coordinata x 
 let y = 0; //coordinata y 
