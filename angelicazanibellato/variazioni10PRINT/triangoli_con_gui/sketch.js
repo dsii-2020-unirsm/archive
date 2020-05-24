@@ -1,7 +1,13 @@
-// generatore di pattern by angelicazanibellato
-// 2019 © Angelica Zanibellato, Daniele @Fupete and the course DSII2019 at DESIGN.unirsm 
+// -
+// variazione10Print_GUI 0.3 by angelicazanibellato [10Print, GUI]
+// 2020 © Angelica Zanibellato, Daniele @Fupete and the course DSII2020 at DESIGN.unirsm 
 // github.com/dsii-2020-unirsm — github.com/fupete
 // Educational purposes, MIT License, 2020, San Marino
+// —
+// Credits/Thanks to: 
+// https://editor.p5js.org/fupete/sketches/Mw0ugXFno for original code
+// —
+//
 
 
 //OGGETTO PARAMETRI
