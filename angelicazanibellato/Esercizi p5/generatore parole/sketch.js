@@ -1,9 +1,15 @@
 // -
-// generatore_parole 0.5 by angelica [walker, keyword2]
+// pattern_modulo 0.6 by angelica [walker, keyword2]
 // 2020 © angelica, Daniele @Fupete and the course DSII2020 at DESIGN.unirsm 
 // github.com/dsii-2020-unirsm — github.com/fupete
 // Educational purposes, MIT License, 2020, San Marino
 // —
+//
+// Help:
+// [mouse] change stoke/strokeWeight
+//
+// —
+
 
 
 
