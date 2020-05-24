@@ -1,3 +1,12 @@
+// -
+// generatore_parole 0.4 by angelica [walker, keyword2]
+// 2020 © angelica, Daniele @Fupete and the course DSII2020 at DESIGN.unirsm 
+// github.com/dsii-2020-unirsm — github.com/fupete
+// Educational purposes, MIT License, 2020, San Marino
+// —
+
+
+
 let parola= ""; //stringa vuota dove metto le lettere
 
  let vocali = ["a","e","i","o","u"];
