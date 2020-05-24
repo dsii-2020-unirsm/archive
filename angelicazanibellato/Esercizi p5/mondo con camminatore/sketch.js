@@ -1,4 +1,11 @@
 
+// -
+// mondo_con_camminatore 0.7 by angelica [keyword1, keyword2]
+// 2020 © angelica, Daniele @Fupete and the course DSII2020 at DESIGN.unirsm 
+// github.com/dsii-2020-unirsm — github.com/fupete
+// Educational purposes, MIT License, 2020, San Marino
+// —
+
 let camminatore = [];
 
 function setup() {
