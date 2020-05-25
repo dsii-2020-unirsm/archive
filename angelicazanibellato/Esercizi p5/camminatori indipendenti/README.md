@@ -1,4 +1,4 @@
-*Camminatori indipendenti*
+* Camminatori indipendenti *
 
 I camminatori si muovono in modo indipendente l'uno dall'altro con velocità diverse.
 Muovendo il cursore in verticale e in orizzontale sulla tela i cammiantori cambiano colore.
