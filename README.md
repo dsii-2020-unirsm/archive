@@ -2,5 +2,5 @@
 
 _dsii-2020-unirsm_
 
-Docente D. Tabellini
-Assistente I. Trotta
+_Docente_ D. Tabellini | 
+_Assistente_ I. Trotta
