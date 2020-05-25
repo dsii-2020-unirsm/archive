@@ -1,4 +1,4 @@
-_Pattern con modulo_
+**Pattern con modulo**
 
 Il pattern è composto da cerchi che cambiano la loro grandezza fino a intersecarsi tra loro.
 Spostando il cursore a destra e sinistra i cerchi cambiano colore e spessore.
