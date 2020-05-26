@@ -9,4 +9,14 @@ in modo che il disegno sia in quella posizione;
 
 <br>
 Prototipo <br>
-MY_TeachableMachine+SNAP+sketchRNN 5
+MY_TeachableMachine+SNAP+sketchRNN 5       
+
+[+](https://editor.p5js.org/francy96/sketches/dsSzCJAne)
+
+
+Considerazioni <br>
+Teachable Machine non torna le coordinate degli oggetti che identifica, <br>
+perciò al posto di utilizzare *ml5.imageClassifier* ho optato per *ml5.objectDetector* 
+( [+](https://ml5js.org/reference/api-ObjectDetector/) )<br>
+A questo punto ho eliminato il collegamento al modello allenato con Teachable Machine. <br>
+Ho creato *function trasformazione* (riga 317 del codice) in cui ho inserito *switch()* che prende in entrata l'oggetto reale (per esempio *'cup'*, riconsociuto dall'object detector), mi restituisce l'oggetto "trasformato" grazie a *case* e *return*. <br>
