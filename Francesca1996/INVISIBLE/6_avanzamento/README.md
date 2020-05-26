@@ -14,6 +14,9 @@ MY_TeachableMachine+SNAP+sketchRNN 5
 [+](https://editor.p5js.org/francy96/sketches/dsSzCJAne)
 
 
+![the source](https://github.com/Francesca1996/archive/blob/master/Francesca1996/INVISIBLE/6_avanzamento/6_avanzamento.jpg)
+
+
 Considerazioni <br>
 Teachable Machine non torna le coordinate degli oggetti che identifica, <br>
 perciò al posto di utilizzare *ml5.imageClassifier* ho optato per *ml5.objectDetector* 
