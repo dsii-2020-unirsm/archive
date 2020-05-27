@@ -1,5 +1,5 @@
 // -
-// caminatori 0.2 by Pietro [camminaotri, noise]
+// caminatori 0.2 by peterbaru [camminaotri, noise]
 // 2020 © Pietro, Daniele @Fupete and the course DSII2020 at DESIGN.unirsm 
 // github.com/dsii-2020-unirsm — github.com/peterbaru
 // Educational purposes, MIT License, 2020, San Marino
