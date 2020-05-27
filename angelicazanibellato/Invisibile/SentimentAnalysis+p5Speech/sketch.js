@@ -45,7 +45,7 @@ function setup() {
 
   //P5 SPEECH
 
-  let lingua = navigator.language || 'IT'; //var lingua che imposta il linguaggio
+  let lingua = navigator.language || 'en-US'; //var lingua che imposta il linguaggio
   riconosciParola = new p5.SpeechRec(lingua, gotSpeech);
   let continous = true; //ascolta di continuo
   let interim = false; // scrive quando fai una pausa
