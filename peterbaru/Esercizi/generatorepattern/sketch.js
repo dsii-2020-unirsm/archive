@@ -1,10 +1,14 @@
 // -
-// pattern con modulo percentuale 0.2 by Pietro [pattern, modulo%]
+// pattern con modulo percentuale 0.2 by peterbaru [pattern, modulo%]
 // 2020 © Pietro, Daniele @Fupete and the course DSII2020 at DESIGN.unirsm 
 // github.com/dsii-2020-unirsm — github.com/peterbaru
 // Educational purposes, MIT License, 2020, San Marino
 // —
 //
+// @aparrish (twitter.com/aparrish) for https://creative-coding.decontextualize.com/changes-over-time/
+// original license: Creative Commons Attribution-NonCommercial 4.0 International License
+//
+// —
 // Help:
 // [mouse_position] in base alla posizione del mouse variano i colori e lo spessore del bordo
 //
