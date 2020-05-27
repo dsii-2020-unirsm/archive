@@ -1,11 +1,23 @@
 // -
-// OnceUponeaStory 0.1 by Pietro [racconti, disengi]
+// DrawnStories 2.0 by peterbaru [racconti, disengi]
 // 2020 © Pietro, Daniele @Fupete and the course DSII2020 at DESIGN.unirsm
 // github.com/dsii-2020-unirsm — github.com/fupete
 // Educational purposes, MIT License, 2020, San Marino
 // —
 // Credits/Thanks to:
-// @ml5 for https://github.com/ml5js/ml5-library
+// @ml5js (github.com/ml5js) for https://github.com/ml5js/ml5-library/tree/development/examples/p5js/CharRNN/CharRNN_Text
+// original license: MIT License
+//
+// @ml5js (github.com/ml5js) for https://github.com/ml5js/ml5-library/tree/development/examples/p5js/ImageClassification/ImageClassification
+// original license: MIT License
+//
+// @ml5js (github.com/ml5js) for https://github.com/ml5js/ml5-library/tree/development/examples/p5js/ImageClassification/ImageClassification_DoodleNet_Canvas
+// original license: MIT License
+//
+// @ml5js (github.com/ml5js) for https://github.com/ml5js/ml5-library/tree/development/examples/p5js/SketchRNN
+// original license: MIT License
+//
+// @IDMNYU (github.com/IDMNYU) for https://github.com/IDMNYU/p5.js-speech
 // original license: MIT License
 // —
 // [mouse] premendo i diversi pulsanti si generano racconti partendo da un disegno o un'immagine
@@ -38,24 +50,17 @@ let canvas;
 let label;
 let confidence;
 
-//variabili per objectDetector
-let objectDetector;
-let img;
-let objects = [];
-let status;
+//variabili per Immagini classify
+let classifier1;
 
 
 function preload() {
     classifier = ml5.imageClassifier('DoodleNet');
+    classifier1 = ml5.imageClassifier('MobileNet');
 }
 
 function setup() {
     createCanvas(600, 200);
-
-    //objectDetector = ml5.objectDetector('cocossd', {}, objectPronto);
-    // ml5.ObjectDetector('cocossd', {}, modelLoaded);
-
-    objectDetector = ml5.objectDetector('cocossd', objectPronto);
 
     noStroke();
     fill(172, 20, 90);
@@ -111,14 +116,6 @@ function setup() {
     sel2.option('Zosia');
     sel2.changed(mySelectEvent2);
 
-    // sel3 = createSelect();
-    // sel3.position(xbottoni, 360);
-    // sel3.option('Seleziona un disegno..');
-    // sel3.option('Barca');
-    // sel3.option('Disegno Famiglia');
-    // sel3.option('Cane');
-    // sel3.changed(mySelectEvent3);
-
     charRNN = ml5.charRNN('./models/baldwin/', modelReadyBaldwin);
 
     speech = new p5.Speech();
@@ -171,29 +168,6 @@ function mySelectEvent2() {
     }
 }
 
-function mySelectEvent3() {
-    let item = sel3.value();
-
-    // Create the LSTM Generator passing it the model directory
-    if (item === 'Barca') {
-        img = loadImage('images/barca.png', immagine_caricata);
-        console.log('hai selezionato la foto di una barca');
-    } else if (item === 'Disegno Famiglia') {
-        img = loadImage('images/family.png', immagine_caricata);
-        console.log('hai selezionato il disegno di una famiglia');
-    } else if (item === 'Cane') {
-        img = loadImage('images/cane.png', immagine_caricata);
-        console.log('hai selezionato la foto di una cane');
-    }
-}
-
-function immagine_caricata () {
-  image (img, 0, 0);
-  status = true;
-  console.log('Sto decriptando')
-  objectDetector.detect(img, gotResult);
-}
-
 
 function modelReadyWoolf() {
     console.log('Modello Woolf caricato');
@@ -221,15 +195,6 @@ function modelReadyGRIMM() {
 
 function objectPronto() {
     console.log("il modello è pronto")
-    // status = true;
-    // console.log('Sto decriptando')
-    // objectDetector.detect(img, gotResult);
-}
-
-function myInputEvent() {
-    textInput = this.value();
-    console.log(textInput);
-    button3.mousePressed(generate);
 }
 
 function mod_disegna() {
@@ -241,7 +206,12 @@ function mod_disegna() {
 }
 
 function mod_immagine() {
+
     seleziona = 3;
+
+    var cnv1 = createCanvas(400, 400);
+    cnv1.position(340, 100);
+    background(220);
 
     sel3 = createSelect();
     sel3.position(xbottoni, 360);
@@ -250,36 +220,42 @@ function mod_immagine() {
     sel3.option('Disegno Famiglia');
     sel3.option('Cane');
     sel3.changed(mySelectEvent3);
+}
 
-    var cnv1 = createCanvas(420, 280);
-    cnv1.position(340, 80);
-    background(0);
+function mySelectEvent3() {
+    let item = sel3.value();
+
+    // Create the LSTM Generator passing it the model directory
+    if (item === 'Barca') {
+        img = loadImage('images/barca.png', immagine_caricata);
+        console.log('hai selezionato la foto di una barca');
+    } else if (item === 'Disegno Famiglia') {
+        img = loadImage('images/family.png', immagine_caricata);
+        console.log('hai selezionato il disegno di una famiglia');
+    } else if (item === 'Cane') {
+        img = loadImage('images/cane.png', immagine_caricata);
+        console.log('hai selezionato la foto di una cane');
+    }
+}
+
+function immagine_caricata () {
+
+image(img, 0, 0);
+console.log('immagine caricata!')
+
+classifier1.classify(img, gotResult);
 }
 
 function draw() {
+
     if (seleziona == 2) {
         strokeWeight(15);
         stroke(0);
 
         if (mouseIsPressed) {
-            //    console.log('disegna')
             line(pmouseX, pmouseY, mouseX, mouseY);
         }
     } else if (seleziona == 3) {
-        //    console.log('immagine')
-        if (status != undefined) {
-            image(img, 0, 0)
-
-            for (let i = 0; i < objects.length; i++) {
-                noStroke();
-                fill(0, 255, 0);
-                text(objects[i].label + " " + nfc(objects[i].confidence * 100.0, 2) + "%", objects[i].x + 5, objects[i].y + 15);
-                noFill();
-                strokeWeight(4);
-                stroke(0, 255, 0);
-                rect(objects[i].x, objects[i].y, objects[i].width, objects[i].height);
-            }
-        }
 
     }
 }
@@ -301,8 +277,6 @@ function gotResult(error, results) {
     inp.position(xbottoni, 200);
     inp.input(eventoInput);
     eventoInput();
-  //  objects = risultati;
-    console.log('sono qui');
 }
 
 function eventoInput() {
@@ -346,17 +320,26 @@ function generate() {
 
             // When it's done
             function gotData(err, result) {
-                // Update the status log
+
+
+                            let frasi =  result.sample.split('.');
+                            console.log(frasi);
+
+                            let num_punti = (result.sample.split('.').length)-1;
+
+                            let finale = frasi.slice(0, num_punti);
+
+                         // for (i=0; i<=num_punti; i++){
+                         //
+                         // let finale1 = frasi[i] + ". "
+                         //
+                         // }
+
                 console.log('Ora puoi leggere il tuo racconto!');
-                let testo_finito = 'Once upon a time a ' + txt + result.sample;
-                console.log(result.sample);
+                let testo_finito = 'Once upon a time a ' + txt + finale + ".";
+              //  console.log(result.sample);
 
-
-
-                console.log(result.sample.split('.').length);
-
-
-                console.log(testo_finito);
+              //  console.log(testo_finito);
                 var stampa = createP(testo_finito);
                 stampa.position(40, 380);
                 button4.mousePressed(leggi);
