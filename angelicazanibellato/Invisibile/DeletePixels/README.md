@@ -1,4 +1,4 @@
 ## Prototipo Delete Pixels ##
 
 
-L'algoritmo permette selezionare i pixel da vedere e posizionare dei pixel neri su tutti gli altri.
+L'algoritmo permette di selezionare i pixel da visualizzare sull'immagine caricata e eliminare tutti gli altri.
