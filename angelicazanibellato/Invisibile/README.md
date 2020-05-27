@@ -106,7 +106,7 @@ Riferimenti
 ![img](https://github.com/angelicazanibellato/archive/blob/master/angelicazanibellato/Invisibile/img/idee%20progettuali.PNG)
 
 
-**AVANZAMENTO**
+## AVANZAMENTO ##
 
 
 Il progetto ha l'obbiettivo di rendere visibili i ricordi e imitare il processo di dimenticanza.
@@ -232,3 +232,70 @@ Per esempio per ogni emozione/sentimento propongo una palette di colori tra cui 
 In questo modo si potrebbe pensare di realizzare un modello che riconosce l'emozione/sentimento dal colore.
 
 [joe hallock studio](http://www.joehallock.com/edu/COM498/index.html)
+
+
+
+## AVANZAMENTO ##
+
+**domande di progetto**
+
+Cosa ci spinge ad agire in una direzione piuttosto che in un’altra?
+Cosa si nasconde dietro le nostre scelte?
+
+
+“Non esiste la libertà di decidere, né una parte di noi che ci fa decidere le cose. La scelta non è, come molti di noi immaginano, isolata nel nostro mondo interiore, prché siamo sempre influenzati
+da quello che accade intorno a noi.” (Daniel C. Dennett, 2020)
+
+
+In una macchina questa influenza esterna manca, per cui:
+come è fatta una scelta?
+
+Le reti neurali artificiali si basano su una raccolta di nodi collegati tra loro e ogni connessione trasmette un segnale ad altri nodi.
+Questi reti sfruttano l’architettura del cervello umano.
+
+
+Si possono creare macchine che dimenticano o che selezionano, al posto nostro, le informazioni da eliminare?
+
+**che cos’è**
+
+DeletePixel è un prototipo che cerca di imitare il processo
+di selezione e dimenticanza delle informazioni legate a un ricordo. L’obbiettivo è quello di rendere visibile la forma dei ricordi legati a una foto e al tipo di emozione che suscita.
+
+**come funziona**
+
+l prototipo è composto da una alcuni algoritmi che permettono all’utente di raccontare i propri ricordi legati a particolari foto e di ottenere nuove immagini che mostrano soltanto alcune parti della foto originale. In questo modo l’utente ha la possibilità di vedere che forma hanno i suoi ricordi. Il processo di scelta delle informazioni da eliminare dalla foto è determinato dal tipo di emozione che l’utente prova nel raccontare il suo ricordo.
+
+L’algoritmo di p5Specch permette di ascoltare e registrare il ricordo raccontato dall’utente. Un algoritmo di machine learning fa la sentiment analysis del testo e attribuisce un valore da 0 (negativo) a 100 (positivo). Dopo aver determinato una scala di valori che corrispondono a quattro diverse emozioni, viene individuato il tipo di sentimento che suscita quel ricordo: tristezza, rabbia, divertimento, felicità. A ognuno di questi sentimenti è poi stato associato un colore, rispettivamente: blu, rosso, giallo verde.
+
+La scelta del colore da associare al sentimento è stata fatta a partire dal progetto “Colours In Culture”, che individua 10 culture e 84 sentimenti. Per ogni sentimento associa un colore in base alla cultura.
+
+In questo modo avremo un colore specifico associato al ricordo. Ora, questo colore viene preso come elemento di input da un altro algoritmo che permette di eliminare dalla foto tutti i pixel che non corrispondono a quel colore. L’elemento di output finale è un’immagine composta dai pixel del colore del ricordo e l’utente
+ha la possibilità di vedere che forma hanno i suoi ricordi.
+
+
+**che cosa significa**
+
+La memoria costituisce ciò che siamo, è uno strumento di sopravvivenza. Usiamo le nostre esperienze per anticipare
+e prepararci a eventi o incontri imminenti.  Ma se potessimo cancellare a piacimento parti della nostra vita, smetteremmo
+di essere chi siamo.
+
+Il cervello “dimentica” i dati e le esperienze in maniera continua.
+Lo facciamo inconsciamente e senza averne il minimo controllo.
+È proprio il cervello a decidere di scartare fatti poco importanti e poco interessanti. Il suo obiettivo è migliorare la sua efficienza.
+Ma quali sono sono le informazioni che dimentichiamo?
+
+Ci sono ricordi neutri e ricordi emotivi. Il materiale che dimentichiamo quasi all’istante è quello visivo. Gli eventi segnati dall’impronta di un’emozione, invece, resistono all’oblio.
+
+Il progetto parte da questi presupposti per cercare di dare forma ai ricordi emotivi, creando una nuova immagine rispetto alla foto che vediamo. La stessa foto, guardata in momenti differenti della nostra vita, potrebbe anche suscitare emozioni contrastanti e, quindi, creare immagini del tutto diverse.
+
+Si potrebbe pensare di inserire questi ricordi emotivi in una timeline e taggarli con una didascalia che contiene il ricordo, il tipo di emozione e la data in cui sono stati realizzati.
+
+**sviluppi futuri**
+
+Una strada alternativa per rappresentare il pocesso di dimenticanza dei ricordi,  potrebbe essere l’utilizzo del face tracking per il riconoscimento di un’emozione suscitata da un ricordo.Il prototipo potrebbe registrare i picchi emozionali durante il racconto ed essere utilizzati come dati per gestire alcuni parametri per manipolare l’immagine. Per esempio, i valori da 0 a 100 registrati con la sentiment analysis possono determinare la grandezza o la forma dei pixel dell’immagine, oppure possono variare la saturazione o la luminosità, in modo da rendere l’immagine più o meno riconoscibile. 
+
+
+Un problema relativo a questi prototipi, è la scelta dell’attribuzione del colore rispetto un certo sentimento. Come è noto, il significato dei colori cambia a seconda delle culture e delle tradizioni.
+Sarebbe interessante prototipare una macchina che riconosce il sentimento in base a un colore e viceversa. Si potrebbe creare un dataset attraverso un gioco, come SketchRNN, e chiedere all’utente
+di associare un colore, da scegliere tra una palette di tre colori,
+a un certo sentimento.
