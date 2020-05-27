@@ -299,3 +299,8 @@ Un problema relativo a questi prototipi, è la scelta dell’attribuzione del co
 Sarebbe interessante prototipare una macchina che riconosce il sentimento in base a un colore e viceversa. Si potrebbe creare un dataset attraverso un gioco, come SketchRNN, e chiedere all’utente
 di associare un colore, da scegliere tra una palette di tre colori,
 a un certo sentimento.
+
+
+**prototipo**
+
+![img](https://github.com/angelicazanibellato/archive/blob/master/angelicazanibellato/Invisibile/Prototipo/img1.PNG)
