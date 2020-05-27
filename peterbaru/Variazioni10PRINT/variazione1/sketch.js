@@ -1,5 +1,5 @@
 // -
-// variazione10Print 0.3 by Pietro [10Print, commodore64]
+// variazione10Print 0.3 by peterbaru [10Print, commodore64]
 // 2020 © Pietro, Daniele @Fupete and the course DSII2020 at DESIGN.unirsm 
 // github.com/dsii-2020-unirsm — github.com/peterbaru
 // Educational purposes, MIT License, 2020, San Marino
