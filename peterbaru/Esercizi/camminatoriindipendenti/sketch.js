@@ -1,5 +1,5 @@
 // -
-// dotare i camminatori di indipendenza 0.1 by Pietro [camminatori, indipendenti]
+// dotare i camminatori di indipendenza 0.1 by peterbaru [camminatori, indipendenti]
 // 2020 © Pietro, Daniele @Fupete and the course DSII2020 at DESIGN.unirsm 
 // github.com/dsii-2020-unirsm — github.com/peterbaru
 // Educational purposes, MIT License, 2020, San Marino
