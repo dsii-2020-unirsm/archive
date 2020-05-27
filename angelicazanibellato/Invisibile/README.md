@@ -258,12 +258,12 @@ Si possono creare macchine che dimenticano o che selezionano, al posto nostro, l
 
 **che cos’è**
 
-DeletePixel è un prototipo che cerca di imitare il processo
+DeletePixel è un progetto che cerca di imitare il processo
 di selezione e dimenticanza delle informazioni legate a un ricordo. L’obbiettivo è quello di rendere visibile la forma dei ricordi legati a una foto e al tipo di emozione che suscita.
 
 **come funziona**
 
-l prototipo è composto da una alcuni algoritmi che permettono all’utente di raccontare i propri ricordi legati a particolari foto e di ottenere nuove immagini che mostrano soltanto alcune parti della foto originale. In questo modo l’utente ha la possibilità di vedere che forma hanno i suoi ricordi. Il processo di scelta delle informazioni da eliminare dalla foto è determinato dal tipo di emozione che l’utente prova nel raccontare il suo ricordo.
+Il progetto è composto da una alcuni algoritmi che permettono all’utente di raccontare i propri ricordi legati a particolari foto e di ottenere nuove immagini che mostrano soltanto alcune parti della foto originale. In questo modo l’utente ha la possibilità di vedere che forma hanno i suoi ricordi. Il processo di scelta delle informazioni da eliminare dalla foto è determinato dal tipo di emozione che l’utente prova nel raccontare il suo ricordo.
 
 L’algoritmo di p5Specch permette di ascoltare e registrare il ricordo raccontato dall’utente. Un algoritmo di machine learning fa la sentiment analysis del testo e attribuisce un valore da 0 (negativo) a 100 (positivo). Dopo aver determinato una scala di valori che corrispondono a quattro diverse emozioni, viene individuato il tipo di sentimento che suscita quel ricordo: tristezza, rabbia, divertimento, felicità. A ognuno di questi sentimenti è poi stato associato un colore, rispettivamente: blu, rosso, giallo verde.
 
