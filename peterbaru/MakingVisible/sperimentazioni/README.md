@@ -1,0 +1,1 @@
+Ho caricato due prototipi con le sperimentazioni per verificare se l'algoritmo [objectDetector](https://learn.ml5js.org/docs/#/reference/object-detector) sia in grado di riconoscere i disegni realizzati da sketchRNN.
