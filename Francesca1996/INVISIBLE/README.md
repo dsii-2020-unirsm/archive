@@ -1,3 +1,3 @@
 ## INVISIBLE
 
-Questa cartella conterrà tutto il percorso relativo al progetto INVISIBLE
+Questa cartella contiene tutto il percorso relativo al progetto INVISIBLE
