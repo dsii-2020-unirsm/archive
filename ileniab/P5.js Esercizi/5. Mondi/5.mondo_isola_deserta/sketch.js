@@ -1,10 +1,16 @@
 // -
-// Mondo , bolle by Ilenia Balella 
+// Mondo , isola by Ilenia Balella 
 // 2020 © Ilenia Balella @ileniab, Daniele @Fupete and the course DSII2020 at DESIGN.unirsm 
 // github.com/dsii-2020-unirsm — github.com/ileniab
 // Educational purposes, MIT License, 2020, San Marino
 // —
-
+// Credits/Thanks to: 
+// @aparrish (twitter.com/aparrish) for https://creative-coding.decontextualize.com/changes-over-time/
+// original license: Creative Commons Attribution-NonCommercial 4.0 International License
+//
+// @fupete (https://github.com/fupete) for https://editor.p5js.org/fupete/sketches/JNiVWhfJof
+// -
+//
 let camminatori= [];
 
 let dim= 30;
