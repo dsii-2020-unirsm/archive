@@ -1,4 +1,6 @@
-generatore casuale di parole
+**Generatore casuale di parole**
+
+Le lettere che compongono la parola vengono scelte in maniera casuale da due array diversi, che contengono le vocali e le consonanti.
 
 [link](https://editor.p5js.org/angelicazanibellato/full/_WR3uS23N)
 

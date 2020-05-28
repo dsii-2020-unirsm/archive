@@ -1,8 +1,16 @@
-// generatore di pattern by angelicazanibellato
-// 2019 © Angelica Zanibellato, Daniele @Fupete and the course DSII2019 at DESIGN.unirsm 
+// -
+// camminatori_indipendenti 0.4 by angelica [walker, keyword2]
+// 2020 © angelica, Daniele @Fupete and the course DSII2020 at DESIGN.unirsm 
 // github.com/dsii-2020-unirsm — github.com/fupete
 // Educational purposes, MIT License, 2020, San Marino
-
+// —
+//
+// Help:
+// [mouse] change color
+// [mouse] add walker
+// [key] remove walker
+//
+// —
 let camminatori = [];
 let num = 10;
 let dim = 25;

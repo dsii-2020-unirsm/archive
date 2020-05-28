@@ -1,10 +1,18 @@
+// -
+// scontro_camminatori 0.8 by angelica [walker, keyword2]
+// 2020 © angelica, Daniele @Fupete and the course DSII2020 at DESIGN.unirsm 
+// github.com/dsii-2020-unirsm — github.com/fupete
+// Educational purposes, MIT License, 2020, San Marino
+// —
+
+
 let camminatore = []
 let position
-let num = 5
+let num = 7
 
 
 function setup() {
-  createCanvas(400, 400);
+  createCanvas(600, 600);
 
   for (var i = 0; i < num; i++) {
     camminatore[i] = new Walker(random(width), random(height));
@@ -12,11 +20,10 @@ function setup() {
 }
 
 function draw() {
-  background(220);
+  background('#C09CD9');
   for (var i = 0; i < camminatore.length; i++) {
     camminatore[i].step();
-    camminatore[i].mostrati();
-    //for per cambiare i colori      
+    camminatore[i].mostrati();     
     for (var j = 0; j < camminatore.length; j++) {
       if (i != j && camminatore[i].interseca(camminatore[j])) {
         camminatore[i].cambiaColore();
@@ -32,7 +39,7 @@ function Walker(x, y) {
 
   this.position.x = x
   this.position.y = y
-  
+
   this.r = 15
   this.t = random(50)
   this.col = color(255);
@@ -45,7 +52,6 @@ function Walker(x, y) {
     this.d = dist(this.position.x, this.position.y, other.position.x, other.position.y);
     if (this.d < this.r + other.r) //se la distanza è < della somma dei due raggi
     {
-      console.log("scontro: " + this.d)
       return true;
     } else {
       return false;
@@ -53,31 +59,28 @@ function Walker(x, y) {
   }
 
   this.mostrati = function() {
-    noStroke()
+    stroke(255)
     fill(this.col)
 
     ellipse(this.position.x, this.position.y, this.r * 2, this.r * 2)
   }
 
 
-  
+
   this.step = function() {
 
     var step = p5.Vector.random2D();
 
-   
-      step.setMag(2); //imposta grandezza vettore
-    
 
-    //costringi la posizione x all'interno della canvas
+    step.setMag(2); //grandezza vettore
+
     this.position.x = constrain(this.position.x, 0 + this.r, width - this.r);
 
-    //costringi la posizione y all'interno della canvas
     this.position.y = constrain(this.position.y, 0 + this.r, height - this.r);
 
     this.position.add(step); //aggiungi alla posizione lo step
   }
-  
+
 
 
 }

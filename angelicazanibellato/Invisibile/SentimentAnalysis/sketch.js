@@ -1,7 +1,19 @@
-// sentiment analys di ML5 in inglese by angelicazanibellato
-// 2019 © Angelica Zanibellato, Daniele @Fupete and the course DSII2019 at DESIGN.unirsm 
+// -
+// SentimentAnalysis_Text 0.12 by angelica [ml5, getSentiment]
+// 2020 © angelica, Daniele @Fupete and the course DSII2020 at DESIGN.unirsm 
 // github.com/dsii-2020-unirsm — github.com/fupete
 // Educational purposes, MIT License, 2020, San Marino
+// —
+// Credits/Thanks to: 
+// @ml5js (github.com/ml5js) for https://github.com/ml5js/ml5-library/tree/development/src/Sentiment
+// original license: MIT License
+// —
+//
+// Help:
+// [mouse] submitBtn
+//
+// —
+
 
 let sentiment;
 let statusEl;

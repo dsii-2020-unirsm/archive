@@ -1,5 +1,5 @@
 // -
-// p5Specch+sentimentAnalysis 0.12 by angelica [ml5, getSentiment]
+// DeletePixel  0.12 by angelica [p5Speech, getSentiment]
 // 2020 © angelica, Daniele @Fupete and the course DSII2020 at DESIGN.unirsm 
 // github.com/dsii-2020-unirsm — github.com/fupete
 // Educational purposes, MIT License, 2020, San Marino
@@ -8,13 +8,11 @@
 // @ml5js (github.com/ml5js) for https://github.com/ml5js/ml5-library/tree/development/src/Sentiment
 // original license: MIT License
 //
-//@ml5js (github.com/ml5js) for https://github.com/ml5js/ml5-library/tree/development/src/Sentiment
-//original license: MIT License
-// —
+//@IDMNYU (github.com/IDMNYU) for https://github.com/IDMNYU/p5.js-speech
+// original license: MIT License
 //
-// Help:
-// [mouse] submitBtn
-//
+//@lokesh (github.com/lokesh) for https://github.com/lokesh/color-thief
+// original license: MIT License
 // —
 
 
@@ -25,42 +23,44 @@ let riconosciParola;
 
 //SENTIMENT ANALYSIS
 let sentimentResult;
-let statusEl;
 let percentuale;
 
+//DELETEPIXEL
+let r;
+let g;
+let b;
+let img;
+
+
+function preload() {
+  img = loadImage('bird.jpg');
+}
+
+
 function setup() {
-  createCanvas(120, 120);
-  background(255);
 
-
+  createCanvas(600, 400);
+  //image(img, 0, 0, 600, 400);
 
   // inizializzare il sentimento
   sentiment = ml5.sentiment('movieReviews', modelReady);
 
   // impostare l'html
-  statusEl = createP('Sto caricando il modello');
   sentimentResult = createP('Percentuale del sentimento:');
 
 
 
-  //P5 SPEECH
+  //P5 SPEECH-----------------------------------------------------------------
 
-  let lingua = navigator.language || 'en-US'; //var lingua che imposta il linguaggio
+  let lingua = navigator.language || 'en-US';
   riconosciParola = new p5.SpeechRec(lingua, gotSpeech);
-  let continous = true; //ascolta di continuo
+  let continous = false; // true=ascolta di continuo
   let interim = false; // scrive quando fai una pausa
   riconosciParola.start(continous, interim);
 }
 
-//end P5 SPEECH
 
-
-function ModelReady() {
-  // model is ready
-  statusEl.html('model loaded');
-}
-
-// SENTIMENT ANALYSIS
+// SENTIMENT ANALYSIS----------------------------------------------------------
 
 function getSentiment() {
 
@@ -75,17 +75,15 @@ function getSentiment() {
   sentimentResult.html('Percentuale sentimento: ' + percentuale + " %");
   console.log("prediction: " + percentuale);
 
-  //stampa();
-
 }
 
-function gotSpeech() { //callback function
+function gotSpeech() {
 
   if (riconosciParola.resultValue) { //se il risultato ha valore
-    parola = riconosciParola.resultString;
+    parola = riconosciParola.resultString; //scrivi stringa
     getSentiment(parola);
 
-    createP('Testo: ' + riconosciParola.resultString);
+    createP('Il mio ricordo: ' + riconosciParola.resultString);
     console.log(riconosciParola.resultString);
   }
 }
@@ -97,19 +95,25 @@ function modelReady() {
 }
 
 function draw() {
-
+  image(img, 0, 0, 600, 400);
+  let x = 30;
+  let y = 30;
 
   if (percentuale <= 25) {
-    rect(40, 40, 40, 40);
+    ellipse(x, y, 40, 40);
+    noStroke();
     fill(0, 0, 250); //tristezza
+
     r = 0;
     g = 0;
     b = 250;
 
     coloreImg(r, g, b);
 
+
   } else if (percentuale > 25 && percentuale <= 50) {
-    rect(40, 40, 40, 40);
+    ellipse(x, y, 40, 40);
+    noStroke();
     fill(250, 0, 0); //rabbia
 
     r = 250;
@@ -119,7 +123,8 @@ function draw() {
     coloreImg(r, g, b);
 
   } else if (percentuale > 50 && percentuale <= 75) {
-    rect(40, 40, 40, 40);
+    ellipse(x, y, 40, 40);
+    noStroke();
     fill(250, 200, 0); //divertimento
 
     r = 250;
@@ -127,20 +132,52 @@ function draw() {
     b = 0;
 
     coloreImg(r, g, b);
+
   } else if (percentuale > 75) {
-    rect(40, 40, 40, 40);
+    ellipse(x, y, 40, 40);
+    noStroke();
     fill(0, 250, 0); //felicità
-    
+
     r = 0;
     g = 250;
     b = 0;
 
     coloreImg(r, g, b);
   }
-
 }
 
 function coloreImg(r, g, b) {
 
   console.log('rosso: ' + r + ' verde: ' + g + ' blu: ' + b);
+  cancellacolore(r, g, b); //input colore
+}
+
+
+function cancellacolore(r1, g1, b1) {
+  img.loadPixels();
+  for (let x = 0; x < img.width; x++) {
+    for (let y = 0; y < img.height; y++) {
+      let index = 4 * (x + y * img.width);
+      let r = img.pixels[index + 0];
+      let g = img.pixels[index + 1];
+      let b = img.pixels[index + 2];
+
+      //calcolo il valore assoluto 
+      let val = Number(abs(r - r1) + abs(g - g1) + abs(b - b1));
+
+      //range di pixel che si avvicinano al colore
+      if (val > 250) {
+
+        //stampa pixel neri
+        img.pixels[index + 0] = 0;
+        img.pixels[index + 1] = 0;
+        img.pixels[index + 2] = 0;
+
+      }
+
+
+    }
+  }
+
+  img.updatePixels()
 }
