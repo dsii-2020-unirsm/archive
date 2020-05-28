@@ -16,50 +16,44 @@ Obiettivo progettuale è quello di offrire un supporto al bambino in modo che:
 
 È possibile progettare un dispositivo che consenta di riconoscere il linguaggio del bambino e lo supporti nella creazione del racconto?
 
-### Idee Progettuali
+### stories.jps
 
-Ogni bambino si esprime in modo differente, in base a quelle che sono le sue potenzialità e le sue debolezze.
-Dalle premesse fatte ho ipotizzato due sviluppi progettuali differenti, che permetterebbero ai bambini di dare vita ai propri racconti seguendo due dinamiche diverse:
+stories.jpg è un sistema che genera storie e racconti partendo da un disegno. Le modalità di input che possono essere assegnate sono di due tipi: attraverso **disegni** che l’utente realizza direttamente sul dispositivo, oppure caricando **fotografie** di immagini e disegni.
 
-**visualizzare i racconti orali**: partendo dal racconto del bambino (o se toppo piccolo, del genitore) si intende sviluppare un sistema che sia in grado di rappresentare in maniera grafica le storie. Il dispositivo, una volta acceso, si mette in ascolto della voce narrante che, seguendo il flusso della fantasia, disegna la storia, rappresentando su schermo le immagini e le simbologie evocate.
+### cosa significa?
 
-**creare un racconto partendo dalla sua rappresentazione**: prendendo come punto di partenza i disegni dei bambini, obiettivo del progetto consiste nel ricostruire la storia che si trova dietro al disegno. Grazie ad un sistema di riconoscimento dei disegni, si ha la possibilità di identificare gli elementi selezionati, restituendo un breve racconto su quello che è stato rappresentato.
+L’**immaginazione** è la capacità degli esseri umani di esplorare idee e concetti che non sono presenti nella loro vita attuale. È importante svilupparla nei bambini e per farlo è necessario bombardarli di stimoli sempre nuovi che li aiutino ad accrescere la loro creatività.
 
+Avere a disposizione **storie sempre nuove e diverse** che vedono come protagonisti i personaggi e gli elementi scelti dal bambino lo aiuterebbero da un lato a far crescere la sua immaginazione, e dall’altro a legare maggiormente con i protagonisti, essendo frutto dei loro disegni. 
+
+Date queste premesse il sistema si pone come obiettivo quello di unire diversi algoritmi di machine learning in grado di supportare l’immaginazione del bambino e di aiutarlo nella costruzione di racconti sempre nuovi.
 
 ### Tecnologie
+
+La maggior parte delle tecnologie utilizzate per la costruzione del sistema appartengono alla libreria di _machine learning_ ml5. A queste però ho aggiunto anche altri sistemi per rendere il progetto più efficace.
 
 **The Quick Draw Dataset**: raccolta di 50 milioni di disegni in 345 categorie, forniti dai giocatori del gioco _Quick, Draw!_ [+](https://github.com/googlecreativelab/quickdraw-dataset) [+](https://quickdraw.withgoogle.com/data)
 
 **Sketch-RNN**: modello generativo per disegni vettoriali, disponibile su _Magenta_. Il sistema permette di ricreare in maniera autonoma i disegni realizzati da milioni di utenti su _Quick, Draw!_ [+](https://magenta.tensorflow.org/sketch-rnn-demo) [+](https://magenta.tensorflow.org/assets/sketch_rnn_demo/index.html) [+](https://learn.ml5js.org/docs/#/reference/sketchrnn)
 
-**Natural Language Processing (NLP)**: campo di ricerca interdisciplinare il cui scopo è quello di sviluppare algoritmi in grado di analizzare, rappresentare e quindi _comprendere_ il linguaggio naturale, scritto o parlato. [+](https://towardsdatascience.com/your-guide-to-natural-language-processing-nlp-48ea2511f6e1)
-
-**Neural-storyteller**: rete neurale in grado di generare piccole storie partendo da immagini. [+](https://github.com/ryankiros/neural-storyteller)  [+](https://medium.com/@samim/generating-stories-about-images-d163ba41e4ed)
-
 **CharRNN**: strumento in grado di comporre brevi testi (partendo dall'analisi di alcuni testi dati). [+](https://learn.ml5js.org/docs/#/reference/charrnn) 
+
+**ObjectDetector**: strumento in grado di riconoscere gli elementi presenti nelle immagini. [+](https://learn.ml5js.org/docs/#/reference/object-detector) 
+
+**ImageClassify**: sstrumento in grado di riconoscere gli elementi presenti nelle immagini. [+](https://learn.ml5js.org/docs/#/reference/image-classifier) 
+
+**ImageClassification_DoodleNet**: strumento in grado di riconoscere i disegni realizzati su una canvas. [+](https://learn.ml5js.org/docs/#/reference/image-classifier) 
 
 ### Prototipazione
 
-Ho ipotizzato una sequenza per la prototipazione e ho suddiviso a sua volta il processo in singoli algoritmi che ho racconto in una collection di p5.js.
+I prototipi realizzati utilizzano le modalità di machine learning funzionanti, da utilizzare anche per la realizzazione del progetto.
+Tuttavia, a livello di modelli testuali è necessario ricorrere a sistemi più accurati, allenati su testi più lunghi per avere una precisione maggiore nel racconto. Ricorrere ad un sistema GPT-2, scritto in linguaggio _Pyton_, permetterebbe di raggiungere questo obiettivo.
+Il prototipo realizzato segue lo stesso flusso che è previsto per il progetto: dopo aver selezionato la modalità e prodotto o caricato il disegno, si può generare un racconto; questo può essere anche letto a voce alta dal sistema.
 
-I prototipi realizzati sono i seguenti:
-- Disegni consecutivi sketchRNN da modello dichiarato 
-- Far comprendere un disegno da sketchRNN 
-- SketchRNN disegna e l'utente deve indovianre che cosa è stato disegnato 
-- Far indovinare alla macchina un disegno fatto da sketchRNN 
-- Algoritmo p5Speech Italiano per scrivere ciò che viene detto 
-- p5Speech che disegna ciò che viene detto grazie a SketchRNN 
-- Prove algroritmo RiTa e Tracery 
-
-- CharRNN per scrivere porzioni di testo predittivo
-- SketchRNN + CharRNN + P5Speech: algoritmo che permette di disegnare, generare un racconto partendo dal disegno, e poi poterlo ascoltare
-- ObjectDetector + CharRNN + P5Speech: algoritmo che permette di disegnare, generare un racconto analizzando un disegno o una foto, e poi poterlo ascoltare
-- SketchRNN + UNSPLASH: sistema che permette di caricare una foto legata al soggetto disegnato.
-- Sistema che permette di unire i diversi algoritmi in uno unico.
 
 Link alla collection di p5.js dove raccolgo i singoli algoritmi sperimentati nell'editor online [+](https://editor.p5js.org/peterbaru/collections/HYouLasBw)
 
-![mappa](https://raw.githubusercontent.com/peterbaru/archive/master/peterbaru/MakingVisible/MappaConcettuale.png)
+![mappa](https://raw.githubusercontent.com/peterbaru/archive/master/peterbaru/MakingVisible/MappaConcettuale_peterbaru.png)
 
 
 ### Reference progettuali
@@ -117,6 +111,13 @@ _I.Babel - E. de Nicolas Benito_
 
 modello di incorporamento semantico visivo che analizza un'immagine e genera didascalie, secondo diverse tipologie narrative [+](https://pix2story.azurewebsites.net) [+](https://azure.microsoft.com/it-it/blog/pix2story-neural-storyteller-which-creates-machine-generated-story-in-several-literature-genre/)
 ![Pix2Story](https://raw.githubusercontent.com/peterbaru/archive/master/peterbaru/MakingVisible/img/Pix2Story.png)
+
+### Future implementazioni
+
+Dove finiscono tutti i racconti che vengono generati? Riuscire a tenere traccia di tutte le storie in una raccolta che le unisce ai propri disegni, costituirebbe un libro personalizzato unico, dove, se interessati, si ha la possibilità di selezionare le storie preferite, per poterle leggere anche una seconda volta. 
+
+Inoltre, si potrebbe integrare un sistema che permette di riconoscere e registrare la voce degli utenti, in modo da poter ampliare il database di lettori, trovando tra questi la propria voce, o quella della propria mamma. Nel 2019 Google ha rilasciato un algoritmo, chiamato _Voice Cloning_, scritto in linguaggio _Pyton_, che consente ad un computer di pronunciare frasi utilizzando una qualsiasi voce registrata.
+
 
 
 ### Bibliografia e Sitografia
