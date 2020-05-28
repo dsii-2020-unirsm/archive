@@ -6,6 +6,9 @@
 
 https://editor.p5js.org/ileniab/full/cetJ787W8
 
+![](https://github.com/ileniab/archive/blob/master/ileniab/INVISIBLE/7.%20Avanzamento/TEACHABLE_MACHINE_MASKNOMASK/teachable-maschine-mask-2.png)
+![](https://github.com/ileniab/archive/blob/master/ileniab/INVISIBLE/7.%20Avanzamento/TEACHABLE_MACHINE_MASKNOMASK/teachable-maschine-mask-3.png)
+
 
 * Ho sviluppato la versione inglese che è più accurata nella Sentiment Analysis. Per rendere più leggibile il testo l'ho trasportato in basso, per poter visualizzare meglio le frasi lunghe, il carattere del testo, se supera le 14 parole di lunghezza, diventa più piccolo per inserirsi meglio nel box.
 
