@@ -4,6 +4,15 @@
 // github.com/dsii-2020-unirsm — github.com/ileniab
 // Educational purposes, MIT License, 2020, San Marino
 // —
+// Credits/Thanks to: 
+// @aparrish (twitter.com/aparrish) for https://creative-coding.decontextualize.com/changes-over-time/
+// original license: Creative Commons Attribution-NonCommercial 4.0 International License
+//
+// —
+// Help:
+// [mouse_position] in base alla posizione del mouse varia l'orientamento del rettangolo
+//
+// —
 
 let dim = 20; //dimensione oggetto
 let n = 4;
