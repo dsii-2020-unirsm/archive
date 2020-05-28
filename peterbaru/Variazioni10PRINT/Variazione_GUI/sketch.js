@@ -1,7 +1,15 @@
-// variazione 10PRINT by Pietro Baruzzi 
-// 2019 © Pietro Baruzzi, Daniele @Fupete and the course DSII2019 at DESIGN.unirsm 
-// github.com/dsii-2020-unirsm — github.com/fupete
+// -
+// variazione10Print 0.4.1 by peterbaru [10Print, commodore64, GUI]
+// 2020 © Pietro, Daniele @Fupete and the course DSII2020 at DESIGN.unirsm 
+// github.com/dsii-2020-unirsm — github.com/peterbaru
 // Educational purposes, MIT License, 2020, San Marino
+// —
+// Credits/Thanks to: 
+// 10 PRINT CHR$(205.5+RND(1)); : GOTO 10 book for https://10print.org/
+// 
+// @shiffman (github.com/shiffman) for https://natureofcode.com/, https://github.com/nature-of-code/noc-examples-p5.js/blob/master/chp00_introduction/NOC_I_01_RandomWalkTraditional/sketch.js
+// original license: MIT License
+// —
 
 //variazione 10PRINT che permette di selezionare in maniera random
 //quattro direzioni possibili in cui la funzione draw può disegnare

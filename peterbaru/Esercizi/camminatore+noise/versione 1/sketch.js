@@ -1,6 +1,9 @@
-// Pietro Baruzzi @peterbaru © 2017 MIT License
-// Esercizio palline | San Marino, IT | 3.2020
-// Educational purpose, made for DSII2020 lab @UniRSM
+// -
+// caminatori 0.1 by peterbaru [camminaotri, noise]
+// 2020 © Pietro, Daniele @Fupete and the course DSII2020 at DESIGN.unirsm 
+// github.com/dsii-2020-unirsm — github.com/peterbaru
+// Educational purposes, MIT License, 2020, San Marino
+// —
 
 let Palline = []; // < array di linee
 let n = 10; // < numero linee iniziali
