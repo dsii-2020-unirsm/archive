@@ -4,7 +4,13 @@
 // github.com/dsii-2020-unirsm — github.com/ileniab
 // Educational purposes, MIT License, 2020, San Marino
 // —
-
+// Credits/Thanks to: 
+// @IDMNYU for https://github.com/IDMNYU/p5.js-speech
+// original license: MIT License
+//
+// @shiffman(https://github.com/shiffman) for https://github.com/shiffman/p5.js-speech
+// original license: MIT License
+//
 // La libreria P5.speech.js permette di riconoscere un discorso in lingua italiana.
 // In questo caso, stamperò la stringa di testo all'interno della canvas.
 // Inserendo una variabile interim=false elabora le frasi ad ogni pausa, diversamente
