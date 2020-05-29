@@ -8,7 +8,8 @@
 // @IDMNYU for https://github.com/IDMNYU/p5.js-speech
 // original license: MIT License
 //
-// @shiffman(https://github.com/shiffman) for https://github.com/shiffman/p5.js-speech
+// @shiffman(https://github.com/shiffman) for https://github.com/shiffman/p5.js-speech, https://www.youtube.com/watch?v=q_bXBcmfTJM
+// e https://idmnyu.github.io/p5.js-speech/
 // original license: MIT License
 //
 // riconoscimento del linguaggio inglese
