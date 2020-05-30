@@ -1,42 +1,39 @@
 // -
-// Prima prova video-FaceApi + P5 speech + sentiment analysis di ML5 in inglese by Ilenia Balella [keyword1, keyword2]
+// Subtitle + video-FaceApi + P5 speech + sentiment analysis di ML5 in inglese by Ilenia Balella [keyword1, keyword2]
 // 2020 © Ilenia Balella @ileniab, Daniele @Fupete and the course DSII2020 at DESIGN.unirsm 
 // github.com/dsii-2020-unirsm — github.com/ileniab
 // Educational purposes, MIT License, 2020, San Marino
 // —
+
 // Credits/Thanks to: 
+// P5Speech for https://github.com/IDMNYU/p5.js-speech
+// original license: MIT License
+//
 //  @ml5js (https://github.com/ml5js/ml5-library) for https://learn.ml5js.org/docs/#/reference/sentiment
 // original license: MIT License
 //
 //  @ml5js (https://github.com/ml5js/ml5-library) for https://learn.ml5js.org/docs/#/reference/face-api
 // original license: MIT License
 //
-// @ml5js (https://github.com/ml5js/ml5-library) for https://learn.ml5js.org/docs/#/reference/face-api
-// original license: MIT License
-//
 // @shiffman(https://github.com/shiffman) for https://github.com/shiffman/p5.js-speech
 // original license: MIT License
 //
-// Ho unito FaceApe con la libreria P5.speech.js e
-// la sentiment analisis di ML5.
 
 
-
-// Reference: 
-// https://learn.ml5js.org/docs/#/reference/face-api
-// https://idmnyu.github.io/p5.js-speech/
 
 
 // P5 SPEECH-------
 let riconosciParola;
 let parola;
+let arrayP;
+let lunghezzaFrase;
 
 // FACEAPI-------
 let faceapi;
 let video;
 let detections;
-let dimensioneForma = 1.5;
-let dimensioneTesto = 1;
+let dimensioneForma = 1.2;
+let dimensioneTesto = 1.5;
 
 //SENTIMENT ANALYIS ML5-------
 
@@ -62,7 +59,7 @@ function setup() {
 
   // initialize sentiment
   sentiment = ml5.sentiment('movieReviews', ModelReady);
-  
+
   // setup the html environment-------------------------------------
   statusEl = createP('Caricamento modello:');
   sentimentResult = createP('Percentuale sentimento:');
@@ -76,7 +73,7 @@ function setup() {
   riconosciParola.start(continous, interim);
 
   //imposto lo stile del testo
-
+  //textSize(15 * dimensioneTesto);
   textFont('Roboto');
   rectMode(CENTER);
 
@@ -97,7 +94,7 @@ function ModelReady() {
 }
 
 //--------------SENTIMENT ANALYSIS-----------------------------------------
-  function getSentiment() {
+function getSentiment() {
   // get the values from the input
   const text = parola;
 
@@ -105,21 +102,24 @@ function ModelReady() {
   const prediction = sentiment.predict(text);
 
   // display sentiment result on html page
-  sentimentResult.html('Sentiment score: ' + valoreSenti +"%");
-  
-  valoreSenti=  int((prediction.score)*100);
-    
-  console.log("prediction: "+ valoreSenti);
+  sentimentResult.html('Sentiment score: ' + valoreSenti + "%");
+
+  valoreSenti = int((prediction.score) * 100);
+
+  console.log("prediction: " + valoreSenti);
 }
 
 
 function gotSpeech() { //callback function
 
   if (riconosciParola.resultValue) { //se il risultato ha valore
-parola = riconosciParola.resultString;
-getSentiment();
-   
-    console.log(riconosciParola.resultString);
+    parola = riconosciParola.resultString;
+    getSentiment();
+    arrayP = riconosciParola.resultString.split(' ');
+    lunghezzaFrase = (arrayP.length);
+
+    console.log(parola);
+    console.log(lunghezzaFrase);
   }
 
 }
@@ -157,15 +157,23 @@ function gotResults(err, result) {
 
 
 
-  
+
 //------------------P5 SPEECH----------------------------------------------  
 function drawParola(x, y, larg, alt) {
 
   fill(0);
   noStroke();
-  textSize(15 * dimensioneTesto);
+  if (lunghezzaFrase > 14) {
+    textSize(14);
+
+  } else {
+    textSize(15 * dimensioneTesto);
+
+  }
+  // textSize(15 * dimensioneTesto);
   textAlign(CENTER, CENTER);
-  text(riconosciParola.resultString, x, y, larg, alt);
+  text(riconosciParola.resultString, width / 2, height - (height / 13), width, height / 5);
+
 
 
 }
@@ -186,27 +194,31 @@ function drawBox(detections) {
     let heightForma = (boxHeight / 2) * dimensioneForma;
 
 
-    let c = map(valoreSenti, 0, 100, 15, 255);
-    fill(227, c, 104);
+    fill(255);
+    rect(width / 2, height - (height / 10), width, height / 5);
 
+    // let c = map(valoreSenti, 0, 100, 15, 255);
+    // fill(227, c, 104);
     noStroke();
-    
+
+
     if (valoreSenti <= (33)) {
-      dimensioneForma = 1.7;
+      dimensioneForma = 1.5;
       dimensioneTesto = 1.7;
-      
+
+      fill(223, 104, 106); //rosso
       rect(xForma, yForma, widthForma, heightForma);
-      textSize(15 * dimensioneTesto);
+      // textSize(15 * dimensioneTesto);
 
     } else if (valoreSenti > (33) && valoreSenti <= 66) {
-      
+      fill(78, 147, 196); //blu
       ellipse(xForma, yForma, widthForma, heightForma);
-      textSize(15 * dimensioneTesto);
+      // textSize(15 * dimensioneTesto);
 
     } else if (valoreSenti > 60 && valoreSenti <= 100) {
-     
+      fill(227, 225, 104); //giallo
       ellipse(xForma, yForma, widthForma, heightForma);
-      textSize(15 * dimensioneTesto);
+      //textSize(15 * dimensioneTesto);
 
     }
 

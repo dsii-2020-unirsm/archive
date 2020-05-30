@@ -4,7 +4,16 @@
 // github.com/dsii-2020-unirsm — github.com/ileniab
 // Educational purposes, MIT License, 2020, San Marino
 // —
-
+// Credits/Thanks to: 
+// @IDMNYU for https://github.com/IDMNYU/p5.js-speech
+// original license: MIT License
+//
+//  @ml5js (https://github.com/ml5js/ml5-library) for https://learn.ml5js.org/docs/#/reference/face-api
+// original license: MIT License
+//
+// @shiffman(https://github.com/shiffman) for https://github.com/shiffman/p5.js-speech
+// original license: MIT License
+//
 // In questo caso ho cercato di unire la FaceApi_video con p5.speech.js
 // Dopo vari tentativi ho costruito un rettangolo sopra al volto,
 // in modo tale da sfruttarlo come tela su cui lavorare, (per sostituire 

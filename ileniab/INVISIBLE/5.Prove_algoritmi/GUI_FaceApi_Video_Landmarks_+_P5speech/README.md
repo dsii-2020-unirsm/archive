@@ -13,7 +13,7 @@ Alcuni parametri da determinare in base all’emozione:
   * tipo
   * bold/regular/extrathin
 
-## Prova su p5 editor: https://editor.p5js.org/ileniab/sketches/Gd41af7iV
+## Prova su p5 editor: https://editor.p5js.org/ileniab/full/Gd41af7iV
 Per il momento ho inserito una GUI, impostando diversi paramenti come la forma del riquadro, il suo colore, la sua dimensione, la dimensione del font e il suo colore.
 Queste variazioni dovranno poi essere comandate da un rilevatore di emozioni, che, in base al tono e all’espressione facciale muoverà i parametri corrispondenti.
 

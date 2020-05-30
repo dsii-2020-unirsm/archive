@@ -4,11 +4,14 @@
 // github.com/dsii-2020-unirsm — github.com/ileniab
 // Educational purposes, MIT License, 2020, San Marino
 // —
+// Credits/Thanks to: 
+// @shiffman (https://github.com/shiffman) for https://shiffman.net/, https://www.youtube.com/watch?v=GY-c2HO2liA
+//-
 
 let camminatore = []
 let position;
 let velocity;
-let num = 5
+let num = 15
 
 
 function setup() {
@@ -44,12 +47,13 @@ function Walker(x, y) {
   this.position.x = x
   this.position.y = y
   
-  this.r = 15
+  this.r = 10
   this.t = random(50)
   this.col = color(255);
 
   this.cambiaColore = function() {
     this.col = color(random(255), random(255), random(255));
+    
   }
 
   this.interseca = function(other) {
@@ -57,6 +61,7 @@ function Walker(x, y) {
     if (this.d <= this.r + other.r) //se la distanza è < della somma dei due raggi
     {
       console.log("scontro: " + this.d)
+      this.r=this.r +0.01  //incrementa il diametro se si intersecano
       return true;
     } else {
       return false;
@@ -68,6 +73,12 @@ function Walker(x, y) {
     fill(this.col)
 
     ellipse(this.position.x, this.position.y, this.r * 2, this.r * 2)
+    
+    if(this.r>20){
+    
+    rect(this.position.x*2, this.position.y*2, this.r * 2, this.r * 2)
+   
+    }
   }
 
 
