@@ -1,7 +1,10 @@
-// variazione 10Print - cerchi e colori
+// 
+// -
+// variazione 10Print - cerchi e colori by Fabrizio De Donatis [keyword1, keyword2]
 // 2020 © Fabrizio De Donatis, Daniele @Fupete and the course DSII2020 at DESIGN.unirsm
 // github.com/dsii-2020-unirsm — github.com/fupete
 // Educational purposes, MIT License, 2020, San Marino
+// —
 
 let w = 16;
 let h =16;
