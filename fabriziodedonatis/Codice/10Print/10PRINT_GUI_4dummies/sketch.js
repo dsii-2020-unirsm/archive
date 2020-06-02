@@ -1,11 +1,14 @@
-// Variazione 10PRINT con GUI
-// version: "4dummies"
-// inspired by "the coding train"_ https://www.youtube.com/watch?v=bEyTZ5ZZxZs _
-// -----------------------------------------------------------------------------
-// 2020 © Fabrizio De Donatis, Daniele @Fupete and the course DSII2020 at DESIGN.unirsm 
+// -
+// Variazione 10PRINT con GUI by Fabrizio De Donatis [gui, 10print]
+// 2020 © Fabrizio De Donatis, Daniele @Fupete and the course DSII2020 at DESIGN.unirsm
 // github.com/dsii-2020-unirsm — github.com/fupete
 // Educational purposes, MIT License, 2020, San Marino
-//------------------------------------------------------------------------------
+// —
+// Credits/Thanks to:
+// @danielshiffman "the coding train for https://www.youtube.com/watch?v=bEyTZ5ZZxZs
+// original license: MIT
+//
+
 
 //PARAMETRI 
 let parametri = {
