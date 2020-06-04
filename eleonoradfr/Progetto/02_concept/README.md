@@ -4,9 +4,7 @@ In questa cartella sviluppo progetto "Cinema delle emozioni"
 Come decidere quale film guardare? Perchè non fare la propria scelta in base alle emozioni che vogliamo provare il quel momento? Come cambiano le nostre emozioni guardando lo stesso film nel corso della nostra vita? 
 L’idea di progetto è quella di registrare le emozioni che un film scaturisce durante la sua visione per creare una vera e propria recensione emozionale. 
 Accendi la webcam, registra il tuo volto mentre guardi un film, visualizza il tuo grafico delle emozioni.  
-<br>  
-<br>  
-
+  
 ### PROGETTO IDEALE
 Il progetto parte, quindi, con l’obiettivo di visualizzare le emozioni che prova lo spettatore durante la visione di un film seguendo una scaletta così definita:  
 • osservare i movimenti del volto della persona attraverso la webcam del computer e utilizzando la Face Expression Recognition di Face Api riconoscere le emozioni corrispondenti  
