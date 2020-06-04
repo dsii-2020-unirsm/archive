@@ -1,7 +1,10 @@
-// cerchio rimbalzante - exercise by P5 example
-// 2020 © Fabrizio De Donatis, Daniele @Fupete and the course DSII2020 at DESIGN.unirsm 
+// -
+// cerchio rimbalzante by Fabrizio De Donatis [cerchio, rimbalzo]
+// 2020 © Fabrizio De Donatis, Daniele @Fupete and the course DSII2020 at DESIGN.unirsm
 // github.com/dsii-2020-unirsm — github.com/fupete
 // Educational purposes, MIT License, 2020, San Marino
+// esercizio "giochi senza frontiere"
+// —
 
 
 let rad = 60; // Width of the shape
