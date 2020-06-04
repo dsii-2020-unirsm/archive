@@ -9,7 +9,7 @@ Obiettivo -->
 2. Ottenere uno screenshot di ciò che gli mostro. 
 [+](https://editor.p5js.org/francy96/sketches/QoL_cbbN2) <br>
 
-3. Collegare il riconsocimento oggetti a SketchRNN per disegnarli. 
+3. Collegare il riconoscimento oggetti a SketchRNN per disegnarli. 
 
 
 
