@@ -14,43 +14,44 @@ Evidenziare, far emergere, rendere tangibili e dotate di fisicità quelle _carat
 
 ### Concept
 
-L'idea di base è quella di mettere le persone di fronte una situazione sonda la reazione dell'utente e il suo posizionamento rispetto ad alcune dichiarazioni.
-Il fine è mostrare, quindi rendere visibile, vari livelli di discriminazione in coloro che credono di non esserlo.
+L'idea di base è sondare la reazione dell'utente e il suo posizionamento rispetto a dichiarazioni percepibili come problematiche.
+Il fine è mostrare, quindi rendere visibile, la presenza in ciascuno di noi di vari livelli di pregiudizio e pensiero discriminatorio, anche dove inconscio.
 
 
 ### Idee di progetto  
 
 #### _IamNot_
-IamNot deriva dal fatto che spesso si dice _"io non sono.. (a.e. razzista)"_, mentre invece, senza accorgersene, parte di quello che diciamo o pensiamo lo è. 
+IamNot deriva dal fatto che spesso si dice _"io non sono.. (a.e. razzista), ma"_, mentre invece, senza accorgersene, parte di quello che diciamo o pensiamo rivela preconcetti discriminatori. 
 
-Lo scopo del progetto è quello di sensibilizzare le persone sul tema, soprattutto sul fatto dell'invisibilità di esso. _IamNot_ potrebbe essere un sito web come un totem in città. Questo servizio funziona come una sorta di gioco tra amici o allo scopo di aiutare persone già in battaglia sul tema a convincere altre persone del problema. Può essere utilizzato come strumento di auto-critica e auto-apprendimento.
+Lo scopo del progetto è fare emergere questi meccanismi di pensiero inconsapevole, quindi invisible, e rendere coscienti della difficoltà di liberarsi da forme di pregiudizio largamente radicate nelle diverse culture. 
+_IamNot_ potrebbe essere un sito web così come un totem in città. Questo servizio si presenta come una sorta di gioco tra amici o di sfida provocatoria da proporre a conoscenti restii a cambiare le proprie opinioni.
+Si propone come utile strumento di auto-critica e auto-apprendimento.
   
 ##### Funzionamento
 
-Una volta innescato una conversazione un bot analizzerà la nostra conversazione, una volta raccolte abbastanza informazioni per fornire un risultato l'utente riserverà una valutazione in % sul tre temi:
+Una volta innescata una conversazione, un bot analizzerà l'andamento della discussione e le modaltà di risposta dell'utente, raccogliendo informazioni. AL termine del processo, l'utente riceverà una valutazione in % su due temi:
 
 - 0-100% sessista
-- 0-100% razzista
 - 0-100% xenofobo
 
-Questo risultato è ovviamente rivolto alla conversazione svolta, non tiene in considerazione di altre variabili.
+Questo risultato è ovviamente riferito alla conversazione svolta, non può ritenersi esaustivo dell'intera personalità dell'utente. 
 
 
 ##### Machine learning
-Il bot, per semplicità, potrebbe essere un telegram bot, allenato con la capacità di svolgere una normale conversazione da DialogFlow di Google, per poi aggiungere un altra AI che utilizzando vari database di dialoghi, discorsi e testi discriminatori analizza le risposte dell'utente.
+Il bot, per semplicità, potrebbe essere un telegram bot, allenato con la capacità di svolgere una normale conversazione da DialogFlow di Google, per poi aggiungere un'altra AI che, utilizzando vari database di dialoghi, discorsi e testi discriminatori, analizza le risposte dell'utente.
 
   
 # Reference
 
 
-## Racist databeses
+## Racist databases
 
 
 ### Link
 
 - [UN - Anti-discrimination database](https://adsdatabase.ohchr.org/SitePages/Anti-discrimination%20database.aspx)
 
-- [FRA - Anti-muslim hatred 12-19 databese](https://fra.europa.eu/en/databases/anti-muslim-hatred/case-law)
+- [FRA - Anti-muslim hatred 12-19 database](https://fra.europa.eu/en/databases/anti-muslim-hatred/case-law)
 
 - [Hate Speech Dataset from a White Supremacy Forum](https://www.aclweb.org/anthology/W18-5102/)
 
