@@ -1,20 +1,21 @@
 ## The flow towards Europe [+](https://www.lucify.com/the-flow-towards-europe/)
 ### _2015, Lucify_
-
+![Imgur](https://i.imgur.com/GesPSwt.png)
 #### What is
 _"The flow towards Europe"_ è un sistema interattivo open source di rappresentazione di dati sui flussi migratori dei richiedenti asilo verso 
 i paesi europei dal 2012 al 2018.
 I dati che vengono visualizzati nelle infografiche sono quelli ufficiali dell’[UNHCR](http://popstats.unhcr.org/en/asylum_seekers_monthly).
 
-#### What does it means
+#### What does it mean
 Lucify invita a conoscere e comunicare dati importanti attraverso visualizzazioni interattive. 
 Questo progetto vuole evidenziare l'entità della crisi dei rifugiati in un modo intuitivo, memorabile e coinvolgente per portare 
 l'utente a riflettere su che cosa significhi che così tante persone abbiano avuto la 
 necessità di fare richiesta di asilo politico negli ultimi anni.
 Attraverso questo rapido e florido flusso di pallini l'utente rielabora l'immagine in persone. 
-Questo tipo di figurazione sicuramente non lascia indifferenti rispetto ad un dato significativo ben rappresentato.
+Questo tipo di figurazione sicuramente non lascia indifferenti rispetto ad un dato significativo ben rappresentato.  
 
-#### How it works
+![Imgur](https://i.imgur.com/vt0XJcH.png)
+#### How does it work
 La visualizzazione è stata generata con l'ausilio di alcune librerie Javascript (react, d3.js, pixi.js) che utilizzano i dati open source 
 aggiornati mensilmente dall'United Nations High Commission for Refugee Agency.
 Muovendo il cursore sulla mappa è possibile vedere il punto di partenza ed arrivo del flusso migratorio (ogni puntino mobile presente sulla mappa rappresenta 25 persone). 
@@ -35,10 +36,12 @@ il numero dei profughi siriani che hanno cercato asilo in Europa tra aprile 2011
 15 campi da calcio e il numero dei rifugiati che vivono nei campi profughi situati al confine di un altro stato 
 (in quanto solo una parte dei rifugiati che fuggono dalle loro case arriva in Europa), che ne riempirebbero 79.
 
-
+![Imgur](https://i.imgur.com/8gu4gKl.png)
+![Imgur](https://i.imgur.com/3OndrpP.png)
 
 #### What if
 Particolarmente interessante sarebbe poter visualizzare i flussi di dati su scala mondiale, non solo europea.
 La possibilità di integrare articoli, report, per approfondire il tema e mostrare i dati relativi a coloro che non sono riusciti a 
 raggiungere la loro destinazione, o poter ricostruire il percorso di ogni viaggio, fatto di interruzioni e domande respinte. 
-Potrebbe essere d'aiuto anche conoscere e visualizzare i motivi che portano un richiedente asilo a spostarsi.
+Potrebbe essere d'aiuto anche conoscere e visualizzare i motivi che portano un richiedente asilo a spostarsi.  
+

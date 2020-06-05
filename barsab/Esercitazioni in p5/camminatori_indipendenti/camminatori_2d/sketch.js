@@ -2,14 +2,14 @@
 // github.com/dsii-2020-unirsm — github.com/fupete
 // Educational purposes, MIT License, 2020, San Marino
 
-let Palline = []; 
+let Palline = [];
 let n = 40; 
 let t=0;
 let space
 
 
 function setup() {
-  createCanvas(windowWidth, windowHeight, P2D);
+  createCanvas(windowWidth, windowHeight);
   space=height;
   
   // creazione dell'array
@@ -20,7 +20,7 @@ function setup() {
 
 function draw() {
   background (random(255),255,255);
-
+  // mostra gruppo di Linee
   for (var i=0; i<Palline.length; i++) {
       Palline[i].display();
       Palline[i].walk();
@@ -53,6 +53,8 @@ function pallina(_id) {
 }
 
 
+//da inserire sempre utilizzando windoWidth
+// se ridimensiona la finestra ricalcola width e height canvas
 function windowResized() {
   resizeCanvas(windowWidth, windowHeight);
 }
