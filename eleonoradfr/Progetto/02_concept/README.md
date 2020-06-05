@@ -15,5 +15,7 @@ Grafico che vuole essere una implementazione all’interno delle piattaforme di 
 ![netflix](https://github.com/eleonoradfr/archive/blob/master/eleonoradfr/Progetto/02_concept/netflix_grafico.jpg)  
 Possibilità di andare ad analizzare nel dettaglio il grafico scoprendo per ogni picco il colore dominante del frame in questione, l'emozione, il valore e il minutaggio.
 ![netflix-zoom](https://github.com/eleonoradfr/archive/blob/master/eleonoradfr/Progetto/02_concept/netflix_grafico_zoom.jpg)
+Possibilità di fare una comparazione tra le emozioni provate, trasformate in colore, e il colore dominante ricavato dal frame del film.
+![netflix-colore](https://github.com/eleonoradfr/archive/blob/master/eleonoradfr/Progetto/02_concept/netflix_colore.jpg)
 
 Ricerca, reference e idee progettuali [**+**](https://github.com/eleonoradfr/archive/blob/master/eleonoradfr/Progetto/02_concept/ricerca.md)
