@@ -1,0 +1,38 @@
+<!DOCTYPE html><html><head>
+  <meta charset="utf-8">
+  <title>tracking.js - color with video</title>
+  <link rel="stylesheet" href="assets/demo.css">
+
+  <script src="../build/tracking-min.js"></script>
+   <script src="../node_modules/dat.gui/build/dat.gui.min.js"></script>
+  <script src="assets/stats.min.js"></script>
+  <script src="assets/color_camera_gui.js"></script>
+
+  <style>
+  .demo-container {
+    background-color: black;
+  }
+
+  video, canvas {
+    position: absolute;
+  }
+  </style>
+</head>
+<body>
+  <div class="demo-title">
+    <p><a href="http://trackingjs.com" target="_parent">tracking.js</a> － detect certain colors in a video</p>
+  </div>
+
+  <div class="demo-frame">
+    <div class="demo-container">
+      <div id="rectangle"></div>
+      <video id="video" width="800" height="530" preload="" autoplay="" loop="" muted="" controls="">
+        <source src="assets/minions.mp4" type="video/mp4">
+        <source src="assets/minions.ogv" type="video/ogg">
+      </video>
+      <canvas id="canvas" width="800" height="500"></canvas>
+    </div>
+  </div>
+
+
+</body></html>
