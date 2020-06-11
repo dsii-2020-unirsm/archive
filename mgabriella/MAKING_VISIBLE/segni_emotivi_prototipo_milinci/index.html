@@ -1,0 +1,95 @@
+<html>
+
+<head>
+    
+    
+    <link href="https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@600&display=swap" rel="stylesheet">
+    <link href="stile.css" rel="stylesheet" type="text/css">
+    
+  <meta charset="UTF-8">
+  <title>segni sensibili</title>
+    <script src="//code.jquery.com/jquery-3.3.1.min.js"></script>  
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.9.0/p5.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.9.0/addons/p5.dom.min.js"></script>
+    
+  <!--<script src="http://localhost:8080/ml5.js" type="text/javascript"></script>-->
+  <script src="https://unpkg.com/ml5@latest/dist/ml5.min.js"></script>
+ 
+<!-- -------------------------------------------------------- -->
+</head>
+
+<script src="sketch.js?v=2"></script>
+ 
+    
+<body>
+   
+
+ <div div="tuttosfondo">
+    <center>
+     <h1>segni emotivi</h1>
+    </center>
+    
+    <div id="canvasContainer">
+        
+    </div>
+    
+    <div id="drawButton"></div>
+      <!-- -------LISTA DELLE IMMAGINI DA CUI POTER ATTINGERE----- -->
+  <!-- Questa è la linsta delle immagini da cui si puo scegliere il disegno desiderato da far visualizzare sulla mascherina -->
+   <div id="mask-slider">
+
+                <div id="mask-list">
+                    <ul>
+                        <li class="selected-mask">
+                            
+                            <img src="immagini_scelte/children2.png" data-mask-type="half" data-scale-width="1.2" data-scale-height="1.2" data-scale="1.2" data-top-adj="0.1" data-left-adj="0" value="0">
+                        </li>
+                        <li>
+                            <img src="immagini_scelte/arcobaleno.png" data-mask-type="half" data-scale-width="1.2" data-scale-height="1.2" data-scale="1.2" data-top-adj="0.1" data-left-adj="0" value="1">
+                         </li>
+                         <li>
+                            <img src="immagini_scelte/farfalle.png" data-mask-type="half" data-scale-width="1.2" data-scale-height="1.2" data-scale="1.2" data-top-adj="0.1" data-left-adj="0" value="2">
+                         </li> 
+                         <li>
+                             <img src="immagini_scelte/girl.png" data-mask-type="half" data-scale-width="1.2" data-scale-height="1.2" data-scale-height="1.2" data-top-adj="0.05" data-left-adj="0" value="3">
+                        </li>
+                        <li>
+                             <img src="immagini_scelte/sole.png" data-mask-type="half" data-scale-width="1.2" data-scale-height="1.2" data-scale-height="1.2" data-top-adj="0.05" data-left-adj="0" value="4">
+                        </li>
+                        <li>
+                             <img src="immagini_scelte/famiglia.png" data-mask-type="half" data-scale-width="1.2" data-scale-height="1.2" data-scale-height="1.2" data-top-adj="0.05" data-left-adj="0" value="5">
+                        </li>
+                        <li>
+                             <img src="immagini_scelte/coccinella.png" data-mask-type="half" data-scale-width="1.2" data-scale-height="1.2" data-scale-height="1.2" data-top-adj="0.05" data-left-adj="0" value="6">
+                        </li>
+                        <li>
+                             <img src="immagini_scelte/fiori.png" data-mask-type="half" data-scale-width="1.2" data-scale-height="1.2" data-scale-height="1.2" data-top-adj="0.05" data-left-adj="0" value="7">
+                        </li>
+                        <li>
+                             <img src="immagini_scelte/pulcino.png" data-mask-type="half" data-scale-width="1.2" data-scale-height="1.2" data-scale-height="1.2" data-top-adj="0.05" data-left-adj="0" value="8">
+                        </li>
+
+                    </ul>
+                </div>
+                
+    </div>
+    <div id="informazioni">
+        
+        <p>
+        Progetto di Maria Gabriella Milinci<br>
+        Docente: Daniele Tabellini<br>
+        Collaboratore: Irene Trotta<br>
+        Laboratorio design di sistemi interattivi per informazione - a.a. 2019/2020<br>
+        Corso di laurea magistrale in Design<br>
+        Università degli Studi della Repubblica di San Marino
+        <p>
+        
+    </div>
+    
+</div>
+<!-- -------------------------------------------------------- -->
+
+    
+</body>
+
+</html>
