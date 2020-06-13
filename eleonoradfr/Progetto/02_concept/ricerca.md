@@ -40,7 +40,7 @@ Reference:
 - **FVAEs - Disney Research, 2017** [(+) ](https://www.caltech.edu/about/news/neural-networks-model-audience-reactions-movies-79098): Factorised variational autoencoders, algoritmo sul quale si basa un nuovo software di deep learning, sviluppato da Disney, in grado di valutare le reazioni del pubblico ai film utilizzando le espressioni facciali dello spettatore. Il sistema è in grado di valutare le reazioni in modo così accurato, da poter prevedere le risposte di un individuo in base a pochi minuti di osservazione  
 ![fvaes](https://miro.medium.com/max/450/1*c8Z900qLkErs8b6rtNyvkg.jpeg)  
   
-- **The Colors of Motion - Charlie Clark, 2014** [(+) ](https://thecolorsofmotion.com/): Progetto, nato come visualizazione di dati, che esplora l’utilizzo dei colori nei film. Un algoritmo analizza ogni tot secondi frame del film, ne estrapola il colore dominante e genera come output una timeline di righe di pixel   
+- **The Colors of Motion - Charlie Clark, 2014** [(+) ](https://thecolorsofmotion.com/): Progetto, nato come visualizzazione di dati, che esplora l’utilizzo dei colori nei film. Un algoritmo analizza ogni tot secondi frame del film, ne estrapola il colore dominante e genera come output una timeline di righe di pixel   
 ![the-colors-of-motion](https://i.redd.it/vg1100g61bh31.jpg)      
   
 - **The Changing Room - Lauren McCarthy** [(+) ](https://lauren-mccarthy.com/The-Changing-Room): installazione in cui i partecipanti sono invitati a sfogliare e selezionare una delle centinaia di emozioni, quindi evocare quell'emozione in loro e tutti nello spazio attraverso un ambiente stratificato di luce, immagini, suono, testo e interazione esibiti sull'intero spazio  
