@@ -1,18 +1,18 @@
 ## Lista prototipi  
   
-### _1 FaceApi Landmark  
+### 1 FaceApi Landmark  
 in questo script si individua il funzionamento di FaceApi  
-[img]()  
+![img]()  
   
-### _2 FaceApi Landmark disegna  
+### 2 FaceApi Landmark disegna  
 in questo script si unisce FaceApi al tool di disegno individuato  
-[img]()  
+![img]()  
   
-### _3 Interfaccia  
+### 3 Interfaccia  
 in questo script si crea l'interfaccia che andrà inserita dentro al programma di disegno  
-[img]()  
+![img]()  
   
-### _4 Proto definitivo funzionante (minor bugs)  
-prototipo funzionante con bug minori 
-[img]()  
+### 4 Proto definitivo funzionante (minor bugs)  
+prototipo funzionante con bug minori  
+![img]()  
   
