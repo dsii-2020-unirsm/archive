@@ -18,20 +18,20 @@ https://youtu.be/STRMcmj-gHc
 <img src="https://github.com/fabriziodedonatis/archive/blob/master/fabriziodedonatis/MakingVisible/Ispirazione/img/messa_fluid_ars_290018.jpg" alt="alt text" width="30%"> <img src="https://github.com/fabriziodedonatis/archive/blob/master/fabriziodedonatis/MakingVisible/Ispirazione/img/messa_jaapsolo_hud_1782.jpg" alt="alt text" width="30%"> <img src="https://github.com/fabriziodedonatis/archive/blob/master/fabriziodedonatis/MakingVisible/Ispirazione/img/eywriter3.jpg" alt="alt text" width="30%">  
 
 
-EYEWRITER
-“Art is a tool of empowerment and social change, and I consider myself blessed to be able to create and use my work to promote health reform, bring awareness about ALS and help others.”
-"L'arte è uno strumento di potenziamento e cambiamento sociale, e mi considero benedetto per essere in grado di creare e utilizzare il mio lavoro per promuovere la riforma sanitaria, sensibilizzare sulla SLA e aiutare gli altri"
-~ Tempt One
-
+### EYEWRITER
+**“Art is a tool of empowerment and social change, and I consider myself blessed to be able to create and use my work to promote health reform, bring awareness about ALS and help others.”**  
+*"L'arte è uno strumento di potenziamento e cambiamento sociale, e mi considero benedetto per essere in grado di creare e utilizzare il mio lavoro per promuovere la riforma sanitaria, sensibilizzare sulla SLA e aiutare gli altri"  
+~ Tempt One*  
+  
 Così si apre l’About sulla pagina del progetto Eyewriter.org.
 Un progetto opensource per disegnare graffiti con il movimento degli occhi. Questo progetto nasce nel 2009 in seguito all’ammalarsi di SLA del graffitista Tony Quan di Los Angeles. Il progetto si divide in una parte hardware e una software: una telecamera, modificata per la visione di infrarossi, puntata sull’occhio e il software che ne monitora il movimento ed esegue li script di
 tracciatura, interfaccia e disegno. Attraverso di esso, l’artista Tempt1 può
-continuare la sua forma d’arte con mezzi digitali anche essendo costretto a letto dalla malattia degenerante.
-http://www.eyewriter.org/
+continuare la sua forma d’arte con mezzi digitali anche essendo costretto a letto dalla malattia degenerante.  
+http://www.eyewriter.org/  
 https://vimeo.com/70932989  
-[<img src="" alt="alt text" width="30%">]
-[<img src="" alt="alt text" width="30%">]
-
+<img src="https://github.com/fabriziodedonatis/archive/blob/master/fabriziodedonatis/MakingVisible/Ispirazione/img/eywriter1.jpg" alt="alt text" width="30%"> <img src="https://github.com/fabriziodedonatis/archive/blob/master/fabriziodedonatis/MakingVisible/Ispirazione/img/eywriter2.jpg" alt="alt text" width="30%"> <img src="https://github.com/fabriziodedonatis/archive/blob/master/fabriziodedonatis/MakingVisible/Ispirazione/img/eywriter3.jpg" alt="alt text" width="30%">  
+  
+  
 MULTIUSER-SKETCHPAD
 Di Mr.doob, è una canvas nella quale tutti possono disegnare e scarabocchiare. Ad ogni accesso ci si presenta una canvas pulita sulla quale vedremo altri utenti disegnare. Quello che non è immediato è che siamo solo una parte di questo foglio che si sovrascrive in continuazione, infatti al momento dell’accesso ci troviamo nel presente inserendoci tra il passato (vecchi disegni che non vediamo o tra coloro che già disegnano) ed il futuro, ovvero i disegni degli altri utenti che verranno. Si configura come un interessante esempio di stratificazione delle informazioni/dati.
 https://mrdoob.com/
