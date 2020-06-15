@@ -1,4 +1,4 @@
-## Protitipo DeletePixel ##
+## Prototipo ##
 
 Il prototipo unisce gli algoritmi di p5Speech, Sentiment Analysis e DeletePixel.
 
