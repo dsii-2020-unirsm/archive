@@ -1,4 +1,4 @@
 ## Delete Pixel ##
 
 
-L'algoritmo permette di selezionare i pixel da visualizzare sull'immagine caricata e eliminare tutti gli altri.
+DeletePixel è un progetto che cerca di imitare il processo di selezione e dimenticanza delle informazioni legate a un ricordo. L’obbiettivo è quello di rendere visibile la forma dei ricordi legati a una foto e al tipo di emozione che suscita.
