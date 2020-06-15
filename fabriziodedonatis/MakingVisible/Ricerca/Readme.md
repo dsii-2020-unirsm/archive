@@ -1,11 +1,11 @@
 ## Ricerca  
   
-  []()  
-  []()  
-  []()  
+  - [CARL_GUSTAV_JUNG_E_I_MANDALA](#CARL_GUSTAV_JUNG_E_I_MANDALA)  
+  - [SCRITTURA](#SCRITTURA)  
+  - [MEDITAZIONE_E_PSICOTERAPIA ](#MEDITAZIONE_E_PSICOTERAPIA )  
   
   
-### CARL GUSTAV JUNG  E I MANDALA  
+### CARL_GUSTAV_JUNG_E_I_MANDALA  
   
 il disegno a figure geometriche simmetriche disegnato dai monaci tibetani come mezzo di meditazione ha conquistato anche i più 
 laici fra gli occidentali, come mezzo per rilassarsi e calmare la mente. Già lo psicoanalista Carl Jung nei primi anni del XX
@@ -17,6 +17,7 @@ Attraverso il disegno da colorare, per esempio, il terapeuta ha la possibilità 
 dei colori che utilizza o del disegno che preferisce. Mentre si colora si “lavora” sulle emozioni che creano problemi: questa tecnica 
 ha dato persino ottimi risultati nelle cure contro la depressione.	
 https://www.gruppomacro.com/blog/cure-alternative/art-therapy-la-terapia-del-colore  
+
 Con il termine Mandala (“manda“= essenza+ ”la”= contenere in sanscrito).  
 Dal punto di vista della Psicologia Analitica generalmente indica la rappresentazione figurativa dei cerchi eseguiti per realizzare
 una profonda esperienza interiore. Come strumento aiuta nell'esercizio della meditazione, della concentrazione interiore e dell'ascesi
@@ -41,9 +42,9 @@ http://www.lirpa.it/l-associazione/l-individuazione-secondo-jung
   
   
 ### SCRITTURA  
-William James Pennebaker  
+*William James Pennebaker*  
   
-** “se scrivo ciò che sento è perché così facendo, abbasso la febbre di sentire” Fernando Pessoa ** 
+**“se scrivo ciò che sento è perché così facendo, abbasso la febbre di sentire” Fernando Pessoa**  
 Immaginate un foglio bianco, una penna e i pensieri che affollano la mente. Il foglio bianco diventa uno spazio, un luogo, un 
 momento; la penna si tramuta in voce e i pensieri fuoriescono sotto forma di parole e frasi. Inizia così un dialogo intimo, un
 attimo perfetto fatto di silenzi e rumori, quelli delle emozioni che ora sono lì: nero su bianco. Quel frastuono emotivo che 
@@ -58,7 +59,7 @@ al fluire delle emozioni.
 Alcune forme di ansia possono essere gestite con la scrittura: in particolare la terapia breve strategica utilizza quello 
 che viene definito “diario di bordo” nel trattamento degli attacchi di panico.  
   
-####SCRIVERE PER SUPERARE IL TRAUMA  
+#### SCRIVERE PER SUPERARE IL TRAUMA  
 Nel trattamento del disturbo post-traumatico da stress l’utilizzo della scrittura viene suggerito elevando la persona a 
 “regista” di un film che per tanto tempo non è riuscito a riguardare. Nei panni del narratore egli potrà selezionare personalmente
 le scene e i fatti da raccontare, ricordandosi – ogni sera – di aggiungere dettagli al proprio racconto. Questa tecnica produce
@@ -74,7 +75,7 @@ https://www.centroditerapiastrategica.com/effetti-terapeutici-della-scrittura-le
 <img src="https://github.com/fabriziodedonatis/archive/blob/master/fabriziodedonatis/MakingVisible/Ricerca/img/scrittura.jpg" width="50%">  
   
   
-### MEDITAZIONE E PSICOTERAPIA  
+### MEDITAZIONE_E_PSICOTERAPIA  
   
 Una delle recenti applicazioni in materia è la tecnica che va sotto il nome di mindfulness . Si tratta di un metodo basato 
 sulla “consapevolezza” dei propri pensieri, azioni e motivazioni. Secondo la definizione di uno dei padri di questa disciplina,
@@ -90,4 +91,4 @@ cervello e delle nostre esperienze, siano esse positive, negative o neutre.
   
 https://www.neuroscienze.net/mindfulness-tra-psicoterapia-e-meditazione/  
   
-<img src="https://github.com/fabriziodedonatis/archive/blob/master/fabriziodedonatis/MakingVisible/Ricerca/img/meditazione.jpg" width="30%">  
+<img src="https://github.com/fabriziodedonatis/archive/blob/master/fabriziodedonatis/MakingVisible/Ricerca/img/meditazione.jpg" width="50%">  
