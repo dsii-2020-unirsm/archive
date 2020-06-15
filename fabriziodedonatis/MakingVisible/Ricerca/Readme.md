@@ -50,22 +50,22 @@ momento; la penna si tramuta in voce e i pensieri fuoriescono sotto forma di par
 attimo perfetto fatto di silenzi e rumori, quelli delle emozioni che ora sono lì: nero su bianco. Quel frastuono emotivo che 
 assordava il resto, si scioglie sulla pagina vuota e il volume nella mente diminuisce.  
   
-#### TERAPIA BREVE STRATEGICA  
+**TERAPIA BREVE STRATEGICA**  
 *SCRIVERE PER CANALIZZARE*  
 Quando si provano una forte rabbia o un profondo dolore la narrazione permette di creare l’argine che riporta il giusto decorso
 al fluire delle emozioni.  
   
-#### SCRIVERE PER GESTIRE L’ANSIA  
+**SCRIVERE PER GESTIRE L’ANSIA**  
 Alcune forme di ansia possono essere gestite con la scrittura: in particolare la terapia breve strategica utilizza quello 
 che viene definito “diario di bordo” nel trattamento degli attacchi di panico.  
   
-#### SCRIVERE PER SUPERARE IL TRAUMA  
+**SCRIVERE PER SUPERARE IL TRAUMA**  
 Nel trattamento del disturbo post-traumatico da stress l’utilizzo della scrittura viene suggerito elevando la persona a 
 “regista” di un film che per tanto tempo non è riuscito a riguardare. Nei panni del narratore egli potrà selezionare personalmente
 le scene e i fatti da raccontare, ricordandosi – ogni sera – di aggiungere dettagli al proprio racconto. Questa tecnica produce
 alcuni importanti effetti come quello di esternalizzare, ovvero portare fuori ciò che è rimasto intrappolato nel sentire della persona.  
   
-#### SCRIVERE PER SOVVERTIRE MECCANISMI MENTALI DISFUNZIONALI  
+**SCRIVERE PER SOVVERTIRE MECCANISMI MENTALI DISFUNZIONALI**  
 Molte delle indicazioni che in terapia breve strategica sono orientate allo sblocco di alcuni meccanismi disfunzionali, sono 
 prescritte nella forma scritta. Scrivere è un’azione concreta e ciò che è tangibile spesso è più incisivo e pregnante, anche 
 nell’ottica di un apprendimento che conduca al cambiamento terapeutico.  
