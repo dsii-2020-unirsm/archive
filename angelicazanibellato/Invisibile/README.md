@@ -1,9 +1,8 @@
 # Delete Pixel
-**Come dimenticano le macchine**
+## Come dimenticano le macchine
 
 
 **Introduzione**
-
 La memoria è uno strumento di sopravvivenza, usiamo le nostre esperienze per anticipare e prepararci a eventi e incontri imminenti ma, a lungo andare, ricordare troppe informazioni può diventare un problema. L’album dei ricordi che non abbandona mai l’individuo può essere ingombrante.
 
 Possiamo dare a una macchina il controllo su ciò che deve essere ricordato e cosa no?
