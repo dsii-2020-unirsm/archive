@@ -1,5 +1,5 @@
 ## IMMATERIALS: light painting WiFi
-Timo Arnall, Jørn Knutsen and Einar Sneve Martinussen,(2012)
+Timo Arnall, Jørn Knutsen and Einar Sneve Martinussen, (2012)
 
 ## .what is
 _Immaterials: Light painting WiFi_ è un progetto di ricerca realizzato nel centro di ricerca per il design della scuola di design e architettura di Oslo da Timo Arnall, Jørn Knutsen e Einar Sneve Martinussen. Il progetto esplora il terreno invisibile delle reti WiFi negli spazi urbani della città di Oslo, in Norvegia, in relazione alla progettazione di interfacce. L’installazione mostra l’intensità del segnale luminoso attraverso fotografie a lunga esposizione. Un'asta di misurazione lunga quattro metri con 80 punti di luce led rivela le reti WiFi utilizzando la tecnica fotografica del light-painting.
