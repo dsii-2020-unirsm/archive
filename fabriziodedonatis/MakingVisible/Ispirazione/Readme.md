@@ -47,7 +47,7 @@ Di Mr.doob, è una canvas nella quale tutti possono disegnare e scarabocchiare. 
 https://mrdoob.com/  
 https://twitter.com/mrdoob  
   
-<img src="https://github.com/fabriziodedonatis/archive/blob/master/fabriziodedonatis/MakingVisible/Ispirazione/img/multiuser_sketchpad1.png" alt="alt text" width="30%"> <img src="https://github.com/fabriziodedonatis/archive/blob/master/fabriziodedonatis/MakingVisible/Ispirazione/img/multiuser_sketchpad2.png" alt="alt text" width="30%">  
+<img src="https://github.com/fabriziodedonatis/archive/blob/master/fabriziodedonatis/MakingVisible/Ispirazione/img/multiuser_sketchpad1.png" alt="alt text" width="45%"> <img src="https://github.com/fabriziodedonatis/archive/blob/master/fabriziodedonatis/MakingVisible/Ispirazione/img/multiuser_sketchpad2.png" alt="alt text" width="45%">  
 
 
 ### FACEMOUSE  
