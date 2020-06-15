@@ -5,7 +5,41 @@
   3. [Ricerca](#Ricerca)  
   4. [Tecnologia](#Tecnologia)  
   
-  ## Progetto
+  ## Progetto  
+  
+  Il progetto nasce dall’osservazione del periodo di quarantena al quale siamo stati largamente obbligati.
+Nasce anche dalla riflessione tra reclusione obbligata e immobilità, spaziando fino agli stati di malattia che portano all’immobilità del corpo ma non della mente. Numerose le attività sociali, ricreative e artistiche che si sono fermate e di conseguenza una parte della vivacità fisica ma non mentale.  
+Alcuni ambiti di ispirazione, riportati i salienti in questo articolo, hanno formato l’idea di realizzare una piattaforma che ricordasse il concetto, affine al momento, di staticità fisica ma non mentale. A questo punto, dover aver spaziato tra argomentazioni sull’importanza e gli effetti dell’espressione artistica sulle persone, ho deciso di realizzare uno strumento di disegno da utilizzare quasi immobili, che necessiti di concentrazione ma allo stesso tempo consenta di esprimersi con estrema lentezza, una sorta di TaiChi digitale. Questo tool propone l’unione del disegno e il colore, la scrittura espressiva in un gesto lento e concentrato simile a quello della meditazione. Alla fine del processo si ottiene una piattaforma prevalentemente ad uso individuale di sperimentazione artistica, ma si configura anche come strumento per l’esecuzione di live performance artistiche.  
+  
+Le tecnologie scelte per la realizzazione di questo prototipo sono state:  
+- FaceApi, per il riconoscimento della morfologia del volto e suo tracciamento;  
+- p5Speech, per riportare in testo il dettato;  
+- p5js, come ambiente di sviluppo.  
+  
+  ### Funzionamento  
+  La webcam inquadra l'utente, effettua il caricamento del modello FaceApi e di p5Speech, non appena il caricamento è ultimato comparirà il puntatore in riferimento al naso della persona.  
+  La bocca è il "mouse" del sistema, aprirla e chiuderla a mo' di sbadiglio equivale a cliccare.  
+    
+  <img src="https://github.com/fabriziodedonatis/archive/blob/master/fabriziodedonatis/MakingVisible/img/funzionamento%201.png" alt="alt text" width="100%">  
+  
+  ### Area Disegno  
+  per disegnare è sufficiente fare un solo click con la bocca nell'area di disegno e un click per smettere.  
+  
+  <img src="https://github.com/fabriziodedonatis/archive/blob/master/fabriziodedonatis/MakingVisible/img/funzionamento%202-02.jpg" width="100%">
+  
+  ### Menu Selezione Strumenti  
+  di seguito il menu di selezione strumenti e colori, ogni scelta è finalizzato con un "click" della bocca.  
+  Se si seleziona il testo, attendere la comparsa della frase dettata sotto il menu testo per accertarsi che sia stata caricata.  
+  
+  <img src="https://github.com/fabriziodedonatis/archive/blob/master/fabriziodedonatis/MakingVisible/img/funzionamento%202_Tavola%20disegno%201.jpg" width="100%">
+  
+  ### Interfaccia Complessiva  
+  
+  <img src="https://github.com/fabriziodedonatis/archive/blob/master/fabriziodedonatis/MakingVisible/img/funzionamento%202-03.jpg" width="100%">
+
+  [Prototipo GitHub qui](https://github.com/fabriziodedonatis/archive/tree/master/fabriziodedonatis/MakingVisible/prototipi)  
+  [Prototipo p5 v_2.5 qui](https://editor.p5js.org/fabriziodedo13/sketches/kkBbl9GU-)  
+  
   
   ## Ispirazione  
   
