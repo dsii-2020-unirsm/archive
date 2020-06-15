@@ -22,7 +22,7 @@ tecnologie di visione computerizzata e analisi del parlato.
 http://www.tmema.org/messa/messa.html  
 https://youtu.be/STRMcmj-gHc  
   
-<img src="https://github.com/fabriziodedonatis/archive/blob/master/fabriziodedonatis/MakingVisible/Ispirazione/img/messa_fluid_ars_290018.jpg" alt="alt text" width="30%"> <img src="https://github.com/fabriziodedonatis/archive/blob/master/fabriziodedonatis/MakingVisible/Ispirazione/img/messa_jaapsolo_hud_1782.jpg" alt="alt text" width="30%"> <img src="https://github.com/fabriziodedonatis/archive/blob/master/fabriziodedonatis/MakingVisible/Ispirazione/img/eywriter3.jpg" alt="alt text" width="30%">  
+<img src="https://github.com/fabriziodedonatis/archive/blob/master/fabriziodedonatis/MakingVisible/Ispirazione/img/messa_fluid_ars_290018.jpg" alt="alt text" width="30%"> <img src="https://github.com/fabriziodedonatis/archive/blob/master/fabriziodedonatis/MakingVisible/Ispirazione/img/messa_jaapsolo_hud_1782.jpg" alt="alt text" width="30%"> <img src="https://github.com/fabriziodedonatis/archive/blob/master/fabriziodedonatis/MakingVisible/Ispirazione/img/messa_ripple_hud_1790.jpg" alt="alt text" width="30%">  
 
 
 ### EYEWRITER
@@ -38,7 +38,7 @@ continuare la sua forma d’arte con mezzi digitali anche essendo costretto a le
 http://www.eyewriter.org/  
 https://vimeo.com/70932989  
   
-<img src="https://github.com/fabriziodedonatis/archive/blob/master/fabriziodedonatis/MakingVisible/Ispirazione/img/eywriter1.jpg" alt="alt text" width="30%"> <img src="https://github.com/fabriziodedonatis/archive/blob/master/fabriziodedonatis/MakingVisible/Ispirazione/img/eywriter2.jpg" alt="alt text" width="30%"> <img src="https://github.com/fabriziodedonatis/archive/blob/master/fabriziodedonatis/MakingVisible/Ispirazione/img/eywriter3.jpg" alt="alt text" width="30%">  
+<img src="https://github.com/fabriziodedonatis/archive/blob/master/fabriziodedonatis/MakingVisible/Ispirazione/img/eywriter1.jpg" alt="alt text" width="50%"> <img src="https://github.com/fabriziodedonatis/archive/blob/master/fabriziodedonatis/MakingVisible/Ispirazione/img/eywriter2.jpg" alt="alt text" width="50%"> <img src="https://github.com/fabriziodedonatis/archive/blob/master/fabriziodedonatis/MakingVisible/Ispirazione/img/eywriter3.jpg" alt="alt text" width="100%">  
   
   
 ### MULTIUSER-SKETCHPAD  
