@@ -20,7 +20,7 @@ Le macchine possono dimenticare le informazioni?
 La rete neurale artificiale è soggetta al fenomeno di dimenticanza catastrofica, ovvero alla tendenza di dimenticare completamente e bruscamente le informazioni precedentemente apprese, dopo aver appreso nuove informazioni. L’oblio catastrofico si verifica perché durante l’apprendimento sequenziale, gli input si mischiano con il nuovo input sovrapposto al vecchio input.
 
 
-### IDEE PROGETTUALI
+## Idee progettuali
 
 **Dare forma ai ricordi:** un dispositivo che fabbrica memorie visive
 
@@ -84,7 +84,7 @@ La rete neurale artificiale è soggetta al fenomeno di dimenticanza catastrofica
 [Mosaic Virus](http://annaridler.com/mosaic-virus) [+](https://vimeo.com/287645190?utm_campaign=5370367&utm_source=affiliate&utm_channel=affiliate&cjevent=50402b4a8f7d11ea83b400410a18050e/)
 
 
-### MIRO
+## MIRO
 
 ![img](https://github.com/angelicazanibellato/archive/blob/master/angelicazanibellato/Invisibile/img/avanzamento1.PNG)
 
@@ -101,7 +101,7 @@ La rete neurale artificiale è soggetta al fenomeno di dimenticanza catastrofica
 ![img](https://github.com/angelicazanibellato/archive/blob/master/angelicazanibellato/Invisibile/img/idee%20progettuali.PNG)
 
 
-## AVANZAMENTO ##
+## AVANZAMENTO
 
 Il progetto ha l'obbiettivo di rendere visibili i ricordi e imitare il processo di dimenticanza.
 A partire da un'immagine e un racconto (scritto/orale) ottengono una nuova immagine che mostra soltanto le parti che ricordo.
@@ -164,8 +164,6 @@ Una volta determinato il colore del ricordo, cerco nella foto tutti i pixel che 
 Se il mio ricordo è felice, quindi verde, nella foto rimangono soltanto i pixel verdi mentre su tutti gli altri viene "stampato" un pixel nero
 
 [DeletePixels](https://editor.p5js.org/angelicazanibellato/present/zPUUs4BeG)
-
-
 
 
 ### COLORI
