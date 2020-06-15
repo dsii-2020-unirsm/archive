@@ -28,8 +28,7 @@ La rete neurale artificiale è soggetta al fenomeno di dimenticanza catastrofica
 - il dispositivo scompone le informazioni ricevute in forme
 - le forme vengono stratificate su una tela, creando una visualizzazione del ricordo
 
-**Riferimenti**
-
+_Riferimenti:_
 [What Neural Networks See](https://experiments.withgoogle.com/what-neural-nets-see)
 [Deep Dream](https://hackernoon.com/what-neural-networks-teach-us-about-schizophrenia-ci3203zhx)
 [Nima Veiseh](https://www.nimaveiseh.com/)
@@ -40,8 +39,7 @@ La rete neurale artificiale è soggetta al fenomeno di dimenticanza catastrofica
 - un dispositivo archivia tutti i ricordi che vede (foto e immagini) o che sente (racconti a voce)
 - un altro dispositivo raccoglie tutti i ricordi rimossi dal primo dispositivo
 
-**Riferimenti**
-
+_Riferimenti:_
 [Interferenza catastrofica](https://github.com/topics/catastrophic-forgetting)
 
 **Selezionare i ricordi:** un di spositivo che riconosce autonomamente i nostri ricordi
@@ -51,8 +49,7 @@ La rete neurale artificiale è soggetta al fenomeno di dimenticanza catastrofica
 - il dispositivo seleziona soltanto i ricordi da tenere
 - questi ricordi vengono trasformati e visualizzati sotto forma di video
 
-**Riferimenti**
-
+_Riferimenti:_
 [Empath](https://webempath.com/)
 
 
@@ -126,13 +123,13 @@ Una volta scritto il testo, il modello mi restituisce una percentuale e stampa i
 
 *Parametri*
 
-Blu      Tristezza tra 0% e 25%
+**Blu**      Tristezza tra 0% e 25%
 
-Rosso    Rabbia tra 25% e 50%
+**Rosso**    Rabbia tra 25% e 50%
 
-Giallo    Divertimento tra 50% e 75%
+**Giallo**    Divertimento tra 50% e 75%
 
-Verde     Felicità tra 75% e 100%
+**Verde**     Felicità tra 75% e 100%
 
 [SentimentAanalysis](https://editor.p5js.org/angelicazanibellato/present/XH4ezvn7R)
 
@@ -158,7 +155,7 @@ Verde     Felicità tra 75% e 100%
 ![img](https://github.com/angelicazanibellato/archive/blob/master/angelicazanibellato/Invisibile/img/angry.PNG)
 
 
-**3 Analisi dell'immagine**
+- **Analisi dell'immagine**
 
 Una volta determinato il colore del ricordo, cerco nella foto tutti i pixel che corrispondono a quel colore.
 Se il mio ricordo è felice, quindi verde, nella foto rimangono soltanto i pixel verdi mentre su tutti gli altri viene "stampato" un pixel nero
