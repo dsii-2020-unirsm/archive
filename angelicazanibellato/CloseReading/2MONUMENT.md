@@ -1,5 +1,5 @@
 ## MOMUMENT
-Caleb Larsen,(2006)
+Caleb Larsen, (2006)
 
 ## .what is
 _Monument_ è un’installazione-monumento realizzata dall’artista Caleb Larsen, collocata in una stanza museo nel Peacock Visual Arts di Aberdeen. L’installazione mostra in tempo reale il numero di persone uccise in modo violento. Ogni vittima è rappresentata da una pallina gialla di plastica contenuta, insieme alle altre, in un contenitore trasparente appeso al soffitto. Il significato dell’installazione viene spiegato all’utente solo alla fine dell’esperienza, da cui si può dedurre che si tratti di una visualizzazione di dati.
