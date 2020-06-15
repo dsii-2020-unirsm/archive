@@ -50,7 +50,7 @@ momento; la penna si tramuta in voce e i pensieri fuoriescono sotto forma di par
 attimo perfetto fatto di silenzi e rumori, quelli delle emozioni che ora sono lì: nero su bianco. Quel frastuono emotivo che 
 assordava il resto, si scioglie sulla pagina vuota e il volume nella mente diminuisce.  
   
-#### TERAPIA BREVE STRATEGICA.  
+#### TERAPIA BREVE STRATEGICA  
 *SCRIVERE PER CANALIZZARE*  
 Quando si provano una forte rabbia o un profondo dolore la narrazione permette di creare l’argine che riporta il giusto decorso
 al fluire delle emozioni.  
