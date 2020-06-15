@@ -1,4 +1,5 @@
-# Memoria e Ricordi
+# Delete Pixel
+**Memoria e Ricordi**
 
 
 **Introduzione**
