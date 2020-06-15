@@ -1,5 +1,5 @@
 # Delete Pixel
-**Memoria e Ricordi**
+**Come dimenticano le macchine**
 
 
 **Introduzione**
