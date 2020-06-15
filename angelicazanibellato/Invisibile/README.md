@@ -25,7 +25,8 @@ La rete neurale artificiale è soggetta al fenomeno di dimenticanza catastrofica
 ### IDEE PROGETTUALI
 
 **Dare forma ai ricordi**
-un dispositivo fabbrica memorie visive
+
+Un dispositivo che fabbrica memorie visive
 
 - racconto a un dispositivo ciò che vedo in una foto oppure racconto, a voce, un mio ricordo
 - il dispositivo scompone le informazioni ricevute in forme
@@ -38,7 +39,8 @@ un dispositivo fabbrica memorie visive
 [Nima Veiseh](https://www.nimaveiseh.com/)
 
 **Archivio delle cose dimenticate**
-archivi di memoria
+
+Un dispositivo che crea archivi di memoria
 
 - due dispositivi interagiscono tra loro
 - un dispositivo archivia tutti i ricordi che vede (foto e immagini) o che sente (racconti a voce)
@@ -49,7 +51,8 @@ archivi di memoria
 [Interferenza catastrofica](https://github.com/topics/catastrophic-forgetting)
 
 **Selezionare i ricordi**
-riconoscimento automatico
+
+Un di spositivo che riconosce autonomamente i nostri ricordi
 
 - registro su un dispositivo un ricordo vocale
 - il dispositivo riconosce le emozioni legate al ricordo attraverso il tono di voce
