@@ -1,14 +1,14 @@
 ## THE FLOW TOWARDS EUROPE
-Lucify (2015)
+Lucify, (2015)
 
 ## .what is
-The flow towards Europe è un progetto di visualizzazione dati che spiega la prospettiva europea della crisi dei rifugiati, mostra i richiedenti asilo che arrivano in Europa e come questi dati cambiano ne tempo.
-Il progetto è composto da una mappa che mostra il flusso di richiedenti asilo nei paesi europei e il tasso totale per ogni paese europeo.
-Un diagramma alluviale che rappresenta i cambiamenti dei flussi dei richiedenti asilo totali mensili.
-Una rappresentazione grafica per mezzo di campi da calcio che mostra i rifugiati siriani che sono riusciti a raggiungere l’Europa e quelli che invece si sono rifugiati nei campi profughi dei paesi vicini.
+_The flow towards Europe_, realizzato dall’agenzia di comunicazione finlandese Lucify nel 2015, è un progetto di visualizzazione dati che spiega la prospettiva europea della crisi dei rifugiati, mostra i richiedenti asilo verso i paesi europei e come questi dati cambiano nel tempo, a partire dal 2012.
+Il progetto è composto da una mappa interattiva che mostra il flusso di richiedenti asilo nei paesi europei e il tasso totale per ogni paese europeo. Un diagramma alluviale, mostra i cambiamenti dei flussi dei richiedenti asilo totali mensili.Una rappresentazione grafica per mezzo di campi da calcio mostra i rifugiati siriani che sono riusciti a raggiungere l’Europa e quelli che invece si sono rifugiati nei campi profughi dei paesi vicini.
+Il modo in cui è stata pensata e realizzata questa visualizzazione dati, ha l’obbiettivo di rendere il tema comprensibile a un pubblico ampio.
+
 
 ## .what does it mean
-La rappresentazione è progettata per dare una visualizzazione intuitiva e coinvolgente rispetto la portata del problema. Coinvolgere l’utente anche nella semplice visualizzazione dei dati, facendolo interagire con la linea del tempo o con i flussi in movimento, lo aiuta a dare un significato a quei numeri e allo stesso tempo illustrare la portata della crisi.
+La rappresentazione è progettata per dare una visualizzazione intuitiva e coinvolgente rispetto la portata del problema. Coinvolgere l’utente anche nella semplice visualizzazione dei dati, facendolo interagire con la linea del tempo o con i flussi in movimento, lo aiuta a dare un significato a quei numeri e allo stesso tempo illustrare la portata della crisi. L’obbiettivo dei progettisti potrebbe essere stato, appunto, quello di raccontare la storia dei migranti con la quale l’utente può interagire in diverse modalità.
 
 ## .how it works
 Nella prima visualizzazione dati abbiamo una mappa con paesi europei e non, una linea del tempo e un cursore per cambiare la velocità dei flussi sulla mappa.
