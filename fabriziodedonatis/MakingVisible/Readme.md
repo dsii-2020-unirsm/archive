@@ -1,9 +1,9 @@
 # FaceDrawing  
   
-  1[Progetto](#Progetto)  
-  2[Ispirazione](#Ispirazione)  
-  3[Ricerca](#Ricerca)  
-  4[Tecnologia](#Tecnologia)  
+  1-[Progetto](#Progetto)  
+  2-[Ispirazione](#Ispirazione)  
+  3-[Ricerca](#Ricerca)  
+  4-[Tecnologia](#Tecnologia)  
   
   ## Progetto
   
