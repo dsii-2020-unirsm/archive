@@ -22,7 +22,7 @@ Le macchine possono dimenticare le informazioni?
 La rete neurale artificiale è soggetta al fenomeno di dimenticanza catastrofica, ovvero alla tendenza di dimenticare completamente e bruscamente le informazioni precedentemente apprese, dopo aver appreso nuove informazioni. L’oblio catastrofico si verifica perché durante l’apprendimento sequenziale, gli input si mischiano con il nuovo input sovrapposto al vecchio input.
 
 
-**IDEE PROGETTUALI**
+### IDEE PROGETTUALI
 
 **Dare forma ai ricordi**
 un dispositivo fabbrica memorie visive
@@ -62,7 +62,7 @@ riconoscimento automatico
 
 
 
-**Progetti di riferimento**
+### Progetti di riferimento
 
 ![img](https://github.com/angelicazanibellato/archive/blob/master/angelicazanibellato/Invisibile/img/memory.jpg)
 
@@ -89,7 +89,7 @@ riconoscimento automatico
 [Mosaic Virus](http://annaridler.com/mosaic-virus) [+](https://vimeo.com/287645190?utm_campaign=5370367&utm_source=affiliate&utm_channel=affiliate&cjevent=50402b4a8f7d11ea83b400410a18050e/)
 
 
-**MIRO**
+### MIRO
 
 ![img](https://github.com/angelicazanibellato/archive/blob/master/angelicazanibellato/Invisibile/img/avanzamento1.PNG)
 
