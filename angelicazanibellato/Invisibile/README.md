@@ -22,9 +22,9 @@ Le macchine possono dimenticare le informazioni?
 La rete neurale artificiale è soggetta al fenomeno di dimenticanza catastrofica, ovvero alla tendenza di dimenticare completamente e bruscamente le informazioni precedentemente apprese, dopo aver appreso nuove informazioni. L’oblio catastrofico si verifica perché durante l’apprendimento sequenziale, gli input si mischiano con il nuovo input sovrapposto al vecchio input.
 
 
-**Idee progettuali**
+**IDEE PROGETTUALI**
 
-**DARE FORMA AI RICORDI**
+**Dare forma ai ricordi**
 un dispositivo fabbrica memorie visive
 
 - racconto a un dispositivo ciò che vedo in una foto oppure racconto, a voce, un mio ricordo
@@ -37,7 +37,7 @@ un dispositivo fabbrica memorie visive
 [Deep Dream](https://hackernoon.com/what-neural-networks-teach-us-about-schizophrenia-ci3203zhx)
 [Nima Veiseh](https://www.nimaveiseh.com/)
 
-**ARCHIVIO DELLE COSE DIMENTICATE**
+**Archivio delle cose dimenticate**
 archivi di memoria
 
 - due dispositivi interagiscono tra loro
@@ -48,7 +48,7 @@ archivi di memoria
 
 [Interferenza catastrofica](https://github.com/topics/catastrophic-forgetting)
 
-**SELEZIONE DEI RICORDI**
+**Selezionare i ricordi**
 riconoscimento automatico
 
 - registro su un dispositivo un ricordo vocale
