@@ -8,6 +8,9 @@
 // 10PRINT book for https://nickm.com/trope_tank/10_PRINT_121114.pdf
 // —
 //
+//
+// Help:
+//[double click]: salva immagine
 
 let canvas;
 let x = 0; //coordinata x del rettangolo
