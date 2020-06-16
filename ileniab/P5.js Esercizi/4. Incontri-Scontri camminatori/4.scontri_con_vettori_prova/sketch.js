@@ -5,17 +5,23 @@
 // Educational purposes, MIT License, 2020, San Marino
 // —
 // Credits/Thanks to: 
-// @shiffman (https://github.com/shiffman) for https://shiffman.net/, https://www.youtube.com/watch?v=GY-c2HO2liA
+// @shiffman (https://github.com/shiffman) for https://shiffman.net/, https://www.youtube.com/watch?v=GY-c2HO2liA, https://www.youtube.com/watch?v=uAfw-ko3kB8
 //-
+// Help:
+//[mouse clicked]: aggiungi un elemento
+//
+// quando si scontrano le palline, cambiano colore, aumentano di dimensione e si respingono. Se il raggio è superiore a 15 si trasformano in un quadrato
 
 let camminatore = []
 let position;
 let velocity;
-let num = 15
+let num = 15;
+let t = 0;
 
 
 function setup() {
-  createCanvas(400, 400);
+  createCanvas(windowWidth, windowHeight);
+  rectMode(CENTER);
 
   for (var i = 0; i < num; i++) {
     camminatore[i] = new Walker(random(width), random(height));
@@ -23,88 +29,120 @@ function setup() {
 }
 
 function draw() {
-  background(220);
+  background(255, 150, 113, 85);
   for (var i = 0; i < camminatore.length; i++) {
-    camminatore[i].step();
-    camminatore[i].mostrati();
+
     //for per cambiare i colori      
     for (var j = 0; j < camminatore.length; j++) {
       if (i != j && camminatore[i].interseca(camminatore[j])) {
-        camminatore[i].cambiaColore();
-        camminatore[j].cambiaColore();
         camminatore[i].scontro();
         camminatore[j].scontro();
+        
+        camminatore[i].cambiaColore();
+        camminatore[j].cambiaColore();
+
+        
+
+
       }
     }
+
+    camminatore[i].step();
+    camminatore[i].mostrati();
   }
 
 }
 
+//se premo il mouse mi aggiunge un camminatore sulle coordinate del cursore----------------------------------------
+
+function mousePressed() {
+  camminatore.push(new Walker(mouseX, mouseY));
+}
+
+//------------------------------------------------------------------------------------
+
 function Walker(x, y) {
-  this.position = createVector(200, 200);
-  this.velocity = createVector(random(1), random(2.3));
 
-  this.position.x = x
-  this.position.y = y
-  
-  this.r = 10
-  this.t = random(50)
-  this.col = color(255);
+  this.xspeed = random(-4);
+  this.yspeed = random(4);
 
-  this.cambiaColore = function() {
-    this.col = color(random(255), random(255), random(255));
-    
-  }
+  this.x = x;
+  this.y = y;
+
+  this.r = 10;
+  this.ipotenusa = Math.sqrt((this.r * this.r) + (this.r * this.r));
+
+
+
+  this.t += 0.01;
+
+  this.col = color(214, 93, 177);
 
   this.interseca = function(other) {
-    this.d = dist(this.position.x, this.position.y, other.position.x, other.position.y);
-    if (this.d <= this.r + other.r) //se la distanza è < della somma dei due raggi
+    this.d = dist(this.x, this.y, other.x, other.y);
+
+
+    if (this.d <= this.r + other.r || this.id <= this.ipotenusa + other.ipotenusa) //se la distanza è < della somma dei due raggi o della domma delle ipotenuse
     {
       console.log("scontro: " + this.d)
-      this.r=this.r +0.01  //incrementa il diametro se si intersecano
+
+      this.r = this.r + 0.01 //incrementa il diametro se si intersecano
+
       return true;
+
     } else {
       return false;
     }
   }
 
-  this.mostrati = function() {
-    noStroke()
-    fill(this.col)
 
-    ellipse(this.position.x, this.position.y, this.r * 2, this.r * 2)
-    
-    if(this.r>20){
-    
-    rect(this.position.x*2, this.position.y*2, this.r * 2, this.r * 2)
-   
+  this.cambiaColore = function() {
+    this.col = color(132, 94, 194);
+
+  }
+
+
+
+  this.mostrati = function() {
+    if (this.r < 15) {
+
+      noFill();
+      stroke(this.col)
+      strokeWeight(2);
+
+      ellipse(this.x, this.y, this.r * 2, this.r * 2)
+    } else {
+      noStroke();
+      fill(255, 111, 145);
+      rect(this.x, this.y, this.r * 2, this.r * 2)
+
     }
   }
 
 
-  
+
   this.step = function() {
 
-    var step = p5.Vector.random2D();
+    this.x = this.x + this.xspeed * noise(t);
+    this.y = this.y + this.yspeed * noise(t);
 
-   
-      step.setMag(2); //imposta grandezza vettore
-    
-
-    //costringi la posizione x all'interno della canvas
-    this.position.x = constrain(this.position.x, 0 + this.r, width - this.r);
-
-    //costringi la posizione y all'interno della canvas
-    this.position.y = constrain(this.position.y, 0 + this.r, height - this.r);
-
-    this.position.add(step); //aggiungi alla posizione lo step
+    //così torna indietro
+    if (this.x > width - this.r || this.x < this.r) {
+      this.xspeed = this.xspeed * -1;
+    }
+    if (this.y > height - (this.r * 2) || this.y < (this.r * 2)) {
+      this.yspeed = this.yspeed * -1;
+    }
   }
-  
-this.scontro= function(){
-this.position.add(this.velocity);
-this.velocity.x = this.velocity.x * -1;
-this.velocity.y = this.velocity.y * -1;
+
+  this.scontro = function() {
+    this.xspeed = this.xspeed * -1;
+    this.yspeed = this.yspeed * -1;
+
+  }
 
 }
 
+function windowResized() {
+  resizeCanvas(windowWidth, windowHeight);
 }
