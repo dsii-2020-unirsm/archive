@@ -9,7 +9,7 @@ La luce dell'asta di misura pulsa mentre viene spostata, creando linee tratteggi
 
  
  ### 3. Come funziona?  
-Si utilizza un’asta di luci led che visualizza la potenza del segnale come una barra. Essa viene spostata nello spazio per raffigurare le variazioni del segale WiFi. La fonte luminosa viene catturata da una fotografia a lunga esposizione, resa possibile grazie anche all’assenza della luce del giorno (in alcuni mesi invernali Oslo è al buio). L'asta di misura utilizza un’antenna WiFi mobile per misurare la ricezione e disegnare il grafico di luce.
+Si utilizza un’asta di luci led che visualizza la potenza del segnale come una barra. L'asta è alta 4 metri e possiede 80 luci led. Essa viene spostata nello spazio per raffigurare le variazioni del segale WiFi. La fonte luminosa viene catturata da una fotografia a lunga esposizione, resa possibile grazie anche all’assenza della luce del giorno (in alcuni mesi invernali Oslo è al buio). Una scheda Arduino capta il segnale tramite un lettore RFID, e trasforma i dati in un segnale luminoso, riportando l'intensità del segnale in un grafico di luce.
  
  ### 4. Cosa succederebbe se..?  
 Sarebbe interessante sfruttare questa tecnica e riuscire a renderla disponibile a tutti, magari tramite un app che consiglia la zona con maggiore banda. Oppure trasformare questi dati in un elemento sonoro che varia di intensità o intonazione, un modo simpatico per dare _voce_ a qualcosa di invisibile e rendere fruibile queste informazioni anche a persone ipovedenti.
