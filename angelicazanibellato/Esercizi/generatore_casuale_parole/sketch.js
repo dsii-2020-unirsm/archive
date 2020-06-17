@@ -1,6 +1,6 @@
 // -
-// generatore_parole 0.5 by Angelica [random, parole]
-// 2020 © Angelica, Daniele @Fupete and the course DSII2020 at DESIGN.unirsm 
+// generatore_parole 0.5 by angelica [random, parole]
+// 2020 © angelica, Daniele @Fupete and the course DSII2020 at DESIGN.unirsm 
 // github.com/dsii-2020-unirsm — github.com/fupete
 // Educational purposes, MIT License, 2020, San Marino
 // —
