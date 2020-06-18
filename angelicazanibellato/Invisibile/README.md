@@ -130,21 +130,9 @@ Una volta scritto il testo, il modello mi restituisce una percentuale e stampa i
 
 ![img](https://github.com/angelicazanibellato/archive/blob/master/angelicazanibellato/Invisibile/img/blu.PNG)
 
-![img](https://github.com/angelicazanibellato/archive/blob/master/angelicazanibellato/Invisibile/img/giallo.PNG)
-
-![img](https://github.com/angelicazanibellato/archive/blob/master/angelicazanibellato/Invisibile/img/verde.PNG)
-
-![img](https://github.com/angelicazanibellato/archive/blob/master/angelicazanibellato/Invisibile/img/rosso.PNG)
-
 **2 Sentiment Analysis con face-tracking**
 
 ![img](https://github.com/angelicazanibellato/archive/blob/master/angelicazanibellato/Invisibile/img/sad.PNG)
-
-![img](https://github.com/angelicazanibellato/archive/blob/master/angelicazanibellato/Invisibile/img/excitement.PNG)
-
-![img](https://github.com/angelicazanibellato/archive/blob/master/angelicazanibellato/Invisibile/img/happy.PNG)
-
-![img](https://github.com/angelicazanibellato/archive/blob/master/angelicazanibellato/Invisibile/img/angry.PNG)
 
 
 - **Analisi dell'immagine**
@@ -246,6 +234,9 @@ Una strada alternativa per rappresentare il pocesso di dimenticanza dei ricordi,
 
 **prototipo**
 
-![img]()
+![img](https://github.com/angelicazanibellato/archive/blob/master/angelicazanibellato/Invisibile/img/img_def.jpg)
 
 **progetto ideale**
+
+![img](https://github.com/angelicazanibellato/archive/blob/master/angelicazanibellato/Invisibile/img/screen1.jpg)
+
