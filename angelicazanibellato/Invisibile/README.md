@@ -29,8 +29,8 @@ La rete neurale artificiale è soggetta al fenomeno di dimenticanza catastrofica
 - le forme vengono stratificate su una tela, creando una visualizzazione del ricordo
 
 _Riferimenti:_
-[What Neural Networks See](https://experiments.withgoogle.com/what-neural-nets-see)
-[Deep Dream](https://hackernoon.com/what-neural-networks-teach-us-about-schizophrenia-ci3203zhx)
+[What Neural Networks See](https://experiments.withgoogle.com/what-neural-nets-see), 
+[Deep Dream](https://hackernoon.com/what-neural-networks-teach-us-about-schizophrenia-ci3203zhx), 
 [Nima Veiseh](https://www.nimaveiseh.com/)
 
 **Archivio delle cose dimenticate:** un dispositivo che crea archivi di memoria
@@ -57,16 +57,16 @@ _Riferimenti:_
 ### References
 
 
-[Memory Device](http://www.ishback.com/memory/index.html) 
+[Memory Device](http://www.ishback.com/memory/index.html), 
 
 
-[Backtrack ](https://www.yankodesign.com/2015/03/11/share-the-noise-in-your-life/)
+[Backtrack ](https://www.yankodesign.com/2015/03/11/share-the-noise-in-your-life/), 
 
 
-[Memorise](https://www.yankodesign.com/2018/09/12/bring-clarity-to-foggy-memories/)
+[Memorise](https://www.yankodesign.com/2018/09/12/bring-clarity-to-foggy-memories/), 
 
 
-[Drive Memory Pen](https://www.yankodesign.com/2010/08/03/pen-full-of-memories/)
+[Drive Memory Pen](https://www.yankodesign.com/2010/08/03/pen-full-of-memories/), 
 
 
 
@@ -245,7 +245,6 @@ Ma quali sono sono le informazioni che dimentichiamo? Ci sono ricordi neutri e r
 **Sviluppi futuri**
 
 Una strada alternativa per rappresentare il pocesso di dimenticanza dei ricordi,  potrebbe essere l’utilizzo del face tracking per il riconoscimento di un’emozione suscitata da un ricordo.Il prototipo potrebbe registrare i picchi emozionali durante il racconto ed essere utilizzati come dati per gestire alcuni parametri per manipolare l’immagine. Per esempio, i valori da 0 a 100 registrati con la sentiment analysis possono determinare la grandezza o la forma dei pixel dell’immagine, oppure possono variare la saturazione o la luminosità, in modo da rendere l’immagine più o meno riconoscibile. 
-
 Un problema relativo a questi prototipi, è la scelta dell’attribuzione del colore rispetto un certo sentimento. Come è noto, il significato dei colori cambia a seconda delle culture e delle tradizioni.
 Sarebbe interessante prototipare una macchina che riconosce il sentimento in base a un colore e viceversa. Si potrebbe creare un dataset attraverso un gioco, come SketchRNN, e chiedere all’utente
 di associare un colore, da scegliere tra una palette di tre colori,
