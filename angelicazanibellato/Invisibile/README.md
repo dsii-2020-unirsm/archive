@@ -160,12 +160,9 @@ Se il mio ricordo è felice, quindi verde, nella foto rimangono soltanto i pixel
 Il colore è una cosa molto soggettiva. Il modo in cui qualcuno "vede" un colore non è facilmente misurabile e può essere molto diverso tra gli individui. Il colore è usato in molte culture per comunicare informazioni e creare emozioni. L'idea comune è che un colore può generare un'emozione specifica in qualsiasi momento.
 
 
-
 ![img](https://github.com/angelicazanibellato/archive/blob/master/angelicazanibellato/Invisibile/img/colori.PNG)
 
 Fu sviluppata una famosa teoria riguardante i colori e le emozioni chiamata "rosa dei temperamenti", ideata da Goethe e Schiller , abbinando dodici colori alle occupazioni umane o ai loro tratti caratteriali ( tiranni, eroi, avventurieri, edonisti, amanti, poeti, oratori, storici, insegnanti, filosofi, pedanti, sovrani ), raggruppati nei quattro personalità: sanguigna, collerica, malinconica e flemmatica.
-
-![img](https://github.com/angelicazanibellato/archive/blob/master/angelicazanibellato/Invisibile/img/rosa%20temperamenti.PNG)
 
 
 ### Altri sviluppi progettuali
@@ -250,3 +247,5 @@ Una strada alternativa per rappresentare il pocesso di dimenticanza dei ricordi,
 **prototipo**
 
 ![img]()
+
+**progetto ideale**
