@@ -70,7 +70,9 @@ Può facilitare e velocizzare lo sviluppo di storyboard; essere uno strumento ut
 
 #### 1. Noraa Machinic Doodles
 
-Noraa machinic doodles è un’installazione interattiva creato da Jessica In nel 2018. Utilizza il set di dati di Google QuickDraw, QuickDraw classifier e modelli personalizzati per SketchRNN. Noraa impara a comunicare le idee attraverso i diversi modi in cui creiamo i tratti di un disegno. 
+Noraa machinic doodles è un’installazione interattiva creato da Jessica In nel 2018, in cui le persone disegnano insieme a un robot di nome Noraa. La machcina utilizza il set di dati di Google QuickDraw, QuickDraw classifier e modelli personalizzati per SketchRNN. Il progetto esplora il modo in cui si comunicano le idee attraverso un segno e come una macchina possa apprendere, riconoscere e riproporre un semplice schizzo di un oggetto/emozione. <br>
+I passaggi effettuati nel progetto partono da una persona che disegna, la macchina fa un’ipotesi e, poi, disegna qualcosa in risposta; questo mi ha portato a riflettere sulla collaborazione uomo-macchina e sui doodle. 
+
 [+](https://www.creativeapplications.net/processing/noraa-machinic-doodles-a-human-machine-collaborative-drawing/)
 [+](https://vimeo.com/297579544)
 [+](https://vimeo.com/303441462)
@@ -83,7 +85,8 @@ Noraa machinic doodles è un’installazione interattiva creato da Jessica In ne
 
 #### 2. Lumen 
 
-Lumen è un dispositivo di storytelling creato da Arvind Sanjeev. Il progetto esplora le future implicazioni dei media senza schermi per vedere come le persone potrebbero interagire con l’ambiente che li circonda. Lumen è costituito da un proiettore laser in combinazione con una fotocamera e sensori di profondità e si affida alla piattaforma di apprendimento automatico Yolo Darknet per classificare gli oggetti che vengono quindi elaborati dall’algoritmo. 
+Lumen è un dispositivo di storytelling creato da Arvind Sanjeev. Il progetto esplora le future implicazioni dei media senza schermi per vedere come le persone potrebbero interagire con l’ambiente che li circonda. Lumen è costituito da un proiettore laser in combinazione con una fotocamera e sensori di profondità e si affida alla piattaforma di apprendimento automatico Yolo Darknet per classificare gli oggetti che vengono quindi elaborati dall’algoritmo. <br>
+Questo progetto mi ha portato a ragionare sull’interazione con gli oggetti presenti nell’ambiente; con i quali è possibile trasporre l’idea pensata, nella realtà.
 [+](https://www.creativeapplications.net/environment/lumen-mixed-reality-storytelling-device/)
 [+](https://vimeo.com/246152360)
 [+](https://vimeo.com/246658766)
@@ -103,7 +106,9 @@ OpenDataCam è uno strumento open source realizzato da un team, costituito da un
 
 #### 4. Temporarily Enslaved Gods
 
-Temporarily Enslaved Gods è un’installazione formata da tre sculture in acciaio e stampe serigrafiche, realizzata nel 2019 da Fabio Lattanzi Antinori. Le tre stampe, per mezzo del tocco del visitatore sulla superficie, cominciano a “parlare” di dati politici, informazioni, notizie,… tramite algoritmi di motion learning. 
+Temporarily Enslaved Gods è un’installazione realizzata nel 2019, formata da tre sculture in acciaio e stampe serigrafiche, realizzata nel 2019 da Fabio Lattanzi Antinori. Le tre stampe, per mezzo del tocco del visitatore sulla superficie, cominciano a “parlare” di dati politici, informazioni, notizie,… tramite algoritmi di machine learning. <br>
+Questo progetto mi ha portato a riflettere sulla possibilità di poter utilizzare un sistema a comando vocale per comunicare tramite la voce con la macchina.
+
 [+](https://www.piartworks.com/artists/57-fabio-lattanzi-antinori/works/9618-fabio-lattanzi-antinori-temporarily-enslaved-gods-2019/)
 [+](https://lattanziantinori.com/temporarily-enslaved-gods/)
 [+](https://www.piartworks.com/artists/57-fabio-lattanzi-antinori/works/)
