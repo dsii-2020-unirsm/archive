@@ -1,5 +1,5 @@
 # Delete Pixel
-## Come dimenticano le macchine
+## Come dimenticano le macchine | Concept
 
 
 **Introduzione**
@@ -73,7 +73,7 @@ _Riferimenti:_
 [Mosaic Virus](http://annaridler.com/mosaic-virus) [+](https://vimeo.com/287645190?utm_campaign=5370367&utm_source=affiliate&utm_channel=affiliate&cjevent=50402b4a8f7d11ea83b400410a18050e/)
 
 
-## AVANZAMENTO
+## Idee progettuali | Avanzamento
 
 Il progetto ha l'obbiettivo di rendere visibili i ricordi e imitare il processo di dimenticanza.
 A partire da un'immagine e un racconto (scritto/orale) ottengono una nuova immagine che mostra soltanto le parti che ricordo.
@@ -183,7 +183,7 @@ In questo modo si potrebbe pensare di realizzare un modello che riconosce l'emoz
 
 
 
-## AVANZAMENTO ##
+## Progetto ##
 
 **Domande di progetto**
 
