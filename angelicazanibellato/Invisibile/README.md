@@ -56,27 +56,19 @@ _Riferimenti:_
 
 ### References
 
-![img](https://github.com/angelicazanibellato/archive/blob/master/angelicazanibellato/Invisibile/img/memory.jpg)
 
 [Memory Device](http://www.ishback.com/memory/index.html) 
 
 
-![img](https://github.com/angelicazanibellato/archive/blob/master/angelicazanibellato/Invisibile/img/backt.PNG)
-
 [Backtrack ](https://www.yankodesign.com/2015/03/11/share-the-noise-in-your-life/)
 
-
-![img](https://github.com/angelicazanibellato/archive/blob/master/angelicazanibellato/Invisibile/img/ricordo.PNG)
 
 [Memorise](https://www.yankodesign.com/2018/09/12/bring-clarity-to-foggy-memories/)
 
 
-![img](https://github.com/angelicazanibellato/archive/blob/master/angelicazanibellato/Invisibile/img/pen.PNG)
-
 [Drive Memory Pen](https://www.yankodesign.com/2010/08/03/pen-full-of-memories/)
 
 
-![img](https://github.com/angelicazanibellato/archive/blob/master/angelicazanibellato/Invisibile/img/tulipani.PNG)
 
 [Mosaic Virus](http://annaridler.com/mosaic-virus) [+](https://vimeo.com/287645190?utm_campaign=5370367&utm_source=affiliate&utm_channel=affiliate&cjevent=50402b4a8f7d11ea83b400410a18050e/)
 
