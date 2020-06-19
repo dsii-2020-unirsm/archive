@@ -4,7 +4,7 @@ Ogni bambino quando gioca, dà sfogo alla propria immaginazione: dietro ai diseg
 stories.jpg è un’app per bambini e genitori, che attraverso l’utilizzo di algoritmi di _machine learning_, trasforma disegni e
 immagini in racconti, aiutando a stimolare la creatività e l’immaginazione. Il sistema, nelle diverse modalità di utilizzo, supporta il genitore nella creazione di storie fornendo alcune immagini di spunto su cui basare il racconto insieme a un incipit di poche righe e stimola il bambino nella lettura e nell’ascolto di storie nuove che hanno come protagonisti i suoi disegni.
 
-![mappa](https://raw.githubusercontent.com/peterbaru/archive/master/peterbaru/MakingVisible/MappaConcettuale_peterbaru.png)
+![mappa](https://raw.githubusercontent.com/peterbaru/archive/master/peterbaru/MakingVisible/MappaConcettuale.png)
 Questa è la mappa con progettuale che comprende tutti gli step di progetto, dall'idea alla produzione del prototipo.
 
 ### Prototipazione
