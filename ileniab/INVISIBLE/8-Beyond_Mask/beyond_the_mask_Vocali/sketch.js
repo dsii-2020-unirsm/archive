@@ -260,7 +260,7 @@ function drawBox(detections) {
       ellipse(xForma, yForma, widthForma / dimensioneFormaLarg, heightForma / dimensioneFormaAlt);
       // textSize(15 * dimensioneTesto);
 
-    } else if (valoreSenti > 60 && valoreSenti <= 100) {
+    } else if (valoreSenti > 66 && valoreSenti <= 100) {
       noFill();
       stroke(227, 225, 104); //giallo
       ellipse(xForma, yForma, widthForma / dimensioneFormaLarg, heightForma / dimensioneFormaAlt);
