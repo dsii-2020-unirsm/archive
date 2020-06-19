@@ -1,5 +1,5 @@
 // -
-// FaceTracking_emotion 0.1 by Eleonora Di Francesco [FaceTraking, emotion]
+// FaceTracking_emotion 0.2 by Eleonora Di Francesco [FaceTraking, emotion]
 // 2020 © Eleonora Di Francesco, Daniele @Fupete and the course DSII2020 at DESIGN.unirsm 
 // github.com/dsii-2020-unirsm — github.com/fupete
 // Educational purposes, MIT License, 2020, San Marino
