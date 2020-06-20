@@ -1,4 +1,4 @@
-## Cartella Close Reading
+## Cartella Close Reading [+](https://github.com/Francesca1996/archive/blob/master/Francesca1996/close_reading/casi_studio.md)
 
 La cartella contiene l'analisi dei seguenti progetti:
 
