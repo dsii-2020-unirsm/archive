@@ -1,3 +1,13 @@
+// -
+// FaceTracking_emotion 0.2 by Eleonora Di Francesco [FaceTraking, emotion]
+// 2020 © Eleonora Di Francesco, Daniele @Fupete and the course DSII2020 at DESIGN.unirsm 
+// github.com/dsii-2020-unirsm — github.com/fupete
+// Educational purposes, MIT License, 2020, San Marino
+// —
+// Credits/Thanks to: 
+// @stc for https://github.com/stc/face-tracking-p5js
+// —
+
 
 let angry = [];
 let sad = [];
@@ -32,8 +42,6 @@ function draw() {
     getPositions();
     getEmotions();
     
-    //clear();
-    
     textSize(30);
     noStroke();
     fill(0,10);
@@ -44,38 +52,25 @@ function draw() {
 
     for (var i = 0;i < predictedEmotions.length;i++) {
             
-            //fill(35);
-            //rect(i * 110+20, height-30, 20, -predictedEmotions[i].value * 40);
-            
-            //textSize(7);
-            //text("ANGRY", 30, height-20);
-            //text("SAD", 135, height-20);
-            //text("SURPRISED", 255, height-20);
-            //text("HAPPY", 360, height-20);
-            
-            //textSize(10);
-            //fill(25);
-            //console.log(predictedEmotions);
-            
-            if(predictedEmotions[0].value >= 0.5){
+            if(predictedEmotions[0].value >= 0.6){
                 background(255,0,0, 20);
                 //console.log("angry");
                 salvareDato();
             }
             
-            else if(predictedEmotions[1].value >= 0.5){
+            else if(predictedEmotions[1].value >= 0.6){
                 background(0, 0, 255, 20);
                 //console.log("sad");
                 salvareDato();
             }
             
-            else if (predictedEmotions[2].value >= 0.5){
+            else if (predictedEmotions[2].value >= 0.6){
                 background(255,255,0, 20);
                 //console.log("surprised");
                 salvareDato();
             }
             
-            else if(predictedEmotions[3].value >= 0.7){
+            else if(predictedEmotions[3].value >= 0.6){
                 background(0,255,0, 20);
                 //console.log("happy");
                 salvareDato();
@@ -105,7 +100,7 @@ function salvareDato(){
     surprised.push(predictedEmotions[2].value);
     happy.push(predictedEmotions[3].value);
     
-    if(frameCount%30 == 0){
+    if(frameCount%60 == 0 && predictedEmotions[3].value >= 0.8){
         //console.log(max(happy));
         picchi_angry.push(max(angry));
         picchi_sad.push(max(sad));
@@ -164,11 +159,22 @@ function emozione(_id) {
 
   this.spostati = function() {
     background(0, 20);
-    for (b=0;b<happy.length;b++){
+    for (b=0;b<angry.length;b++){
         this.x = x + b/20;
         this.y_angry = y - (predictedEmotions[0].value*50);
+        
+    }
+    for (b=0;b<sad.length;b++){
+        this.x = x + b/20;
         this.y_sad = y - (predictedEmotions[1].value*50);
+
+    }
+    for (b=0;b<surprised.length;b++){
+        this.x = x + b/20;
         this.y_surprised = y - (predictedEmotions[2].value*50);
+    }
+    for (b=0;b<happy.length;b++){
+        this.x = x + b/20;
         this.y_happy = y - (predictedEmotions[3].value*50);
     }
   }  

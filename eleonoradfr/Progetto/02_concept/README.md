@@ -11,11 +11,13 @@ Il progetto parte, quindi, con l’obiettivo di visualizzare le emozioni che pro
 • nei momenti in cui viene rilevato un picco emozionale, quindi una delle emozioni supera una certa soglia definita, l’algoritmo registra i dati e genera una riga di colore corrispondente al valore dominante  
 • unendo le righe di colore seguendo la timeline del file viene prodotto come output un vero e proprio grafico delle emozioni.
 Una visualizzazione utilizzabile per generare una recensione emozionale, un nuovo paramentro per “giudicare” una pellicola.
-Grafico che vuole essere una implementazione all’interno delle piattaforme di streaming online (come Netflix) per agevolare gli utenti nella scelta del film da guardare. Offre la possibilità, quindi, di scegliere un film sulla base delle emozioni che si vogliono provare, visualizzando il grafico registrato dagli altri utenti o sfogliando il proprio database di pellicole già viste.  
-![netflix](https://github.com/eleonoradfr/archive/blob/master/eleonoradfr/Progetto/02_concept/netflix_grafico.jpg)  
+Grafico che vuole essere una implementazione all’interno delle piattaforme di streaming online (come Netflix) per agevolare gli utenti nella scelta del film da guardare. Offre la possibilità, quindi, di scegliere un film sulla base delle emozioni che si vogliono provare, visualizzando il grafico registrato dagli altri utenti o il proprio.  
+![netflix](https://github.com/eleonoradfr/archive/blob/master/eleonoradfr/Progetto/02_concept/netflix_emozioni.jpg)  
 Possibilità di andare ad analizzare nel dettaglio il grafico scoprendo per ogni picco il colore dominante del frame in questione, l'emozione, il valore e il minutaggio.
-![netflix-zoom](https://github.com/eleonoradfr/archive/blob/master/eleonoradfr/Progetto/02_concept/netflix_grafico_zoom.jpg)
+![netflix-zoom](https://github.com/eleonoradfr/archive/blob/master/eleonoradfr/Progetto/02_concept/netflix_emozioni_zoom.jpg)
 Possibilità di fare una comparazione tra le emozioni provate, trasformate in colore, e il colore dominante ricavato dal frame del film.
-![netflix-colore](https://github.com/eleonoradfr/archive/blob/master/eleonoradfr/Progetto/02_concept/netflix_colore.jpg)
+![netflix-colore](https://github.com/eleonoradfr/archive/blob/master/eleonoradfr/Progetto/02_concept/netflix_emozioni_colori.jpg)  
+Possibilità di sfogliare il proprio database di grafici.  
+![netflix-lista](https://github.com/eleonoradfr/archive/blob/master/eleonoradfr/Progetto/02_concept/netflix_lista_eomzioni.jpg)
 
 Ricerca, reference e idee progettuali [**+**](https://github.com/eleonoradfr/archive/blob/master/eleonoradfr/Progetto/02_concept/ricerca.md)
