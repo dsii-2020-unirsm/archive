@@ -1,6 +1,6 @@
 **Aggiunta delle gui sulla variazione 10PRINT**
 
-[link](https://editor.p5js.org/angelicazanibellato/full/yFIlL7Gl_)
+[link](https://editor.p5js.org/angelicazanibellato/full/MKRKnkhmT_)
 
 
 - Selezionatore di colore per cambiare lo sfondo
@@ -15,8 +15,7 @@
 - stroke per cambiare la dimensione del bordo
 
 
-![](https://github.com/angelicazanibellato/archive/blob/master/angelicazanibellato/variazioni10PRINT/triangoli_con_gui/img/Cattura1.PNG)
+![img](https://github.com/angelicazanibellato/archive/blob/master/angelicazanibellato/variazioni10PRINT/triangoli_con_gui/img/img1.png)
 
-![](https://github.com/angelicazanibellato/archive/blob/master/angelicazanibellato/variazioni10PRINT/triangoli_con_gui/img/Cattura2.PNG)
+![img](https://github.com/angelicazanibellato/archive/blob/master/angelicazanibellato/variazioni10PRINT/triangoli_con_gui/img/img2.PNG)
 
-![](https://github.com/angelicazanibellato/archive/blob/master/angelicazanibellato/variazioni10PRINT/triangoli_con_gui/img/Cattura3.PNG)
