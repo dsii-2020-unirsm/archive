@@ -3,9 +3,9 @@ https://www.lucify.com/the-flow-towards-europe/
 
 
 Si tratta di un progetto online che raccoglie, analizza e mostra dati relativi al flusso di migranti spostati in Europa, a partire dalla seconda Guerra Mondiale. Ha lo scopo di sensibilizzare e chiarire l’entita della crisi, basandosi sui dati raccolti dalle Nazioni Unite.
-Una mappa mostra il flusso di richiedenti asilo verso i paesi europei. Ogni punto presente sulla mappa rappresenta 50 persone che si spostano nello scorrere del tempo. Interagendo con la velocità aumenterà o diminuirà l’andamento e il numero degli spostamenti e del passare degli anni.
+Una mappa mostra il flusso di richiedenti asilo verso i paesi europei. Ogni punto presente sulla mappa rappresenta 25 persone che si spostano nello scorrere del tempo. Interagendo con la velocità aumenterà o diminuirà l’andamento e il numero degli spostamenti e del passare degli anni.
 Una tabella invece mostra le persone richiedenti asilo totali mensili che vengono da diversi paesi. Andando a spostare il cursore sulla linea del tempo, si potranno notare le variazioni mensili e annuali della quantità di persone che richiedono asilo da determinati luoghi del mondo verso altri.
-Con questo progetto viene mostrata la grandezza di questi spostamenti e dell’immensa quantità di richiedenti asilo nel corso degli anni. Se ogni punto avesse rappresentato una sola persona piuttosto che 50, probabilmente sarebbe stato talmente difficile distinguere un punto piuttosto che un altro perchè troppo ravvicinati tra loro. Questo avrebbe evidenziato ancora di più la gravità della situazione e il suo significato.
+Con questo progetto viene mostrata la grandezza di questi spostamenti e dell’immensa quantità di richiedenti asilo nel corso degli anni. Se ogni punto avesse rappresentato una sola persona piuttosto che 25, probabilmente sarebbe stato talmente difficile distinguere un punto piuttosto che un altro perchè troppo ravvicinati tra loro. Questo avrebbe evidenziato ancora di più la gravità della situazione e il suo significato.
 
 
 _Immaterials: Light painting WiFi, 2012, Timo Arnall, Jørn Knutsen and Einar Sneve Martinussen_ 
