@@ -1,6 +1,6 @@
 // -
 // Camminatori che generano mondi 0.7 by Angelica [walker, noise]
-// 2020 © Pietro, Daniele @Fupete and the course DSII2020 at DESIGN.unirsm 
+// 2020 © Angelica, Daniele @Fupete and the course DSII2020 at DESIGN.unirsm 
 // github.com/dsii-2020-unirsm — github.com/fupete
 // Educational purposes, MIT License, 2020, San Marino
 
