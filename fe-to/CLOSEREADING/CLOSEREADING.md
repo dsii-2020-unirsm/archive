@@ -1,7 +1,7 @@
 
 
 # The Flow Towards Europe, 2015, Lucify
-
+[![the-flow-towards-europe.jpg](https://i.postimg.cc/G2hBRRx8/the-flow-towards-europe.jpg)](https://postimg.cc/Jyv739gM)
 ## What is
 
 Un progetto open source di visualizzazione dei dati relativi ai richiedenti asilo presso gli stati Europei dal 2012 al 2018, fruibili attraverso una mappa interattiva che ne descrive i flussi migratori.
@@ -17,10 +17,10 @@ La mappa rende visibli i movimenti delle persone, rappresentate da punti bianchi
 Il progetto mostra come, sempre con più frequenza, a causa delle guerre le persone siano costrette ad abbandonare il proprio paese di origine, alimentando il disagio mondiale che vede l'Europa accogliere milioni di richiedenti asilo in un intervallo di tempo ridotto causando così una crescente destabilizzazione interna.
 
 ## What if
-Ho trovato l'esperienza di visualizzazione dei dati all'interno della pagina interessante dal punto di vista informativo, al contrario, ho sentito la mancanza di quella componente sociale e per certi versi emozionale, che ritengo debba essere presente all'interno di un progetto esaminante vicende così sensibili. I migranti non possono essere solamente dei camminatori che si spostano da un punto A ad un punto B, sono persone. Uomini, donne e bambini con delle storie. Sarebbe stato interessante inserire una sezione all'interno della pagina dove poter ascoltare interviste, vedere i loro volti o leggere le parole pronunciate anche solamente da una piccola parte di queste persone. Dare loro voce. Come è stato fatto in un progetto chiamato "Conversations from Calais", dove vengono documentate le conversazioni tra  volontari e migranti che si sono incontrati a Calais, città portuale nel nord della Francia, proprio di fronte a Dover, nel sud dell'Inghilterra. È un modo per testimoniare le migliaia di sfollati bloccati a Calais  che cercano di raggiungere il Regno Unito, le cui voci sono spesso messe a tacere o ignorate. Le conversazioni vengono trascritte su dei Poster ed incollate sui muri delle città con l'obiettivo di ispirare un cambiamento sociale. Tutti i poster vengono pubblicati sulla pagina Instagram https://www.instagram.com/conversationsfromcalais/
+Ho trovato l'esperienza di visualizzazione dei dati all'interno della pagina interessante dal punto di vista informativo, al contrario, ho sentito la mancanza di quella componente sociale e per certi versi emozionale, che ritengo debba essere presente all'interno di un progetto esaminante vicende così sensibili. I migranti non possono essere solamente dei camminatori che si spostano da un punto A ad un punto B, sono persone. Uomini, donne e bambini con delle storie. Sarebbe stato interessante inserire una sezione all'interno della pagina dove poter ascoltare interviste, vedere i loro volti o leggere le parole pronunciate anche solamente da una piccola parte di queste persone. Dare loro voce. Come è stato fatto in un progetto chiamato "Conversations from Calais", dove vengono documentate le conversazioni tra  volontari e migranti che si sono incontrati a Calais, città portuale nel nord della Francia, proprio di fronte a Dover, nel sud dell'Inghilterra. È un modo per testimoniare le migliaia di sfollati bloccati a Calais  che cercano di raggiungere il Regno Unito, le cui voci sono spesso messe a tacere o ignorate. Le conversazioni vengono trascritte su dei Poster ed incollate sui muri delle città con l'obiettivo di ispirare un cambiamento sociale. Tutti i poster vengono pubblicati sulla pagina Instagram. https://www.instagram.com/conversationsfromcalais/
 
 # Immaterials: Light Painting WiFi, 2012, Timo Arnall, Jørn Knutsen and Einar Sneve Martinussen
-
+[![light.png](https://i.postimg.cc/SsvKpMK3/light.png)](https://postimg.cc/xJLQvqM3)
 ## What is
 
 Il progetto sviluppato all'interno della Oslo School of Architecture and Design, si pone come obiettivo quello di rendere visibile l'invisibile. Utilizzando una tecnica fotografica basata su lunghi tempi di esposizione sono riusciti a rendere visibili le reti Wi-Fi e la loro potenza in relazione alla distanza.
@@ -37,7 +37,7 @@ Immaterials, oltre a fornire una visione riguardo la qualità delle reti Wi-Fi n
 L'esperimento portato avanti da Timo Arnall, Jørn Knutsen e Einar Sneve Martinussen, oltre che strumento di visualizzazione della qualità della rete Wi-fi presente nello spazio, assume le caratteristiche di un pennello con il quale poter disegnare nuove realtà urbane. Osservando il lavoro dei designer, ho immaginato di poter interagire con il muro composto di luci led, e di poter vivere un'esperienza sonora attraverso di esso, mettendo in relazione la potenza del segnale Wi-Fi registrato con le note di uno spartito musicale. Alti e bassi, attivati tramite lo scorrere della nostra mano lungo quella parete invisibile ad occhio nudo, generando melodie.
 
 # Monument, 2006, Caleb Larsen 
-
+[![caleb-larson.jpg](https://i.postimg.cc/fbHdJkLj/caleb-larson.jpg)](https://postimg.cc/Y4W0PrQh)
 ## What is
 
 Si tratta di un'installazione che permette di visualizzare, attraverso un algoritmo, il numero di morti per omicidio in tempo reale.
