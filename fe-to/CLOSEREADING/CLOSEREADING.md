@@ -1,58 +1,4 @@
-# Museo Laboratorio della Mente, Roma, 2008, Studio Azzurro.
 
-## What is
-
-Il Museo Laboratorio della Mente è un percorso esperienziale che nasce con l’obiettivo di raccontare la vita all’interno del manicomio chiuso nel 1999 dopo l’approvazione in Italia della legge Basaglia, costruendo una narrazione volta a favorire la promozione e la prevenzione riguardo al tema della salute mentale.
-
-## How it works
-
-L’esperienza è un continuo oscillare tra elementi reali ed esperienze di laboratorio. Attraverso la visione e l’ascolto dei testimoni della storia del manicomio, e le specifiche azioni che le installazioni all’interno dello spazio espositivo offrono, il visitatore è invitato a maturare e a ripensare il suo atteggiamento nei confronti della diversità.
-
-## What does it mean
-
-Elemento costante nel percorso di visita è il muro, metafora della barriera dialettica che si crea tra normale e diverso, visibile e invisibile, società e malato schizofrenico. Che cos’è uno schizofrenico? Alla domanda di un giornalista, Franco Basaglia, psichiatra e fondatore della concezione moderna della salute mentale, risponde con un’altra domanda:
-
-**Che cos’è un disoccupato? Dato che entrambi sono ciò che sono in rapporto alla razionalità del potere, ovvero essi sono parte dell’area dell’esclusione.**
-
-L’ambientazione, le memorie, l’immedesimazione nella mente del malato inducono il visitatore a ritrovare se stesso dall’altra parte del muro e ad abbattere la barriera di pregiudizi mentali così che normale e diverso, sano e malato, reale e surreale, si disvelano e dialogano nella nuova consapevolezza che “da vicino nessuno è normale”.
-
-## What if
-da inserire.
-
-# Museo della Resistenza, Massa-Carrara, 2000, Studio Azzurro.
-
-
-## What is
-
-Il Museo Audiovisivo della Resistenza di Massa Carrara e La Spezia è dedicato alla memoria dei comandanti partigiani Alessandro Brucellaria "Memo" e Flavio Bertone "Walter" ed ha sede nella località Prade di Fosdinovo, sulle montagne delle Alpi Apuane che durante la lotta di Liberazione furono teatro di duri scontri fra le formazioni partigiane e tedesche.
-
-## How it works
-
-Il percorso si sviluppa in un’unica stanza, attorno a un tavolo. Attivati da un gesto del visitatore, i documenti e le foto proiettati sul tavolo raccontano le vicende della Resistenza suddivise per tematiche. Il Calendario, Il libro dei contadini, L’album fotografico dei partigiani, I documenti delle stragi, Il libro delle donne: sono testimonianze che si muovono fra visioni partigiane, ferite difficili da rimarginare e crudezza delle foto dei deportati. In fondo alla stanza compare una grande proiezione, come una finestra del passato sul presente. Sono le mappe delle province di Massa Carrara e La Spezia, dove è possibile visualizzare i luoghi dei bombardamenti e le aeree operative delle formazioni partigiane.
-
-## What does it mean
-
-Il Museo di Fosdinovo si pone dunque come museo non solo di conservazione ma anche di elaborazione della memoria. Una memoria ampia che affianca partigiani e contadini, deportati e internati, donne e popolazione. Non è dunque il museo della sola resistenza armata, ma anche della resistenza delle popolazioni civili contro la guerra, i bombardamenti, la fame, le stragi. Riflette la Resistenza di una società nella quale l'uno aiuta l'altro.
-
-## What if
-da inserire.
-
-# The Source, Londra, 2004, Greyworld.
-
-## What is
-
-The Source è una scultura cinetica permanente realizzata all’interno del London Stock Exchange. L’installazione assume la forma di un cubo composto di 729 sfere sospese su dei cavi che corrono per l’intera altezza dell’atrio principale dell’edificio, restituendoci delle istantanee su quello che è l’andamento giornaliero dei titoli di borsa.
-
-## How it works
-
-Le sfere sono controllate da un computer che esegue uno script Python, queste, possono riposizionarsi indipendentemente l'una dall'altra, formando forme dinamiche e movimenti fluidi che riflettono la natura del mercato azionario stesso. Ogni mattina, all'apertura della Borsa di Londra, le sfere si “svegliano “e dalla loro disposizione cubica iniziano, a muoversi nello spazio, disegnando schemi. Allo stesso modo, alla fine della giornata, le sfere ricadono nella loro disposizione cubica ed attraverso l’utilizzo dei LED blu posti al loro interno mostrano il comportamento della borsa giornaliero.
-
-## What does it mean
-
-L’installazione è diventata presto un simbolo, ogni mattina viene trasmessa in televisione ad un pubblico stimato di 80 milioni di persone. Personalmente credo sia questo il segreto del progetto, le sfere potrebbero rappresentare metaforicamente le persone, le quali come esse, ogni mattina, si alzano dal loro letto per andare a lavorare. Le persone sono indipendenti l’una dalle altre, ma è attraverso la collaborazione tra di esse che la società si è evoluta, attraverso il dialogo, ed è proprio in questo modo che ogni singola sfera, dialogando con le altre, contribuisce a descrivere significati più grandi.  
-
-## What if
-da inserire.
 
 # The Flow Towards Europe, 2015, Lucify
 
@@ -68,16 +14,16 @@ La mappa rende visibli i movimenti delle persone, rappresentate da punti bianchi
 
 ## What does it mean
 
-Il progetto mostra come, sempre con più frequenza, a causa delle guerre le persone sono costrette ad abbandonare il proprio paese di origine, alimentando il disagio mondiale che vede l'Europa accogliere milioni di richiedenti asilo in un intervallo di tempo ridotto causando così una crescente destabilizzazione interna.
+Il progetto mostra come, sempre con più frequenza, a causa delle guerre le persone siano costrette ad abbandonare il proprio paese di origine, alimentando il disagio mondiale che vede l'Europa accogliere milioni di richiedenti asilo in un intervallo di tempo ridotto causando così una crescente destabilizzazione interna.
 
 ## What if
-da inserire.
+Ho trovato l'esperienza di visualizzazione dei dati all'interno della pagina interessante dal punto di vista informativo, al contrario, ho sentito la mancanza di quella componente sociale e per certi versi emozionale, che ritengo debba essere presente all'interno di un progetto esaminante vicende così sensibili. I migranti non possono essere solamente dei camminatori che si spostano da un punto A ad un punto B, sono persone. Uomini, donne e bambini con delle storie. Sarebbe stato interessante inserire una sezione all'interno della pagina dove poter ascoltare interviste, vedere i loro volti o leggere le parole pronunciate anche solamente da una piccola parte di queste persone. Dare loro voce. Come è stato fatto in un progetto chiamato "Conversations from Calais", dove vengono documentate le conversazioni tra  volontari e migranti che si sono incontrati a Calais, città portuale nel nord della Francia, proprio di fronte a Dover, nel sud dell'Inghilterra. È un modo per testimoniare le migliaia di sfollati bloccati a Calais  che cercano di raggiungere il Regno Unito, le cui voci sono spesso messe a tacere o ignorate. Le conversazioni vengono trascritte su dei Poster ed incollate sui muri delle città con l'obiettivo di ispirare un cambiamento sociale. Tutti i poster vengono pubblicati sulla pagina Instagram https://www.instagram.com/conversationsfromcalais/
 
 # Immaterials: Light Painting WiFi, 2012, Timo Arnall, Jørn Knutsen and Einar Sneve Martinussen
 
 ## What is
 
-Il progetto sviluppato all'interno della Oslo School of Architecture and Design, si pone come obiettivo quello di rendere visibile l'invisibile. Utilizzando una tecnica fotografica basata su lunghi tempi di otturazione sono riusciti a rendere visibili le reti Wi-Fi e la loro potenza in relazione alla distanza.
+Il progetto sviluppato all'interno della Oslo School of Architecture and Design, si pone come obiettivo quello di rendere visibile l'invisibile. Utilizzando una tecnica fotografica basata su lunghi tempi di esposizione sono riusciti a rendere visibili le reti Wi-Fi e la loro potenza in relazione alla distanza.
 
 ## How it works
 
@@ -88,13 +34,13 @@ Il progetto è basato sulla costruzione di un asta di 4 metri dotata di 80 luci 
 Immaterials, oltre a fornire una visione riguardo la qualità delle reti Wi-Fi negli spazi pubblici, ci mostra qualcosa che normalmente non è possibile percepire, dando importanza all'immagine e regalandoci la visione di uno spazio urbano differente, non composto solamente da architettura e persone.
 
 ## What if
-da inserire.
+L'esperimento portato avanti da Timo Arnall, Jørn Knutsen e Einar Sneve Martinussen, oltre che strumento di visualizzazione della qualità della rete Wi-fi presente nello spazio, assume le caratteristiche di un pennello con il quale poter disegnare nuove realtà urbane. Osservando il lavoro dei designer, ho immaginato di poter interagire con il muro composto di luci led, e di poter vivere un'esperienza sonora attraverso di esso, mettendo in relazione la potenza del segnale Wi-Fi registrato con le note di uno spartito musicale. Alti e bassi, attivati tramite lo scorrere della nostra mano lungo quella parete invisibile ad occhio nudo, generando melodie.
 
 # Monument, 2006, Caleb Larsen 
 
 ## What is
 
-Installazione che permette di visualizzare, attraverso un algoritmo, il numero di morti per omicidio in tempo reale.
+Si tratta di un'installazione che permette di visualizzare, attraverso un algoritmo, il numero di morti per omicidio in tempo reale.
 
 ## How it works
 
@@ -102,7 +48,7 @@ Il progetto è basato su un software che permette di raccogliere informazioni da
 
 ## What does it mean
 
-L'installazione è caratterizzata da una forte dimensione ludica. Il visitatore si trova all'interno di una stanza con delle palline sul pavimento, ad un tratto una pallia cade dal contenitore posto sul soffitto, e si domanda il perchè di questo, cercando di capirne il meccanismo, desiderando di far cadere ancora una pallina. Il desiderio del visitatore viene appagato solamente al termine della visita, dove gli viene spiegato il meccanismo dell'installazione. Ovviamento tutto questo destabilizza il visitatore il quale, desiderava far cadere una pallina, far morire una persona.
+L'installazione è caratterizzata da una forte dimensione ludica. Il visitatore si trova all'interno di una stanza con delle palline sul pavimento, ad un tratto una pallina cade dal contenitore posto sul soffitto, il visitatore si domanda il perchè di questo, desideroso di farne cadere nuovamente una. Al termine della visita, viene spiegata la dinamica dell'installazione al visitatore, destabilizzandolo poichè comprende che nel momento in cui il suo desiderio di veder cadere una pallina gialla veniva appagato, significava che una persona era stata uccisa.
 
 ## What if
-da inserire.
+Piccole palline gialle diventano la metefora visiva di morti avvenute per omicidio. Questa semplicità espressiva è probabilmente la caratteristica vincente dell'opera, ma è giusto fare alcune considerazioni, ovvero, non potrebbe essere tutto troppo facile? Mi spiego meglio. Se, ad esempio, le palline invece che gialle fossero state nere, avrebbero potuto raccontare le morti per omicidio di persone di colore, e se fossero state presenti anche palline bianche nel contenitore,  sarebbe stato possibile operare un confronto riguardo ad un tema dove c'è ancora bisogno di riflettere attentamente. Oltre a questo, se cambiassimo il momento storico, e ci proiettassimo ad oggi, e le palline fossero di colore rosso, probabilmente l'installazione assumerebbe un significato diverso, la metefora più immediata, in questo caso, sarebbe quella legata ai contagi dovuti al Covid-19 o alle morti causate da esso. 
