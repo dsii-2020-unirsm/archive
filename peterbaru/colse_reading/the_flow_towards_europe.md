@@ -6,7 +6,7 @@ _The flow towards Europe: è un progetto di _data visualization_ interattivo che
 
 
 ### what does it mean?
-Il progetto intende sensibilizzare le persone sulla quantità di rifugiati in cerca di asilo in Europa, cercando di chiarire la portata della crisi. Obiettivo principale è quello di raccontare una storia, che descrive la fuga dai paesi di origine. Grazie alla mappa e al grafico è possibile rendere concerti e comprensibili dati altrimenti difficili da intuire. Aspetto importante è la scelta di indicare con un barchart solo i numeri di persone in ingresso nei vari paesi, e non i numeri negativi relativi alle nazioni di partenza, mettendo in evidenza il flusso in entrata e non quello in uscita.
+Il progetto intende sensibilizzare le persone sulla quantità di rifugiati in cerca di asilo in Europa, cercando di chiarire la portata della crisi. Obiettivo principale è quello di raccontare una storia, che descrive la fuga dai paesi di origine. Grazie alla mappa e al grafico è possibile rendere concerti e comprensibili dati altrimenti difficili da intuire. Aspetto importante è la scelta di indicare con un barchart solo i numeri di persone in ingresso nei vari paesi, e non i numeri negativi relativi alle nazioni di partenza, mettendo in evidenza il flusso in entrata e non quello in uscita. Dalla visualizzazione proposta è possibile comprendere la portata della crisi che colpisce alcuni paesi, e porta le persone a scappare. Oltre che alla crisi, è importante concentrarsi sull'idea di accoglienza di ogni paese, visualizzando la crescirta continua di alcune aree dell'europa. La visualizzazione permette anche di comprendere le difficoltà a cui fanno fronte certe aree, evidenziate da "fughe" sempre più evidenti. 
 
 
 ### how it works?
