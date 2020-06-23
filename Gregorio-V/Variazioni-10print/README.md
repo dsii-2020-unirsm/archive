@@ -41,16 +41,3 @@
      width:30%;
      margin-right: 10px;
      " />
-
-  <img src="image/reddot5.png"
-     style="
-     float:left;
-     width:30%;
-     margin-right: 10px;
-     " />
-      <img src="image/reddot1.png"
-     style="
-     float:left;
-     width:30%;
-     margin-right: 10px;
-     " />
