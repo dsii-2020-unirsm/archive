@@ -22,5 +22,3 @@
   
   ![img](https://github.com/angelicazanibellato/archive/blob/master/angelicazanibellato/variazioni10PRINT/bubble_gui/img1.png)
   
-  ![img](https://github.com/angelicazanibellato/archive/blob/master/angelicazanibellato/variazioni10PRINT/bubble_gui/img3.png)
-  
