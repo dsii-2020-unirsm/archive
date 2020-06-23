@@ -1,4 +1,4 @@
-In questa cartella troviamo le analisi dei progetti mostrateci in classe.
+In questa cartella troviamo le analisi dei progetti che ci sono stati mostrati e analizzati in classe.
 
 01_Analisi progetto The Flow Towards the Europe_for exam
 
