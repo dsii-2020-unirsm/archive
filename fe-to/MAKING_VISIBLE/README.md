@@ -93,17 +93,13 @@ https://www.youtube.com/watch?v=tE-ZYXU8A8U
 [![Screenshot-246.png](https://i.postimg.cc/pTvD6wnS/Screenshot-246.png)](https://postimg.cc/wtWytb25)
 
 #### Avanzamento 0.3 
-* Text Similarity
+Text Similarity
 [![textsimilarity.png](https://i.postimg.cc/wvFsb7zt/textsimilarity.png)](https://postimg.cc/gXXJxcnd)
 
-* Entity Extraction
-
-[![entityextraction.png](https://i.postimg.cc/136V1WP1/entityextraction.png)](https://postimg.cc/rDVwSNKf)
-
-* Entity Extraction + Unsplash
+Entity Extraction + Unsplash
 [![entity-unsplash.png](https://i.postimg.cc/pX5pK0m5/entity-unsplash.png)](https://postimg.cc/ZCZbSxFJ)
 
-* Prototipo Finale
+Prototipo Finale
 [![Prototipofinale.png](https://i.postimg.cc/GpLLgzmQ/Prototipofinale.png)](https://postimg.cc/87YgjRWJ)
 
 #### Avanzamento 0.4
