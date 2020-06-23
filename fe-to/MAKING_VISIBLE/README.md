@@ -97,6 +97,7 @@ https://www.youtube.com/watch?v=tE-ZYXU8A8U
 [![textsimilarity.png](https://i.postimg.cc/wvFsb7zt/textsimilarity.png)](https://postimg.cc/gXXJxcnd)
 
 * Entity Extraction
+
 [![entityextraction.png](https://i.postimg.cc/136V1WP1/entityextraction.png)](https://postimg.cc/rDVwSNKf)
 
 * Entity Extraction + Unsplash
