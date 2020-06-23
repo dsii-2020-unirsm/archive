@@ -5,4 +5,4 @@ ho doato i camminatori di intipendenza, e li ho dotati di trasparenza per visual
 
 _link_ [+](https://editor.p5js.org/peterbaru/full/waSIz5rM1)
 
-![img](https://raw.githubusercontent.com/peterbaru/archive/master/peterbaru/Esercizi/camminatoriindipendenti/img.png)
+![img](https://raw.githubusercontent.com/peterbaru/archive/master/peterbaru/Esercizi/3_camminatori_indipendenti/Camminatori-indipendenti_1/img1.png)
