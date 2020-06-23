@@ -13,9 +13,3 @@
    Selezionatore di colore per cambiare i triangoli
 
 - stroke per cambiare la dimensione del bordo
-
-
-![img]()
-
-![img]()
-
