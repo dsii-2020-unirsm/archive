@@ -1,4 +1,4 @@
-Esercizi su P5 svolti durante il Laboratorio dei sistemi interattivi per l'informazione.
+Esercizi su P5 svolti durante il corso: Laboratorio dei sistemi interattivi per l'informazione.
 <br/>Unirsm Design A.A. 2019-2020
 
 [![incontri-e-scontri.jpg](https://i.postimg.cc/cH8RvmHk/incontri-e-scontri.jpg)](https://postimg.cc/PpTpc111)
