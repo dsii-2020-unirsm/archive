@@ -12,31 +12,34 @@
 // —
 // Help:
 // [key_pressed S] viene salvata l'immagine
-// [key_pressed N] viene generato un nuovo sfondon
+// [key_pressed N] viene generato un nuovo sfondo
 //
 // —
 
 
 //variabili che definiscono il codice
 
-let dim = 12 //dimensione sfera
-let numspost = 1/2 //distanza tra sfere
+let dim //dimensione sfera
+let numspost = 0 //distanza tra sfere
 let t = 0 //incremento iniziale colore
 let dimspost
-let trasparenza = 3 //trasparenza sfondo
+let trasparenza = 1 //trasparenza sfondo
 
 function setup() {
-  cnv = createCanvas(windowWidth, windowHeight)
+  cnv = createCanvas(windowWidth, windowWidth/2);
+//  cnv = createCanvas(windowWidth, windowWidth); //con la canvas quadrata i cerchi si sovrappongono ogni volta
   background(192, 218, 255)
 
   //la funzione inizia a disegnare dal centro della canvas
-  x = width/2
-  y = height/2
+  x = 0
+  y = 0
 }
 
 function draw() {
   stroke(0)
   strokeWeight(0.05)
+  
+  dim = width/100;
 
   dimspost = dim + numspost //spostamento tra 2 archi
 
@@ -80,8 +83,6 @@ function draw() {
   } else if (arco == 12) {
     arc(x, y, dim, dim, PI * (3 / 2), PI)
   }
-  
-//  rect(x,y,dim,dim)
 
   //definizione direzione
   if (spostamento == 0) {
@@ -115,7 +116,7 @@ function draw() {
 }
 
 function windowResized() {
-  resizeCanvas(windowWidth, windowHeight)
+  resizeCanvas(windowWidth, windowWidth/2)
   background(192, 218, 255)
 }
 
