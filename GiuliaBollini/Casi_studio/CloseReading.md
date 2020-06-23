@@ -1,20 +1,24 @@
-_The flow towards Europe, Lucify_   
+**The flow towards Europe, Lucify**  
 https://www.lucify.com/the-flow-towards-europe/
 
 
-Si tratta di un progetto online che raccoglie, analizza e mostra dati relativi al flusso di migranti spostati in Europa, a partire dalla seconda Guerra Mondiale. Ha lo scopo di sensibilizzare e chiarire l’entita della crisi, basandosi sui dati raccolti dalle Nazioni Unite.
-Una mappa mostra il flusso di richiedenti asilo verso i paesi europei. Ogni punto presente sulla mappa rappresenta 25 persone che si spostano nello scorrere del tempo. Interagendo con la velocità aumenterà o diminuirà l’andamento e il numero degli spostamenti e del passare degli anni.
+Si tratta di un progetto online open source, nel quale vengono raccolti i dati relativi al flusso di migranti che si spostano verso l'Europa, a partire dalla seconda Guerra Mondiale. Ha lo scopo di sensibilizzare e chiarire l’entita della crisi europea sui rifugiati, attraverso la creazione di una nuova visualizzazione più intuitiva di questi dati.
+I dati vengono raccolti e pubblicati mensilmente dall'agenzia delle Nazioni Unite per i rifugiati (UNHCR). Sulla base delle informazioni raccolte si vanno ad analizzare le coppie di paesi di origine-destinazione e, successivamente vengono posizionate in alcune tabelle. Questo set di dati però contiene solo una parte delle informazioni, in quanto i dati riguardano soltanto i rifugiati richiedenti asilo e non i cosiddetti rifugiati registrati, cioè ad esempio i due milioni di rifugiati siriani in Turchia che non vengono considerati richiedenti asilo. I dati raccolti per i rifugiati registrati non sono dunque soddisfacienti e aggiornati, per questo non sono da considerarsi completi.
+Una volta raccolti i dati, questi vengono inseriti all'interno di una mappa che mostra il flusso di richiedenti asilo verso i paesi europei. Ogni punto presente sulla mappa rappresenta 25 persone che si spostano nello scorrere del tempo e dello spazio. Interagendo con la velocità della mappa, verranno mostrati l’andamento e il numero degli spostamenti nel passare degli anni.
 Una tabella invece mostra le persone richiedenti asilo totali mensili che vengono da diversi paesi. Andando a spostare il cursore sulla linea del tempo, si potranno notare le variazioni mensili e annuali della quantità di persone che richiedono asilo da determinati luoghi del mondo verso altri.
-Con questo progetto viene mostrata la grandezza di questi spostamenti e dell’immensa quantità di richiedenti asilo nel corso degli anni. 
+Con questo progetto si cerca di sensibilizzare sulla grandezza di questi spostamenti e sull’immensa quantità di richiedenti asilo nel corso degli anni. 
 
-Prendendo la tabella che sottolinea quante sono le persone richiedenti asilo, si può notare che non vengono evidenziate quali tra queste sono le richeste prese in considerazione e accettate e quali invece quelle respinte. 
-Se venissero differenziate e mostrate queste differenziazioni, ci si potrebbe accorgere realmente di quanti richiedenti asilo non vengono accettati e non possono spostarsi dal loro paese.  
 ![Schermata 2020-06-21 alle 18 38 42](https://user-images.githubusercontent.com/61871414/85230137-76816000-b3ee-11ea-99cd-f9b7533124e9.png)
 
+Per chi si trova in quei paesi dalla parte di chi accoglie i rifugiati, a volte non si rende conto delle difficoltà e delle sofferenze che ci si trova a dover affrontare 
+
+Prendendo ad esempio la tabella che sottolinea quante sono le persone richiedenti asilo, si può notare che non vengono evidenziate quali tra queste sono le richeste prese in considerazione e accettate e quali invece quelle respinte. 
+Se venissero differenziate e mostrate queste differenziazioni, ci si potrebbe accorgere realmente di quanti richiedenti asilo non vengono accettati e non possono spostarsi dal loro paese.
 
 
 
-_Immaterials: Light painting WiFi, 2012, Timo Arnall, Jørn Knutsen and Einar Sneve Martinussen_ 
+
+**Immaterials: Light painting WiFi, 2012, Timo Arnall, Jørn Knutsen and Einar Sneve Martinussen** 
 https://vimeo.com/20412632
 
 
