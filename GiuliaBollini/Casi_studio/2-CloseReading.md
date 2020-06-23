@@ -12,10 +12,8 @@ Con questo progetto si cerca di sensibilizzare sulla grandezza di questi spostam
 ![Schermata 2020-06-21 alle 18 38 42](https://user-images.githubusercontent.com/61871414/85230137-76816000-b3ee-11ea-99cd-f9b7533124e9.png)
 
 Per chi si trova a vivere in quei paesi europei soliti ad accogliere i rifugiati, spesso non si rende conto di quante difficoltà i richiedenti asilo devono affrontare nel corso del loro percorso, partendo proprio dalla richiesta vera e propria.
-Prendendo come esempio la tabella sulle persone richiedenti asilo, si può subito notare che non vengono evidenziate quali tra queste sono le richeste prese in considerazione e accettate e quali invece quelle respinte. In questo modo risulta difficile capire quanti realmente possono permettersi di andarsene dalle difficili situazioni in cui si trovano a dover vivere.
-
-
-
+Prendendo come esempio la tabella sulle persone richiedenti asilo, si può subito notare che non vengono evidenziate quali tra queste sono le richeste prese in considerazione e accettate e quali invece quelle respinte. In questo modo risulta difficile capire quanti realmente possono permettersi di andarsene dalle difficili situazioni in cui si trovano a dover vivere. Per questo motivo sarebbe interessante aver modo di conoscere lo stato delle richieste, ma anche le motivazioni di queste, così da poterne capire la gravità e sentirsi più vicino.
+_Cosa succederebbe dunque se nella tabella venissero mostrati anche i richiedenti asilo non accettati? Quanti punti in più ci sarebbero?_
 </br>
 </br>
 </br>
@@ -24,21 +22,24 @@ Prendendo come esempio la tabella sulle persone richiedenti asilo, si può subit
 
 _https://vimeo.com/20412632_
 
-
 Immaterials è un'istallazione urbana progettata all'interno di un'università di Oslo, che utilizza il segnale WiFi per donare una matericità al segnale invisibile delle reti WiFi, creandone una visualizzazione comprensibile e fisica. Mostra dunque in che modo il WiFi passa e si collega con la città, evidenziando la potenza e la qualità della rete e contestualizzandola all’interno di un ambiente fisico. In questo modo si va a crearsi, in tempo reale, una mappa delle reti WiFi presenti nella città.
 Usando alcune aste di 4 metri l'una, dotate di luce a intermittenza, viene cercato il segnale WiFi all’interno del campus universitario in cui è stato progettato. La luce dell'asta, cambiando d’intensità e forma, mostra ed evidenzia le differenze di segnale creando, all’interno del paesaggio urbano, un’immagine luminosa di questo. 
 In questo modo viene resa tangibile un'attività invisibile per natura, mostrando ai cittadini quanto, anche quel che non è visibile naturalmente, influisca e faccia parte del paesggio urbano giornaliero.
 
+![Schermata 2020-06-23 alle 22 13 05](https://user-images.githubusercontent.com/61871414/85456011-cd2d9c00-b59e-11ea-8c17-6ae83af2f769.png)
+
+Cosa succederebbe se tutte le città adottassero questa installazione? E se venissero differenziate le onde in base al tipo di utilizzo che viene fatto con il wifi? Ci si troverebbe ad avere una grande visualizzazione in tempo reale di quelli che sono gli utilizzi maggiori del wifi, per esempio se ci si sta connettendo per l'utilizzo di social network oppure per ricerche online.
 </br>
 </br>
 </br>
 
 ## Monument, 2006, Caleb Larsen
 
+_http://classic.rhizome.org/artbase/artwork/43859/_
 
 L’installazione di Larsen mostra in tempo reale la quantità di omicidi nel mondo, rappresentati da una piccola pallina gialla che cade da una scatola trasparente.
 Un computer analizza continuamente dal web, numerosi titoli di notizie di tutto il mondo, andando a ricercare le notizie su persone uccise. Ogni volta che un articolo viene trovato, vengono determinati il numero di decessi, viene inviato un input al contenitore e vengono così lasciate cadere tante palline gialle quante le persone morte. Ogni mese cadono all'incirca 20.000 palline e, con il trascorrere del tempo si verrà a creare un tappeto di sfere gialle sempre più denso e caotico. 
 L'utente che assistirà per la prima volta alla mostra, sarà all'oscuro delle modalità di funzionamento dell'insallazione. Questo lo porterà a desiderare che sempre più palline cadano dal contenitore, per poter vedere e poter "giocare" con l'installazione. Inconsapevoli del reale significato, quindi gli utenti in un certo senso "sperano nella morte di qualcuno".
 
-Se, invece di avere delle palline di plastica, l'installazione venisse riempita da fragili palline di vetro e, delimitando quindi l'area di installazione, ci si trovasse ad avere uno spazio dove si creerà un tappeto di frammenti di vetro? Racchiuderebbe un significato maggiore di sofferenza e di rottura causato dal frantumarsi a terra, così come i corpi delle persone uccise che vengono "distrutti" e frantumati per mano di qualcun altro.
+Se, invece di avere delle palline di plastica, l'installazione venisse riempita da fragili palline di vetro e, delimitando quindi l'area di installazione, ci si trovasse ad avere uno spazio dove si creerà un tappeto di frammenti di vetro? Racchiuderebbe un significato di maggiore sofferenza e di rottura causato dal frantumarsi a terra, così come i corpi delle persone uccise che vengono "distrutti" e frantumati per mano di qualcun altro.
 
