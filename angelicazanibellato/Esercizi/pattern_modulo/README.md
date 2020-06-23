@@ -4,3 +4,5 @@ Il colore del pattern cambia in modo randomico muovendo il cursore sulla canvas.
 
 
 ![img](https://github.com/angelicazanibellato/archive/blob/master/angelicazanibellato/Esercizi/pattern_modulo/img/img1.png)
+
+![img](https://github.com/angelicazanibellato/archive/blob/master/angelicazanibellato/Esercizi/pattern_modulo/img/img3.png)
