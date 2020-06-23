@@ -15,7 +15,7 @@
 - stroke per cambiare la dimensione del bordo
 
 
-![img](https://github.com/angelicazanibellato/archive/blob/master/angelicazanibellato/variazioni10PRINT/triangoli_con_gui/img/img1.png)
+![img]()
 
-![img](https://github.com/angelicazanibellato/archive/blob/master/angelicazanibellato/variazioni10PRINT/triangoli_con_gui/img/img2.PNG)
+![img]()
 
