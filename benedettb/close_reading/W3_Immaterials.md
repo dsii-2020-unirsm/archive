@@ -35,4 +35,4 @@ radio. La tecnica consente di creare contemporaneamente fotografie del mondo rea
 [fonte](http://yourban.no/2011/03/07/making-immaterials-light-painting-wifi/).
 
 **E SE..**  
-
+Sarebbe interessante mappare altre tipologie di segnali invisibili, per esempio i raggi UVB e UVA del sole. Spesso sottovalutati possono essere molto dannosi e portare allo sviluppo di tipologie letali di tumori. A partire dallo stimolo progettuale suggerito da _Immaterials_, si potrebbe pensare alla prototipazione di veri e propri “elementi” presenti all’interno della città, o addirittura portatili(?), che mappino questo tipo di “segnale” con lo scopo di offrire un servizio ai cittadini rendendoli più consapevoli della realtà che li circonda, solo  in apparenza immateriale.
