@@ -1,7 +1,7 @@
-Link P5 editor Fullscreen - Generatore di Mondi (da esercitazione Noise)
+Link P5 editor Fullscreen - Generatore di Mondi by federico Topa -Thanks to Gene Kogan for https://genekogan.com/code/p5js-perlin-noise/
 
 https://editor.p5js.org/fe-to/full/Fhxhx83Jl
 
 https://editor.p5js.org/fe-to/sketches/Fhxhx83Jl
 
-[![Gen-Mondi.png](https://i.postimg.cc/vTs33nzy/Gen-Mondi.png)](https://postimg.cc/vg0rmck2)
+[![generatore-mondi.jpg](https://i.postimg.cc/Gh4XRLLj/generatore-mondi.jpg)](https://postimg.cc/1fZGcZNg)
