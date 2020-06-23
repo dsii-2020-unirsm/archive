@@ -4,10 +4,10 @@ In questa cartella troviamo le analisi dei progetti mostrateci in classe.
 
 02_Analisi progetto Immaterials_for exam
 
-02_Analisi progetto Monument_for exam
+03_Analisi progetto Monument_for exam
 
-02_Analisi progetto Museo Audiovisivo
+04_Analisi progetto Museo Audiovisivo
 
-02_Analisi progetto Museo della Mente
+05_Analisi progetto Museo della Mente
 
-02_Analisi progetto The Source
+06_Analisi progetto The Source
