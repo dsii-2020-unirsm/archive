@@ -20,21 +20,35 @@
      margin-right: 10px;
      " />
      
-     <img src="image/reddot3.png"
+
+  <img src="image/reddot3.png"
      style="
      float:left;
      width:30%;
      margin-right: 10px;
      " />
-     
-     <img src="image/reddot4.png"
+  
+
+  <img src="image/reddot4.png"
      style="
      float:left;
      width:30%;
      margin-right: 10px;
      " />
-     
-     <img src="image/reddot5.png"
+      <img src="image/reddot1.png"
+     style="
+     float:left;
+     width:30%;
+     margin-right: 10px;
+     " />
+
+  <img src="image/reddot5.png"
+     style="
+     float:left;
+     width:30%;
+     margin-right: 10px;
+     " />
+      <img src="image/reddot1.png"
      style="
      float:left;
      width:30%;
