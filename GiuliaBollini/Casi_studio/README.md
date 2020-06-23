@@ -8,7 +8,7 @@ _3 _ Studio azzurro - "Museo audiovisivo della resistenza"_ [+](https://www.stud
 
 **2 - CloseReading**
 
-_1 The flow towards Europe, Lucify_ [+](https://www.lucify.com/the-flow-towards-europe/) </br>
-_2 Immaterials: Light painting WiFi, 2012, Timo Arnall, Jørn Knutsen and Einar Sneve Martinussen_ [+](https://vimeo.com/20412632) </br>
-_3 Monument, 2006, Caleb Larsen_ [+](http://classic.rhizome.org/artbase/artwork/43859/)
+_1 _ The flow towards Europe, Lucify_ [+](https://www.lucify.com/the-flow-towards-europe/) </br>
+_2 _ Immaterials: Light painting WiFi, 2012, Timo Arnall, Jørn Knutsen and Einar Sneve Martinussen_ [+](https://vimeo.com/20412632) </br>
+_3 _ Monument, 2006, Caleb Larsen_ [+](http://classic.rhizome.org/artbase/artwork/43859/)
 
