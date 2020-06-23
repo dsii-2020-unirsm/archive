@@ -10,7 +10,7 @@
 
    slider per cambiare la dimensione dei triangoli
 
-   Selezionatore di colore per cambiare i triangoli
+   selezionatore di colore per cambiare i triangoli
    
  ![img](https://github.com/angelicazanibellato/archive/blob/master/angelicazanibellato/variazioni10PRINT/triangoli_con_gui/img/img2.PNG)
 
