@@ -4,4 +4,4 @@ https://editor.p5js.org/fe-to/full/9p2DLcWhQ
 
 https://editor.p5js.org/fe-to/sketches/9p2DLcWhQ
 
-[![Gen-Pattern-Modulo.png](https://i.postimg.cc/Gp5zDNNZ/Gen-Pattern-Modulo.png)](https://postimg.cc/R3wc5PvR)
+[![generatore-pattern-modulo.jpg](https://i.postimg.cc/rF5fn8qZ/generatore-pattern-modulo.jpg)](https://postimg.cc/N5f8Lv9R)
