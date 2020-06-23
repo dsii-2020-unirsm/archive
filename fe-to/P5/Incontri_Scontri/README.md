@@ -4,4 +4,4 @@ https://editor.p5js.org/fe-to/full/wkPUQPuNy
 
 https://editor.p5js.org/fe-to/sketches/wkPUQPuNy
 
-[![Incontri-Scontri.png](https://i.postimg.cc/RZ2R1hLR/Incontri-Scontri.png)](https://postimg.cc/9DtZCWSR)
+[![incontri-e-scontri.jpg](https://i.postimg.cc/cH8RvmHk/incontri-e-scontri.jpg)](https://postimg.cc/PpTpc111)
