@@ -78,4 +78,36 @@ https://www.youtube.com/watch?v=tE-ZYXU8A8U
 * Text Classification
 * Node Concordance
 
+#### Avanzamento 0.1
+[![Screenshot-241.png](https://i.postimg.cc/7YSqxjC9/Screenshot-241.png)](https://postimg.cc/XpNRLHkB)
 
+[![Screenshot-242.png](https://i.postimg.cc/rF2LYghr/Screenshot-242.png)](https://postimg.cc/PNycCbnX)
+
+[![Screenshot-243.png](https://i.postimg.cc/Gpt0sfpZ/Screenshot-243.png)](https://postimg.cc/pmwcwqzZ)
+
+#### Avanzamento 0.2
+[![Screenshot-244.png](https://i.postimg.cc/K8Krkr20/Screenshot-244.png)](https://postimg.cc/21DBgW3W)
+
+[![Screenshot-245.png](https://i.postimg.cc/zfKCpz3W/Screenshot-245.png)](https://postimg.cc/v18xZdrH)
+
+[![Screenshot-246.png](https://i.postimg.cc/pTvD6wnS/Screenshot-246.png)](https://postimg.cc/wtWytb25)
+
+#### Avanzamento 0.3 
+* Text Similarity
+[![textsimilarity.png](https://i.postimg.cc/wvFsb7zt/textsimilarity.png)](https://postimg.cc/gXXJxcnd)
+
+* Entity Extraction
+[![entityextraction.png](https://i.postimg.cc/136V1WP1/entityextraction.png)](https://postimg.cc/rDVwSNKf)
+
+* Entity Extraction + Unsplash
+[![entity-unsplash.png](https://i.postimg.cc/pX5pK0m5/entity-unsplash.png)](https://postimg.cc/ZCZbSxFJ)
+
+* Prototipo Finale
+[![Prototipofinale.png](https://i.postimg.cc/GpLLgzmQ/Prototipofinale.png)](https://postimg.cc/87YgjRWJ)
+
+#### Avanzamento 0.4
+[![Deja-vu-img1.png](https://i.postimg.cc/PfwCw3pp/Deja-vu-img1.png)](https://postimg.cc/w39xKkkg)
+
+[![Deja-vu-img2.png](https://i.postimg.cc/XJMbS8Vm/Deja-vu-img2.png)](https://postimg.cc/kVyZWWRv)
+
+[![Deja-vu-img3.png](https://i.postimg.cc/zXdYX5zn/Deja-vu-img3.png)](https://postimg.cc/VdbVDxb6)
