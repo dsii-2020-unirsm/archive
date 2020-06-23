@@ -7,5 +7,5 @@ esercizio 1
 
 esercizio 2
 
-![img]()
+![img](https://raw.githubusercontent.com/peterbaru/archive/master/peterbaru/Esercizi/5_camminatori_mondo/Camminatori-mondo_2/img.png)
 
