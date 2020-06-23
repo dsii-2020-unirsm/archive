@@ -11,5 +11,9 @@
    slider per cambiare la dimensione dei triangoli
 
    Selezionatore di colore per cambiare i triangoli
+   
+ ![img](https://github.com/angelicazanibellato/archive/blob/master/angelicazanibellato/variazioni10PRINT/triangoli_con_gui/img/img2.PNG)
 
-- stroke per cambiare la dimensione del bordo
+![img](https://github.com/angelicazanibellato/archive/blob/master/angelicazanibellato/variazioni10PRINT/triangoli_con_gui/img/img1.png)
+
+
