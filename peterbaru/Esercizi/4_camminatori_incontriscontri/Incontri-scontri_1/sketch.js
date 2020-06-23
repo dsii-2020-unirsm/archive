@@ -34,8 +34,7 @@ function draw() {
       if (i != j && camminatori[i].interseca(camminatori[j])) {
         camminatori[i].nuovocolore();
         camminatori[j].nuovocolore();
-        //    camminatori[i].inverti();
-        //    camminatori[j].inverti();
+
         camminatori[i].cresci();
         camminatori[j].cresci();
       }
