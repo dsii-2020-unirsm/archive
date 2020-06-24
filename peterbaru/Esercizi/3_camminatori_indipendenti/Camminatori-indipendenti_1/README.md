@@ -5,4 +5,6 @@ ho doato i camminatori di intipendenza, ispirandomi ai dipindi di Mondian: mi so
 
 _link_ [+](https://editor.p5js.org/peterbaru/full/waSIz5rM1)
 
-![img](https://raw.githubusercontent.com/peterbaru/archive/master/peterbaru/Esercizi/3_camminatori_indipendenti/Camminatori-indipendenti_1/img1.png)
+![img1](https://raw.githubusercontent.com/peterbaru/archive/master/peterbaru/Esercizi/3_camminatori_indipendenti/Camminatori-indipendenti_1/img2.png)
+
+![img2](https://raw.githubusercontent.com/peterbaru/archive/master/peterbaru/Esercizi/3_camminatori_indipendenti/Camminatori-indipendenti_1/img1.png)
