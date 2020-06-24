@@ -40,11 +40,9 @@ function draw() {
 
         camminatori[i].nuovocolore();
         camminatori[j].nuovocolore();
-
-        camminatori[i].xvel = (-1) * camminatori[i].xvel
-        camminatori[j].xvel = (-1) * camminatori[j].xvel
-        camminatori[i].yvel = (-1) * camminatori[i].yvel
-        camminatori[j].yvel = (-1) * camminatori[j].yvel
+        
+        camminatori[i].cambiovia();
+        camminatori[j].cambiovia();
       }
     }
   }
@@ -95,6 +93,11 @@ function Walker(x, y) {
     } else if (this.y < 0 || this.y > height) {
       this.yvel = (-1) * this.yvel
     }
+  }
+  
+  this.cambiovia = function() {
+     this.xvel = (-1) * this.xvel
+     this.yvel = (-1) * this.yvel
   }
 }
 
