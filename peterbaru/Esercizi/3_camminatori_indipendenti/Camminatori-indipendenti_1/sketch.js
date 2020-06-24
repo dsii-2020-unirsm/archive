@@ -4,6 +4,9 @@
 // github.com/dsii-2020-unirsm — github.com/peterbaru
 // Educational purposes, MIT License, 2020, San Marino
 // —
+//
+//[mouse] se viene premuto il mouse il bordo viene cancellato
+// —
 
 let camminatori = []
 //let num = 10
@@ -44,7 +47,11 @@ function Walker(_id) {
     let diminiziale = windowHeight / 3.5
 
     this.dim = map(this.y, 0, height, 5, diminiziale)
-    noStroke()
+    stroke(0)
+    if(mouseIsPressed) {
+      noStroke()
+    }
+    strokeWeight(3)
     fill(this.r, this.g, this.b, this.alpha)
     rect(this.x, this.y, this.dim, this.dim)
   }
