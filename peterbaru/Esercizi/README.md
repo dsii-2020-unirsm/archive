@@ -5,3 +5,4 @@ _esercizi svolti_
 - dotare dei camminatori di indipendenza
 - incontri scontri tra camminatori che cambiano la via
 - camminatori che disegnano la mondi
+- aggiungere ai camminatori dati la funzione noise in modo da renderli più dinamici
