@@ -41,7 +41,7 @@ function Walker() {
 
 
   this.mostrati = function() {
-    let dim = windowWidth / 20;
+    let dim = 40;
 
     this.dim = map(this.y, 5, windowWidth, 5, dim);
 
