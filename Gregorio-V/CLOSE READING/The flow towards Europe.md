@@ -4,48 +4,42 @@
 
 *   ### **What is it**
 
-*The flow towards Europe* è un sito web che, attraverso due visualizzazioni di dati, mostra (nero su bianco), i numeri dei rifugiati in europa dal 2012 al 2018.
+*The flow towards Europe* è un sito web che, attraverso due visualizzazioni di dati, mostra i numeri dei rifugiati in Europa dal 2012 al 2018.
 
-La prima visualizzazione è una mappa che mostra al centro l'Europa e si espande, verso sud, fino al Congo e, verso est, fino 
-all'India. La piattaforma web permette di selezionare paesi specifici per concentrarsi sui dati relativi a quel paese.
+La prima visualizzazione consiste in una mappa che mostra al centro l'Europa e si espande, verso sud fino al Congo e verso est fino all'India. La piattaforma web permette di selezionare paesi specifici per analizzare i dati relativi a quel paese. Selezionando ciascun paese compare una scia luminosa, simbolicamente rappresentativa del flusso di persone in movimento, che indica le direzioni di provenienza o di arrivo dei flussi, permettendo di visualizzare dall’alto, a colpo d’occhio, la portata globale del fenomeno.
 
-La seconda, invece, utilizza gli stessi dati ma per mettere in relazione i diversi stati di partenza ed arrivo, permettendo
-di visualizzare con chiarezza il rapporto di numero di persone tra le nazioni.
+La seconda visualizzazione, invece, utilizza gli stessi dati mettendo in relazione gli stati di partenza e di arrivo, mostrando i flussi degli spostamenti e il loro variare nel corso del tempo. Questo permette di fare comparazioni tra le nazioni, ad esempio tra quelle che accolgono il maggior numero di rifugiati, tra quelle da cui le persone partono maggiormente. Una timeline permette poi di selezionare mese e anno di cui visualizzare i flussi migratori.
+
+L'ultima parte del sito concentra l'attenzione su un unico dato: il numero di rifugiati Siriani che sono riusciti ad arrivare in Europa e di quelli che sono rimasti bloccati ai confini. Per mostrare la mole del flusso di rifugiati partiti dalla Siria, tra il 2011 e il 2017, il sito ricorre a una visualizzazione iconica e incisiva, disegnando tanti campi da calcio quanti sarebbero riempiti dai rifugiati giunti in Europa, e, appena sotto, illustrando il numero di campi che sarebbero riempiti da chi è rimasto bloccato alle porte dell’Europa, impossibilitati a proseguire il viaggio. La sproporzione tra le due entità, suggerite tramite questo stratagemma, è di forte impatto e mostra chiaramente la portata del fenomeno e il suo essere rimasto irrisolto.
+
 
 
 <br>
 
 *   ### **What does it mean**
 
-Credo che l'intendo di questo progetto sia quello di far chiarezza sul fenomeno mettendo nero su bianco, e non letteralmente,
-la severità di questi numeri. Anche il nome dello studio, *Lucify*, credo che significhi proprio questo, fare luce su un fenomeno "al buio".
-Un fenomeno che nel 2015, durante l'ideazione del progetto stava ancora nascendo (come abbiamo visto nel 2016 e 2017).
-Se la prima parte è oggettiva e mostra solo i numeri, l'ultima parte del sito mette in relazione un unico dato, concentrando tutta
-l'attenzione su quello. I rifugiati Siriani che sono riusciti ad arrivare in europa e tutti quelli ancora bloccati. 
-Questo è chiaramente uno schieramento, forte e chiaro, che vuole ancora una volta puntare un faro su questo problema. 
+L'intento di questo progetto è fare chiarezza sul fenomeno delle migrazioni, mettendo nero su bianco la gravità di questi numeri. Anche il nome dello studio, *Lucify*, intende proprio fare luce su un fenomeno ancora in ombra, di cui tutti siamo al corrente ma di cui spesso non si conoscono le dinamiche reali, le cause e le implicazioni.
 
-Mi ha molto colpito il fatto che non si potesse modificare/selezionare/evidenziare nulla di questa ultima parte. I campi da
-calcio sono lì e sono immobili. Durante tutto il percorso precedente era quasi un gioco, era interattivo e divertente. 
+Mi ha molto colpito il fatto che non si potesse modificare/selezionare/evidenziare nulla di questa ultima parte. I campi da calcio sono immobili. Tutto il percorso precedente sembra quasi un gioco, è interattivo e divertente. 
 Il finale invece è spiazzante.
 
 <br>
 
 *   ### **How is made**
 
-Il passare del tempo fa scorrere lo slider che, seguendo la banca dati, disegna tutti puntini bianchi sulla mappa. La mappa 
+Il passare del tempo fa scorrere lo slider che, seguendo la banca dati, disegna puntini bianchi sulla mappa. La mappa 
 sarà in .svg con la funzione mouseover e onClick modifica quali pallini vengono mostrati, se tutti o se solo quelli di una nazione.
 
-Il secondo non è interattivo, è una serie di visualizzazioni che cambiano in base al punto della timeline selezionato. Con il 
-cursore è possibilie evidenziare con un cambiamento di opacità la nazione desiderata.
+Il secondo non è interattivo, è una serie di visualizzazioni che cambiano in base al punto della timeline selezionato. Con il cursore è possibile evidenziare la nazione desiderata tramite un cambiamento di opacità.
 
 <br>
 
 *   ### **What if..**
 
-Cosa succederebbe se modificassimo il tema? Se facessimo la stessa cosa ma sugli emigrati italiani all'estero? O se non venisse
-detto il tema fino alla fine e al posto delle persone nei campi da calcio mettessimo i soldi persi per i giovani che vanno all'estero.
+Cosa succederebbe se mostrassimo i numeri dei migranti italiani in America negli anni ‘50? Indicando le specifiche dinamiche, la percentuale di migranti illegali, le regioni italiane di provenienza, il titolo di studio posseduto, il lavoro svolto in America, i numeri della criminalità importata nel nuovo continente.
 
-Potremmo cambiare scala e tempo, proiettati nel 2300 quando e forse i rifugiati saremo *noi* dei paesi ricchi che navigano lo spazio verso
-Marte. O piuttosto *noi italiani* che a causa del riscaldamento globale saremo costretti a emigrare verso il nord. Cambiamo il 
-soggetto, ricordiamoci che anche noi siamo stati nella loro situazione e potrebbe ricapitare, forse vorremmo essere trattati
-diversamente.
+Potremmo cambiare scala e tempo, proiettati nel 2300 quando forse i rifugiati saremo *noi* dei paesi ricchi che navigano lo spazio verso Marte, lasciandoci alle spalle un pianeta terra ormai invivibile, devastato dall’inquinamento. 
+O piuttosto *noi italiani* che a causa del riscaldamento globale saremo costretti a emigrare verso il nord, per fuggire dalle coste e dalle città sommerse dal mare, dalla pianura rovente e ormai totalmente cementificata. 
+Cambiamo il soggetto, ricordiamoci che anche noi siamo stati nella loro situazione e che potrebbe ricapitare ancora di dover lasciare la propria terra d’origine. 
+
+Progetti di questo tipo servirebbero a sensibilizzare gli spettatori mostrando un quadro più completo del fenomeno, la varietà di cause che stanno alla base degli spostamenti degli esseri umani, la concomitanza di fattori implicati (economici, politici, militari, storici, culturali), al fine di evitare semplificazioni riduzioniste del tema, che diventa per questo a rischio di facili strumentalizzazioni.

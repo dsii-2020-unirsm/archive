@@ -1,5 +1,7 @@
 ## Miss the balls - _game_
 
+Questo gioco comprende camminatori autonomi e incontri/scontri con conseguenze. 
+
 [Full screen](https://editor.p5js.org/Gregorio-V/full/8CdP1HCfl)
 
 _Miss the balls_ è un gioco survival in cui bisogna schivare con il cursore le palline che si muovono nel canvas.
