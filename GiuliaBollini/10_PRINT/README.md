@@ -1,1 +1,1 @@
-Questa cartella conterrà quelle che sono le variazioni più interessanti di 10PRINT
+Variazioni 10PRINT su p5.js e su Commodore64
