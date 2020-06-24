@@ -1,4 +1,4 @@
-# Balls_scia_black
+# Balls_scia_black_disegno_mondi
  
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
@@ -6,4 +6,4 @@
  
 ![](2.PNG)
 
-CAMMINATORI INDIPENDENTI che DISEGNANO MONDI tramite l'accensione del Background
+CAMMINATORI che DISEGNANO MONDI tramite l'accensione del Background
