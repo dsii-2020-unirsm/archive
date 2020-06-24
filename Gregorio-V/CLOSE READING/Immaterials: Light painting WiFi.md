@@ -21,3 +21,5 @@ Una serie di LED su un palo di legno si accendono o si spengono in base all’in
 <br>
 
   *   ### **What if**
+
+Ho trovato molto interessante il rapporto tra il tema, l’output finale ed il contesto. Appare centrata la scelta di utilizzare le luci, così come l’andamento nello spazio: l'immagine che viene trasmessa coincide con quella che tutti abbiamo del wifi, ovvero le tacchette dell’icona su smartphone o PC. Sarebbe interessante trarre da questo progetto proprio il dialogo tra tema, elementi e visualizzazione. Si potrebbe lavorare in maniera analoga sul tema delle vibrazioni causate dal traffico, nelle strade del centro e in prossimità di edifici storici.
