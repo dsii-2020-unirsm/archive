@@ -1,2 +1,2 @@
 ### 1. programmare un generatore casuale di parole  
-Versione più aggiornata > versione_1
+Versione più aggiornata > versione_2
