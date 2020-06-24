@@ -1,9 +1,7 @@
-# ESERCIZIO 4
+# Generatore casuale di frasi (insensate)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### immagine in questo [Link](https://editor.p5js.org/mgabriella/full/ia0xl1r8i).
+### immagine in questo [Link](https://editor.p5js.org/mgabriella/full/XFmc1YkBz).
 
-variazione con circle
-
-![](4_10print.png)
+![](1.png)

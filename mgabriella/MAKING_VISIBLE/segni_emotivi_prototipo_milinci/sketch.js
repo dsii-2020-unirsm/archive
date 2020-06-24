@@ -1,6 +1,6 @@
 // -
-// Nomefile 0.1 by Maria Gabriella Milinci [Segniemotivi, mascherina]
-// 2020 © Maria Gabriella Milinci, Daniele @Fupete and the course DSII2020 at DESIGN.unirsm 
+// Segni emotivi by Maria Gabriella Milinci [Segniemotivi, mascherina]
+// 2020 © Maria Gabriella Milinci @mgabriella, Daniele @Fupete and the course DSII2020 at DESIGN.unirsm 
 // github.com/dsii-2020-unirsm — github.com/fupete
 // Educational purposes, MIT License, 2020, San Marino
 // —
