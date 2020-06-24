@@ -2,8 +2,10 @@
 Greyworld, 2003, Londra;
 
 
-Questa è un’installazione permanente per la borsa di Londra; complessa e sofisticata è un microcosmo di attività, un riflesso vivente delle forze del mercato. Una griglia di cavi consente ai pixel fisici di muoversi e fluire, man mano che il mercato azionario cambia. La scultura annuncerà l'apertura dei mercati finanziari ogni giorno usando sfere mobili montate su una griglia verticale di cavi lunghi e invisibili.
-Greyworld è un collettivo di artisti londinesi che ha  come obiettivo quello di creare arte pubblica che coinvolga l'essere umano in un contesto urbano. I visitatori diventano attivamente parte dell'installazione stessa, il lavoro non può essere completo senza di loro. Per la maggior parte, queste installazioni sono spesso esposte nelle aree mal definite della città, nelle aree grigie tra le zone funzionali e ben definite: gli spazi abitativi, lavorativi e ricreativi.
+Panoramica <br>
+The Source è l'opera più acclamata del gruppo londinese Greyworld. 
+The Source è un’installazione permanente per la borsa di Londra, definita come un riflesso vivente delle forze del mercato. La sua struttura è formata da una griglia di cavi che consente a delle sfere (rappresentanti dei pixel "fisici") di muoversi e fluire, man mano che il mercato azionario cambia; ogni giorno viene annunciata l'apertura dei mercati finanziari, attraverso rappresentazioni grafiche per mezzo delle sfere.
+Greyworld è un collettivo di artisti londinesi che creano opere d'arte, sculture e istallazioni interattive funzionanti per mezzo del pubblico. Il loro obiettivo è quello di creare arte pubblica che coinvolga l'essere umano in un contesto urbano. Queste installazioni sono spesso esposte nelle aree mal definite della città, nelle aree grigie tra le zone funzionali e ben definite: gli spazi abitativi, lavorativi e ricreativi.
 
 
 ### What is
@@ -13,13 +15,13 @@ The Source è un’installazione cinetica permanente creata dal gruppo londinese
 ### What does it means 
 L’obiettivo primario di Greyworld è quello di creare un'arte pubblica che coinvolge l'essere umano; in questo modo i visitatori diventano parte dell’istallazione stessa (senza di loro il lavoro non si completa). 
 L’installazione ha una forma tridimensionale ed è posta al centro della hall della Borsa di Londra, quindi visibile a chiunque. Inoltre ogni giorno viene trasmessa in televisione ad un pubblico globale di circa 80 milioni di persone. 
-Greyworld con questa installazione ha spostato la vecchia borsa di Londra in un nuovo edificio, modificando, così, la visione tradizionale del mercato. Questa scultura fatta di sfere offre un nuovo modo per le persone di operare con i dati. Le informazioni dentro alla rete diventano “vive”; le sfere permettono una visualizzazione autentica di ciò che sta accadendo.
+Greyworld con questa installazione ha spostato la vecchia borsa di Londra in un nuovo edificio, modificando, così, la visione tradizionale del mercato. Questa scultura fatta di sfere offre un nuovo modo per le persone di operare e comprendere i dati; le informazioni dentro alla rete diventano “vive” e permettono una visualizzazione autentica di ciò che sta accadendo.
 
 ### How it works 
-L’installazione The Source è formata da 729 sfere di plastica che scorrono, attraverso carrelli, lungo 162 cavi d’acciaio lunghi 32 m che oltrepassano 8 piani, raggiungendo il tetto di vetro. Su ciascun cavo sono montate 9 sfere, all’inizio trattenute in una base cubica, all’avvio le sfere salgono e mostrano i dati del mercato in tempo reale come se fossero dei pixel animati che si muovo fluidamente e liberamente. 
+L’installazione The Source è formata da 729 sfere di plastica che scorrono, attraverso carrelli, lungo 162 cavi d’acciaio lunghi 32 m che oltrepassano 8 piani, raggiungendo il tetto di vetro. Su ciascun cavo sono montate 9 sfere, all’inizio trattenute in una base cubica, all’avvio le sfere salgono e mostrano i dati del mercato in tempo reale come se fossero dei pixel animati che si muovo fluidamente e liberamente. La struttura è controllata da un computer che esegue il codice Python, in questo modo i "pixel fisici" possono muoversi indipendentemente l'uno dall'altro, formando forme dinamiche, personaggi e movimenti fluidi che riflettono la natura del mercato azionario stesso.
 
 ### What if
-L’installazione attualmente è composta da tante parti meccaniche. Dato il continuo sviluppo tecnologico è possibile immaginare in un futuro The Source limata da parti fisiche e realizzata come un’olografia. Mostrando immagini ancora più fluide e dinamiche.
+L’installazione attualmente è composta da tante parti meccaniche. Perciò dato il continuo sviluppo tecnologico è possibile immaginare The Source in un futuro aggiornata: le parti fisiche potrebbero essere eliminate quasi del tutto e la visualizzazione potrebbe avvenire per ologramma; inoltre con l'aggiunta di algoritmi di machine learning potrebbe provvedere un'interazione in real time con il pubblico (pensando ad una migliore comprensione dei dati).
 
 ![the source](https://github.com/Francesca1996/archive/blob/master/Francesca1996/close_reading/1_theSource.jpg)
 
