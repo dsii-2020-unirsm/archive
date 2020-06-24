@@ -43,8 +43,6 @@ function Walker() {
   this.mostrati = function() {
     let dim = 40;
 
-    this.dim = map(this.y, 5, windowWidth, 5, dim);
-
     fill(this.colorR, 0, this.colorB, 50);
     ellipse(this.x, this.y, frameCount % 10, dim);
   }
