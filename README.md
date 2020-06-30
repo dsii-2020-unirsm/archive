@@ -1,5 +1,3 @@
-cartella corso DSII2020
+archive dsii-2020
 
-Professore: Daniele Tabellini @fupete
-
-Studiente: Maria Gabriella Milinci @mgabriella
+_work in progress, recap soon_
