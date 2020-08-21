@@ -15,10 +15,10 @@ https://upstage.org.nz/?page_id=15
 https://upstage.org.nz/?page_id=8361  
   
 #### DIGITAL HANDSHAKE  
-  - 2014 - Christina Papagiannouli and Evi Stamatiou on site in London, and online Helen Varley Jamieson, Miljana Perić and Vicki Smith -  
+-2014 - Christina Papagiannouli and Evi Stamatiou on site in London, and online Helen Varley Jamieson, Miljana Perić and Vicki Smith -  
   
-__Cyberformance improvvisata sul tema dei corpi in rete e digitalizzati.  
-Networks, despite many past promises of disembodiment and internationalism through the obsolescence of both bodies and geographical boundaries – promises now widely perceived as obsolete – are still experienced by subjects that remain both embodied and geographically situated (Cohen, 2012: 11) As Cohen argues, not only are networks firmly connected to material bodies and physical geographies, but they also play “an increasingly significant role in constructing embodied experience” (ibid), by both empowering and configuring the “networked self” (Cohen, 2012: 12).__  
+_Cyberformance improvvisata sul tema dei corpi in rete e digitalizzati.  
+Networks, despite many past promises of disembodiment and internationalism through the obsolescence of both bodies and geographical boundaries – promises now widely perceived as obsolete – are still experienced by subjects that remain both embodied and geographically situated (Cohen, 2012: 11) As Cohen argues, not only are networks firmly connected to material bodies and physical geographies, but they also play “an increasingly significant role in constructing embodied experience” (ibid), by both empowering and configuring the “networked self” (Cohen, 2012: 12)._  
   
 La stretta di mano è un rituale breve in cui due persone afferrano le rispettive mani in una stretta, solitamente in segno di accordo dopo un incontro, il gesto consiste in una stretta e oscillazione alto/basso delle mani.  
 https://upstage.org.nz/?p=6272  
