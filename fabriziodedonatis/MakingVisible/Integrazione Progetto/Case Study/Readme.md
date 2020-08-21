@@ -39,6 +39,17 @@ Sviluppata attraverso la piattaforma OPENFRAMEWORK.
 http://www.flong.com/projects/gpp-ii/  
 <img src="https://github.com/fabriziodedonatis/archive/blob/master/fabriziodedonatis/MakingVisible/Integrazione Progetto/Case Study/img/gpp-ii-inspirations.jpg" alt="alt text" width="100%">  
 <img src="https://github.com/fabriziodedonatis/archive/blob/master/fabriziodedonatis/MakingVisible/Integrazione Progetto/Case Study/img/gpp-ii-skeletonization.gif" alt="alt text" width="100%">  
-<img src="https://github.com/fabriziodedonatis/archive/blob/master/fabriziodedonatis/MakingVisible/Integrazione Progetto/Case Study/img/gpp-ii_3.jpg" alt="alt text" width="100%">
+<img src="https://github.com/fabriziodedonatis/archive/blob/master/fabriziodedonatis/MakingVisible/Integrazione Progetto/Case Study/img/gpp-ii_3.jpg" alt="alt text" width="100%">  
   
-
+### SAND ART 
+*Ilana Yahav*  
+**I was always captivated by the ability of hand gestures to express emotions such as anger, compassion, and love. Just as in dance, such movements create emotions that play a major role in the creation and performance of my sand art.**  
+Ilana disegna con la sabbia, sulla sabbia stessa e posta sopra una lavagna luminosa.  
+Unisce lo storytelling, ogni disegno è un continuo riscriversi e sovrascriversi, alla gestualità con la quale crea le sue storie e ne da anima.  
+**Sono sempre stata affascinata dalla capacità dei gesti delle mani di esprimere emozioni come rabbia, compassione, e amore… Proprio come nella danza, questi movimenti creano emozioni che rivestono un ruolo importante nella creazione.**  
+Tutti i suoi spettacoli sono eventi unici che trascinano il pubblico nell’esperienza e lo incantano con il processo creativo che emerge davanti ai loro occhi. Avviene qualcosa di affascinante in tutti i suoi spettacoli: le persone si emozionano molto e spesso hanno anche le lacrime agli occhi.  
+Ogni spettacolo è unico nel suo genere, in genere il committente da a Ilana un argomento che lei esprime attraverso la sua tecnica, spesso unita a musica narrativa ed eventuali luci.
+http://sandfantasy.com
+  
+<img src="https://github.com/fabriziodedonatis/archive/blob/master/fabriziodedonatis/MakingVisible/Integrazione Progetto/Case Study/img/sandart1.gif" alt="alt text" width="100%">  
+<img src="https://github.com/fabriziodedonatis/archive/blob/master/fabriziodedonatis/MakingVisible/Integrazione Progetto/Case Study/img/About collage3.webp" alt="alt text" width="100%">  
