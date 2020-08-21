@@ -30,7 +30,7 @@ Il Cyposium è stato organizzato da un collettivo di artisti e ricercatori che l
   
 https://www.cyposium.net/  
 https://transmediale.de/content/cyposium  
-Qui sotto il libro su ISSUU  
+Qui sotto il libro su ISSUU:  
 https://issuu.com/linkeditions/docs/abrahams_jamieson_cyposium_the_book  
   
 __ 7/2012__  
@@ -39,9 +39,14 @@ Il CyPosium esplora la Cyberformance: ovvero eventi live che hanno luogo su siti
 Maria Chatzichristodoulou : Cyberformance? Performance di rete o digitale? Cyberteatro? Teatro virtuale? … o tutto questo appena detto? [..] ?  
 - “Digital has become a loose and generic term [..] and the term ‘performance’ has acquired wide-ranging applications and different nuances (Dixon) [..]” (Steve Dixon with Barry Smith, Digital Performance: A History of New Media in Theater, Dance Performance Art and Installation Cambridge, MA, MIT Press:2007)  
   
-## Cybertheater  
+#### Cybertheater  
   
 __Lev Nusberg__ il precursore di Dvizjenije, descrive il Cybertheater come “modello della relazione tra Macchina e Uomo, una visione simbiotica tra uomo e macchina.
 [p.30-31]  
+
+### WATERWHEEL  
+Waterwheel è una piattaforma interattiva e collaborativa per la condivisione di media, conoscenze, idee, spettacoli e presentazioni sull'acqua o ispirati. È libero da usare per la consapevolezza, la celebrazione, la cura e l'accessibilità dell'acqua ovunque. È possibile ospitare o guardare eventi con il tocco e sfogliare e caricare file multimediali nel Media Center.  
+http://water-wheel.net/  
+
   
 
