@@ -31,7 +31,7 @@ https://vimeo.com/5233789
 http://www.flickr.com/photos/40243214@N05/sets/72157621047564023/  
   
 ### GHOST POLE PROPAGATION  
-Golan Levin - 2007  
+*Golan Levin - 2007*  
 è un'installazione inizialmente pensata per la video proiezione all'interno delle cantine di un castello del XIII secolo. Il progetto è stato poi rivisto e ampliato per spazi più grandi coadiuvato dall'utilizzo di laser per la rappresentazione grafica.  
 Una telecamera ad infrarossi riprende le persone che vi si espongono in un'area circoscritta. Un sistema poi pratica la "skeletonization", ovvero la rappresentazione degli assi mediani dei corpi ripresi e ne proietta le silhouette dei partecipanti. Questo algoritmo viene unito al sistema OCR (Optical Character Recognition) utilizzato per il riconoscimento e conversione della scrittura manuale in lettere informatiche, questo connubio crea particolari elementi di astrazione. Tutta la performance è calcolata in tempo reale delle diverse sagome in movimento dei partecipanti o eventuali passanti.  
 Vengono conservate tutte le gestualità del visitatore/partecipante e allo stess23:42 21/08/2020o tempo ne estrae il carattere proto-simbolico, senza tempo ed intenso. Il risultato *è un porre l'attenzione sulla comunicazione universale di presenza, atteggiamento e gesto*.  
