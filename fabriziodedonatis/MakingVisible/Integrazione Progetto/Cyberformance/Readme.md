@@ -43,7 +43,18 @@ Maria Chatzichristodoulou : Cyberformance? Performance di rete o digitale? Cyber
   
 __Lev Nusberg__ il precursore di Dvizjenije, descrive il Cybertheater come “modello della relazione tra Macchina e Uomo, una visione simbiotica tra uomo e macchina.
 [p.30-31]  
-
+  
+### OPEN FRAMEWORKS  
+openFrameworks is an open source C++ toolkit designed to assist the creative process by providing a simple and intuitive framework for experimentation  
+- collaborativo  
+- semplice  
+- coerente e intuitivo  
+- cross-platform  
+- potente  
+- scalabile 
+- Do it with others (DIWO)  
+https://openframeworks.cc/about/  
+  
 ### WATERWHEEL  
 Waterwheel è una piattaforma interattiva e collaborativa per la condivisione di media, conoscenze, idee, spettacoli e presentazioni sull'acqua o ispirati. È libero da usare per la consapevolezza, la celebrazione, la cura e l'accessibilità dell'acqua ovunque. È possibile ospitare o guardare eventi con il tocco e sfogliare e caricare file multimediali nel Media Center.  
 http://water-wheel.net/  
