@@ -14,9 +14,9 @@ Più persone ci sono creano più dinamismo e interazione tra di loro.
 http://www.memo.tv/works/bodypaint/  
 http://www.memo.tv/info/  
 <img src="https://github.com/fabriziodedonatis/archive/blob/master/fabriziodedonatis/MakingVisible/Integrazione Progetto/Case Study/img/bodypaint3.jpg" alt="alt text" width="100%">  
-<img src="https://github.com/fabriziodedonatis/archive/blob/master/fabriziodedonatis/MakingVisible/Integrazione Progetto/Case Study/img/bodypaint3.jpg" alt="alt text" width="32%">
-<img src="https://github.com/fabriziodedonatis/archive/blob/master/fabriziodedonatis/MakingVisible/Integrazione Progetto/Case Study/img/bodypaint3.jpg" alt="alt text" width="32%">
-<img src="https://github.com/fabriziodedonatis/archive/blob/master/fabriziodedonatis/MakingVisible/Integrazione Progetto/Case Study/img/bodypaint3.jpg" alt="alt text" width="32%">  
+<img src="https://github.com/fabriziodedonatis/archive/blob/master/fabriziodedonatis/MakingVisible/Integrazione Progetto/Case Study/img/bodypaint1.jpg" alt="alt text" width="32%">
+<img src="https://github.com/fabriziodedonatis/archive/blob/master/fabriziodedonatis/MakingVisible/Integrazione Progetto/Case Study/img/bodypaint2.jpg" alt="alt text" width="32%">
+<img src="https://github.com/fabriziodedonatis/archive/blob/master/fabriziodedonatis/MakingVisible/Integrazione Progetto/Case Study/img/bodypaint4.jpg" alt="alt text" width="32%">  
   
 ### iQ FONT 
 **toyota**  
