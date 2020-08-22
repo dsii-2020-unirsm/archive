@@ -28,8 +28,8 @@ http://www.flickr.com/photos/40243214@N05/sets/72157621047564023/
 https://plmd.me/  
   
 <img src="https://github.com/fabriziodedonatis/archive/blob/master/fabriziodedonatis/MakingVisible/Integrazione Progetto/Case Study/img/iQ1.jpg" alt="alt text" width="100%">  
-<img src="https://github.com/fabriziodedonatis/archive/blob/master/fabriziodedonatis/MakingVisible/Integrazione Progetto/Case Study/img/iQ1.jpg" alt="alt text" width="49%">
-<img src="https://github.com/fabriziodedonatis/archive/blob/master/fabriziodedonatis/MakingVisible/Integrazione Progetto/Case Study/img/iQ1.jpg" alt="alt text" width="49%">  
+<img src="https://github.com/fabriziodedonatis/archive/blob/master/fabriziodedonatis/MakingVisible/Integrazione Progetto/Case Study/img/iQ2.jpg" alt="alt text" width="49%">
+<img src="https://github.com/fabriziodedonatis/archive/blob/master/fabriziodedonatis/MakingVisible/Integrazione Progetto/Case Study/img/iQ3.jpg" alt="alt text" width="49%">  
   
 ### GHOST POLE PROPAGATION  
 **Golan Levin - 2007**  
