@@ -23,5 +23,5 @@ Un esponente importante ne fu Pollok con l'*Action Painting*, un tipo di espress
 Rientra nelle avanguardie.  
 http://www.visual-arts-cork.com/definitions/gestural-painting.htm#definition  
 http://www.visual-arts-cork.com/history-of-art/action-painting.htm  
-*Pollok*sx, *Georges Mathieu*dx.
+*Pollok*sx, *Georges Mathieu*dx.  
 <img src="https://github.com/fabriziodedonatis/archive/blob/master/fabriziodedonatis/MakingVisible/Integrazione Progetto/Miscelanea/img/pollok.jpg" alt="alt text" width="49%"> <img src="https://github.com/fabriziodedonatis/archive/blob/master/fabriziodedonatis/MakingVisible/Integrazione Progetto/Miscelanea/img/Georges Mathieu.jpg" alt="alt text" width="49%">
