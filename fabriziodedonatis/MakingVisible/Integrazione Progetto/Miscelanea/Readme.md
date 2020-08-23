@@ -8,7 +8,7 @@ In questo articolo si pone lo sguardo su tecnologie già esistenti da numerosi a
 https://www.avinteractive.com/news/displays/will-gesture-control-fit-future-av-01-06-2020/  
 <img src="https://github.com/fabriziodedonatis/archive/blob/master/fabriziodedonatis/MakingVisible/Integrazione Progetto/Miscelanea/img/gesture-control-AV.jpg" alt="alt text" width="100%">  
   
-### TMEMA, REALTA’ AMPLIATA E GESTI INTERATTIVI
+### TMEMA, REALTÀ AMPLIATA E GESTI INTERATTIVI
 **intervista a Zach e Golan** - Digicult -  
 *Golan:* Il concetto di interazione è sicuramente centrale nel nostro lavoro, poiché esso è il cuore che definisce il carattere dell’energia che fluisce tra gli strumenti che noi creiamo e il pubblico che li utilizza. Mi piace moltissimo una certa definizione di Myron Krueger, uno dei primi a creare lavori artistici interattivi negli anni ’70, quando dice che “il responso è il medium”. Il che significa in altre parole che non sono importanti le immagini o i suoni di per se, ma soprattutto il modo in cui questi fattori dialogano con una persona in un contesto interattivo.  
 *Zach:* Un punto molto importante circa l’interazione, quasi elementare, è anche questo: deve essere divertente prima di tutto per noi. Se il progetto è divertente per chi lo crea, allora questo spirito sarà sicuramente convogliato al pubblico al momento della performance. Affinché un’interazione sia divertente deve essere espressiva e malleabile e capace di coinvolgerti in modo unico e assolutamente peculiare.  
