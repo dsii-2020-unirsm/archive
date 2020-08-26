@@ -15,6 +15,7 @@ Come fa una persona non vedente, che cerca di muoversi autonomamente, a osservar
 Il progetto intende riflettere sul come poter rendere l’orientamento nel mondo per i non vedenti più agevole e meno traumatico. Si tratta di un progetto atemporale, ma necessario dato il periodo che stiamo vivendo e le disposizioni di sicurezza che tutti siamo tenuti ad osservare. Potrebbe essere un braccialetto che vibra se rileva oggetti nelle vicinanze e suona se c’è una persona a una distanza inferiore al metro? O un oggetto intelligente da legare al bastone bianco?
 #### Tecnologie
 - Object detection Coco SSD di ml5 per rilevare persone e oggetti
-- Arduino, sensore a ultrasuoni che misura la distanza
+- Arduino 
+- Sensore a ultrasuoni che misura la distanza
 - Buzzer che suona in maniera intermittente se si è al limite consentito, in maniera continua ed insistente se la distanza diminuisce sempre di più
 - P5.js comunica con Arduino tramite libreria p5.serialport
