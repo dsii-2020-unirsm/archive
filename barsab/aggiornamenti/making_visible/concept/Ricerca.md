@@ -9,6 +9,11 @@ Dispositivo elettronico che controlla che vengano rispettate le giuste distanze 
 la distanza interpersonale attraverso vibrazioni; la versione plus permette di gestire ingressi, uscite, numero di persone, fasce orarie e di rilevare temperatura corporea e
 riconoscere l'utilizzo della mascherina.    
 ![Imgur](https://i.imgur.com/dSnnYNU.png)  
+#### RNIB
+La ricerca dell'RNIB (Royal National Institute of Blind People) mostra come l'allontanamento sociale sia quasi impossibile per persone cieche e ipovedenti.
+Ulteriore stress e preoccupazione viene causato dalla nuova segnaletica inaccessibile: l'ente, infatti, chiede al governo di assicurarsi che tutti gli aggiornamenti sul coronavirus siano facilmente disponibili in formati leggibili da persone non vedenti e ipovedenti e che app e test siano accessibili.  
+*"È molto difficile tenersi a 2 metri di distanza dalle persone quando non la si può misurare… 
+Non riesco a vedere i segni sul pavimento… Sono finito in lacrime. Non è colpa mia se non riesco a vedere i segni sul pavimento."*
 #### Progetto fotografico di Stefano Sbrulli sui non vedenti e il distanziamento sociale  [+](https://www.bbc.com/news/in-pictures-53403780)  
 Il fotografo italiano Stefano Sbrulli ha documentato, attraverso fotografie e brevi ma toccanti narrazioni, le difficoltà dei non vedenti nell'adattarsi alle restrizioni imposte dall'emergenza coronavirus.
 - **Simona, 35, Roma**  
