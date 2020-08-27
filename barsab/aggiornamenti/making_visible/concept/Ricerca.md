@@ -17,7 +17,7 @@ display anaglittico o tattile in grado di connettersi ad un computer o di funzio
 ![Imgur](https://i.imgur.com/VMowShZ.jpg)
 #### Progetto fotografico di Stefano Sbrulli sui non vedenti e il distanziamento sociale  [+](https://www.bbc.com/news/in-pictures-53403780)  
 Il fotografo italiano Stefano Sbrulli ha documentato, attraverso fotografie e brevi ma toccanti narrazioni, le difficoltà dei non vedenti nell'adattarsi alle restrizioni imposte dall'emergenza coronavirus.
-- **Simona, 35, Roma**
+- **Simona, 35, Roma**  
 ![Imgur](https://i.imgur.com/fmSrYXE.jpg)  
 Simona ha sempre condotto una vita indipendente; usciva, andava a lavorare e incontrava gli amici con facilità.  
 Tuttavia, non va a fare una passeggiata da mesi.  
