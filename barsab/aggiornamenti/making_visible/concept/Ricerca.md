@@ -28,7 +28,11 @@ Lucilla è un'insegnante di storia dell'arte e una scultrice. Ha perso la vista 
 Ettore è ipovedente ed è totalmente autonomo; lavora e viaggia molto, occupandosi di servizi di assistenza a persone con la propria disabilità.  
 Durante il blocco, a parte una leggera sensazione di isolamento, ha affrontato bene.  
 Ora sta lottando quando fa la spesa: ha bisogno di tempo per capire cosa sta comprando, leggere le date di scadenza e i prezzi.  
-Ma teme l'intolleranza degli altri e sente la pressione di fare le cose più velocemente. La sua maschera facciale appanna gli occhiali e l'uso dei guanti complica le cose.
+Ma teme l'intolleranza degli altri e sente la pressione di fare le cose più velocemente. La sua maschera facciale appanna gli occhiali e l'uso dei guanti complica le cose.  
+#### Imbracatura che collega un cieco alla sua guida vedente
+- **Ramble Tag** [+](https://rambletag.co.uk/)  
+Supporto ad anello progettato per essere indossato sul braccio dalla persona che accompagna un non vedente.  
+![Imgur](https://i.imgur.com/vVTQ0bI.png)
 #### Progetto che rende concreta la possibilità per ciechi ed ipovedenti di poter accedere al mondo dell'informazione 
 - **ANAGRAPHS** [+](https://cordis.europa.eu/project/id/262058/it)  
 Interessante progetto di ricerca, finanziato dall'UE, che permette ai ciechi e/o ipovedenti di accedere alle informazioni attraverso un 
