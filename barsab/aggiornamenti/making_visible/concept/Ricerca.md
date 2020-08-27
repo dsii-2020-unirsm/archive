@@ -12,6 +12,10 @@ riconoscere l'utilizzo della mascherina.
 #### RNIB
 La ricerca dell'RNIB (Royal National Institute of Blind People) mostra come l'allontanamento sociale sia quasi impossibile per persone cieche e ipovedenti.
 Ulteriore stress e preoccupazione viene causato dalla nuova segnaletica inaccessibile: l'ente, infatti, chiede al governo di assicurarsi che tutti gli aggiornamenti sul coronavirus siano facilmente disponibili in formati leggibili da persone non vedenti e ipovedenti e che app e test siano accessibili.  
+Inoltre, le persone con disabilità visiva non sono in grado di tenersi a due metri di distanza dalle altre persone e i cani guida non sono addestrati a tal proposito.
+Di conseguenza, i passanti, vedenti, spesso non sono così attenti da osservare le dovute distanze e questo crea frustrazione, nervosismo e disagio tale da indurre i non vedenti
+a non uscire di casa.  
+*"Sento di non dover uscire perché non posso allontanarmi dalla società per strada a causa della mia cecità."*  
 *"È molto difficile tenersi a 2 metri di distanza dalle persone quando non la si può misurare… 
 Non riesco a vedere i segni sul pavimento… Sono finito in lacrime. Non è colpa mia se non riesco a vedere i segni sul pavimento."*
 #### Progetto fotografico di Stefano Sbrulli sui non vedenti e il distanziamento sociale  [+](https://www.bbc.com/news/in-pictures-53403780)  
