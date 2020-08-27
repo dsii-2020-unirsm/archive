@@ -8,13 +8,7 @@ nella quale l'individuo ha, o dovrebbe avere, sostanziale diritto di parità ris
 Dispositivo elettronico che controlla che vengano rispettate le giuste distanze tra persone ed evitati assembramenti. Disponibile in due versioni *light* e *plus*: light avvisa se diminuisce
 la distanza interpersonale attraverso vibrazioni; la versione plus permette di gestire ingressi, uscite, numero di persone, fasce orarie e di rilevare temperatura corporea e
 riconoscere l'utilizzo della mascherina.    
-![Imgur](https://i.imgur.com/dSnnYNU.png)
-#### Progetto che rende concreta la possibilità per ciechi ed ipovedenti di poter accedere al mondo dell'informazione 
-- **ANAGRAPHS** [+](https://cordis.europa.eu/project/id/262058/it)  
-Interessante progetto di ricerca, finanziato dall'UE, che permette ai ciechi e/o ipovedenti di accedere alle informazioni attraverso un 
-display anaglittico o tattile in grado di connettersi ad un computer o di funzionare in modo indipendente come lettore digitale di libri basato sul sistema Braille.
-![Imgur](https://i.imgur.com/J1cNS2s.jpg)
-![Imgur](https://i.imgur.com/VMowShZ.jpg)
+![Imgur](https://i.imgur.com/dSnnYNU.png)  
 #### Progetto fotografico di Stefano Sbrulli sui non vedenti e il distanziamento sociale  [+](https://www.bbc.com/news/in-pictures-53403780)  
 Il fotografo italiano Stefano Sbrulli ha documentato, attraverso fotografie e brevi ma toccanti narrazioni, le difficoltà dei non vedenti nell'adattarsi alle restrizioni imposte dall'emergenza coronavirus.
 - **Simona, 35, Roma**  
@@ -35,3 +29,10 @@ Ettore è ipovedente ed è totalmente autonomo; lavora e viaggia molto, occupand
 Durante il blocco, a parte una leggera sensazione di isolamento, ha affrontato bene.  
 Ora sta lottando quando fa la spesa: ha bisogno di tempo per capire cosa sta comprando, leggere le date di scadenza e i prezzi.  
 Ma teme l'intolleranza degli altri e sente la pressione di fare le cose più velocemente. La sua maschera facciale appanna gli occhiali e l'uso dei guanti complica le cose.
+#### Progetto che rende concreta la possibilità per ciechi ed ipovedenti di poter accedere al mondo dell'informazione 
+- **ANAGRAPHS** [+](https://cordis.europa.eu/project/id/262058/it)  
+Interessante progetto di ricerca, finanziato dall'UE, che permette ai ciechi e/o ipovedenti di accedere alle informazioni attraverso un 
+display anaglittico o tattile in grado di connettersi ad un computer o di funzionare in modo indipendente come lettore digitale di libri basato sul sistema Braille.
+![Imgur](https://i.imgur.com/J1cNS2s.jpg)
+![Imgur](https://i.imgur.com/VMowShZ.jpg)
+
