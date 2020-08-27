@@ -15,6 +15,23 @@ Interessante progetto di ricerca, finanziato dall'UE, che permette ai ciechi e/o
 display anaglittico o tattile in grado di connettersi ad un computer o di funzionare in modo indipendente come lettore digitale di libri basato sul sistema Braille.
 ![Imgur](https://i.imgur.com/J1cNS2s.jpg)
 ![Imgur](https://i.imgur.com/VMowShZ.jpg)
-#### Progetto fotografico di Stefano Sbrulli sui non vedenti e il distanziamento sociale  
+#### Progetto fotografico di Stefano Sbrulli sui non vedenti e il distanziamento sociale  [+](https://www.bbc.com/news/in-pictures-53403780)  
 Il fotografo italiano Stefano Sbrulli ha documentato, attraverso fotografie e brevi ma toccanti narrazioni, le difficoltà dei non vedenti nell'adattarsi alle restrizioni imposte dall'emergenza coronavirus.
--
+- **Simona, 35, Roma**
+![Imgur](https://i.imgur.com/fmSrYXE.jpg)  
+Simona ha sempre condotto una vita indipendente; usciva, andava a lavorare e incontrava gli amici con facilità.  
+Tuttavia, non va a fare una passeggiata da mesi.  
+"Devo dire che l'idea di uscire di casa mi dà un po' di ansia", dice.  
+"Abito a Lucio Sestio e uso spesso la metropolitana, ma ora so che le uscite e gli ingressi sono cambiati per facilitare l'allontanamento delle persone, [quindi] ho paura di sentirmi persa.  
+"Non esiste nemmeno un percorso tattile che possa aiutarmi a mantenere l'orientamento".  
+- **Lucilla, 55, Roma**  
+![Imgur](https://i.imgur.com/BcP7Ws5.jpg)  
+Lucilla è un'insegnante di storia dell'arte e una scultrice. Ha perso la vista a causa di una malattia degenerativa.  
+"Spesso conto i passi per raggiungere un luogo, [quindi] se cambi qualcosa per strada, mi perdo.  
+"Non sono ancora andato a fare la spesa. Di solito prendo la metro C ma a San Giovanni hanno cambiato tutto, e questo limita le mie uscite e rende più difficile".  
+- **Ettore, 50 anni, Roma**  
+![Imgur](https://i.imgur.com/dsAEV1d.jpg)  
+Ettore è ipovedente ed è totalmente autonomo; lavora e viaggia molto, occupandosi di servizi di assistenza a persone con la propria disabilità.  
+Durante il blocco, a parte una leggera sensazione di isolamento, ha affrontato bene.  
+Ora sta lottando quando fa la spesa: ha bisogno di tempo per capire cosa sta comprando, leggere le date di scadenza e i prezzi.  
+Ma teme l'intolleranza degli altri e sente la pressione di fare le cose più velocemente. La sua maschera facciale appanna gli occhiali e l'uso dei guanti complica le cose.
