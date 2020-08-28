@@ -10,7 +10,7 @@ la distanza interpersonale attraverso vibrazioni; la versione plus permette di g
 riconoscere l'utilizzo della mascherina.    
 ![Imgur](https://i.imgur.com/dSnnYNU.png)  
 #### RNIB
-La ricerca dell'RNIB (Royal National Institute of Blind People) mostra come l'allontanamento sociale sia quasi impossibile per persone cieche e ipovedenti.
+La ricerca dell'RNIB (Royal National Institute of Blind People) mostra come l'allontanamento sociale sia quasi impossibile per persone cieche e ipovedenti.[1]
 Ulteriore stress e preoccupazione viene causato dalla nuova segnaletica inaccessibile: l'ente, infatti, chiede al governo di assicurarsi che tutti gli aggiornamenti sul coronavirus siano facilmente disponibili in formati leggibili da persone non vedenti e ipovedenti e che app e test siano accessibili.  
 Inoltre, le persone con disabilità visiva non sono in grado di tenersi a due metri di distanza dalle altre persone e i cani guida non sono addestrati a tal proposito.
 Di conseguenza, i passanti, vedenti, spesso non sono così attenti da osservare le dovute distanze e questo crea frustrazione, nervosismo e disagio tale da indurre i non vedenti
@@ -48,4 +48,8 @@ Interessante progetto di ricerca, finanziato dall'UE, che permette ai ciechi e/o
 display anaglittico o tattile in grado di connettersi ad un computer o di funzionare in modo indipendente come lettore digitale di libri basato sul sistema Braille.
 ![Imgur](https://i.imgur.com/J1cNS2s.jpg)
 ![Imgur](https://i.imgur.com/VMowShZ.jpg)
-
+#### NOTE
+[1] Non vedenti e ipovedenti: qual è la differenza? L'IBVI (Industries for the Blind and Visually Impaired) fa chiarezza: per disabilità visiva si intende *"una diminuzione della capacità di vedere in una certa misura che causa problemi non risolvibili con mezzi usuali, come gli occhiali"*; la cecità è *"lo stato di incapacità di vedere a causa di lesioni, malattie o condizioni genetiche"*.   
+  
+**Una persona completamente cieca con gli occhi aperti vede la stessa cosa di una persona vedente con gli occhi chiusi?**   
+La maggior parte delle persone nate cieche dice di non vedere nulla. Tuttavia, le persone che hanno avuto una vista prima di diventare cieche affermano di vedere di solito forme nere e talvolta sbiadite, lampi di luce o colore e sperimentano allucinazioni vivide.
