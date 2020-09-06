@@ -11,7 +11,26 @@ Viene dedotto da Valle, seguendo le analisi Montessoriane, che la tecnologia sot
 Per capire se e come l'odierna tecnologia, ben diversa da quella meccanica sulla quale M. si basava, possa esser valida e che in qualche modo non vada ad aggravare il già ormai invertito fenomeno dell'EFFETTO FLYNN, mi sono soffermato su alcuni estratti in cui M. sottolinea l'importanza del movimento ai fini cognitivi affermando che "un cervello che agisce è anche e innanzitutto un cervello che comprende" (Giacomo Rizzolati" "So quel che fai. Il cervello che agisce e i neuroni ), e che inoltre "il bambino impara attraverso la sua propria attività, e se gli viene data la possibilità di imparare *attivamente* sviluppa il suo carattere e la sua personalità". M. pone la lente su come il movimento e capacità intellettiva vadano di pari passo, criticando come il movimento all'interno delle scuole sia stato ridotto all'educazione fisica e non al potenziale intellettivo del gesto. Far muovere il bambino e portarlo a coordinare i movimenti significa stimolarlo a muovere le rappresentazioni mentali, cioè la capacità di manipolare figure astratte nella mente.  
 Alvin Toffler si esprime dicendo che "gli analfabeti del ventunesimo secolo non saranno quelli che non saranno in grado di leggere e scrivere, ma quelli che non saranno in grado di imparare, disimparare e imparare di nuovo".  
 Come possiamo vedere l'emergenza sanitaria da covid-19 mette fortemente a repentaglio la possibilità di movimento nell'ambito della scuola primaria, bisogna perciò trovare il modo per "usare la tecnologia per cercare di muovere le mappe mentali invece che insegnarli a disegnare sul tablet o produrre chilometri di scarabocchi artistici" (M.Valle) e a prescindere da questo rischio, analizzando come la tecnologia abbia fortemente modificato il nostro modo di vivere, potrebbe comunque essere utile accedere a queste tecnologie nella prima età utile in modo da renderle familiari in età fortemente plastica scongiurando errati usi della tecnologia in età matura, difficoltà incontrata invece dalle precedenti generazioni di genitori.  
-Il filosofo Eric Hoffer affermava infatti: “In un’epoca di cambiamenti drastici quelli che apprendono erediteranno il futuro”, motivo per cui Montessori individua nel bambino e bambina il futura *genitore dell'uomo*.
+Il filosofo Eric Hoffer affermava infatti: “In un’epoca di cambiamenti drastici quelli che apprendono erediteranno il futuro”, motivo per cui Montessori individua nel bambino e bambina il futura *genitore dell'uomo*.  
+  
+LINK ricerche  
+- https://www.youtube.com/watch?v=MBf3UvE-HDo&feature=youtu.be  
+- https://www.agendadigitale.eu/scuola-digitale/lim-come-funziona-e-i-vantaggi-ma-molte-classi-non-ce-lhanno-ancora/  
+- https://nuovoeutile.it/creativita-e-psiche-freud-jung-arieti-hillman/  
+- http://www.maristi.it/ebook/fidae2014-tablet_a_scuola.pdf  
+- https://www.youtube.com/watch?v=QUk9HnKtmq4&feature=youtu.be  
+- https://www.istruzione.it/rientriamoascuola/domandeerisposte.html  
+- https://www.prontoprofessionista.it/articoli/societa-e-scuola-ai-tempi-del-coronavirus-relazioni-senza-corpo.html  
+- https://www.studenti.it/rientro-a-scuola-2020-coronavirus-back-to-school-settembre-regole-miur.html  
+- https://www.medaarch.com/maria-montessori-linfluenza-del-metodo-montessoriano-sulluso-didattico-delle-nuove-tecnologie/34531  
+- https://www.orizzontescuola.it/wp-content/uploads/2020/06/Piano_rientro.pdf  
+- https://www.orizzontescuola.it/apertura-scuola-a-settembre-2020-ecco-le-linee-guida-definitive-pdf/  
+- http://www.percorsipercrescere.it/pedagogia-montessori-e-nuove-tecnologie/  
+- https://ic-urbanijesi.edu.it/wp-content/uploads/sites/20/2020/07/SEGNATURA_1592335619_All-
+4DVR_Valutazione_Rischio_Coronavirus_RevGiugno-2.pdf  
+- https://www.miur.gov.it/documents/20182/2467413/Protocollo_sicurezza.pdf/292ee17f-75cd-
+3f43-82e0-373d69ece80f?t=1596709448986  
+- http://www.percorsipercrescere.it/pedagogia-montessori-e-nuove-tecnologie/  
   
 #### Osservazione bambini nella scuola primaria.  
   
@@ -21,5 +40,6 @@ Il filosofo Eric Hoffer affermava infatti: “In un’epoca di cambiamenti drast
 La LIM è un dispositivo che consente di scrivere e disegnare come su una normale lavagna di ardesia, ma utilizzando dei pennarelli virtualizzati. Virtualizzati perchè la lavagna è collegata ad un PC ed il pennarello fisico può assumere diversi significati di colore e tratto virtualmente applicato. Si può toccare e interagire con gli oggetti toccandoli e spostandoli sulla superficie, può gestire interamente l'interfaccia di un PC (al quale è collegata). Per l'utilizzo corretto della LIM il corpo docenti è opportunamente formato.  
   
 <img src="https://github.com/fabriziodedonatis/archive/blob/master/fabriziodedonatis/MakingVisible/Integrazione Progetto/Scuola Primaria/img/LIM1.jpg" alt="alt text" width="49%"> <img src="https://github.com/fabriziodedonatis/archive/blob/master/fabriziodedonatis/MakingVisible/Integrazione Progetto/Scuola Primaria/img/LIM2.jpg" alt="alt text" width="49%">
+
 
 
