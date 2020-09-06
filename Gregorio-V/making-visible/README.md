@@ -1,3 +1,3 @@
-##Making invisible visible##
+## Making invisible visible ##
 
-Aggiornamenti a partire da Giugno 2020
+Terminato in luglio 2020
